@@ -1,0 +1,2738 @@
+[
+    {
+        "booklet_id": "Q_0001",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "anemia_during_pregnancy.md",
+        "printed_booklet_question": "Mera hemoglobin 7 point hai, khoon badhane ke liye kya karna chahiye?",
+        "lookup_variants": [
+            "Mera Khoon 7 point hain khoon badhane ke liye kya karna hai",
+            "hb 7 hai blood increase kaise karu",
+            "khoon ki kami hai 7gm hi hai kya khau",
+            "7 point khoon h kaise badhega"
+        ],
+        "frequencelevel": [
+            "High Frequency"
+        ],
+        "criticalitylevel": [
+            "High Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0002",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "anemia_during_pregnancy.md",
+        "printed_booklet_question": "Pregnancy mein khoon badhane ke liye kya khana zaroori hai?",
+        "lookup_variants": [
+            "Khoon badhane k liye kya khana zaruri hai",
+            "pregnancy me blood badhane ke liye diet",
+            "kya khane se khoon badhta hai",
+            "blood kam hai kya khana chahiye"
+        ],
+        "frequencelevel": [
+            "High Frequency"
+        ],
+        "criticalitylevel": [
+            "High Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0003",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "pregnancy_nutrition_and_diet.md",
+        "printed_booklet_question": "Pregnancy mein bacche ka vajan badhane ke liye kya khana chahiye?",
+        "lookup_variants": [
+            "bache ka wajah badhane k liye kya khilana chaiye",
+            "baby ka weight gain k liye kya khau",
+            "garbh me shishu ka vajan kaise badhaye",
+            "bacche ka vajan badhane wala food"
+        ],
+        "frequencelevel": [
+            "High Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0004",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "pregnancy_nutrition_and_diet.md",
+        "printed_booklet_question": "Pregnancy mein kya khana chahiye aur kya nahi khana chahiye?",
+        "lookup_variants": [
+            "Pregnancy me kya khana chahiye",
+            "pregancny me konsi sabji khau or konsi sabji nahi",
+            "kya khaye kya na khaye pregnancy me",
+            "pregnancy diet me kya include kare"
+        ],
+        "frequencelevel": [
+            "High Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0005",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "immunization_schedule_and_basics.md",
+        "printed_booklet_question": "Pregnancy mein aur bacche ke liye teekakaran kyu zaroori hai?",
+        "lookup_variants": [
+            "Tikkaran kyu jaruri hai",
+            "vaccine lagwana kyu important hai",
+            "teeka kyu lagate hain",
+            "agar tika na lagwaye to kya hoga"
+        ],
+        "frequencelevel": [
+            "High Frequency"
+        ],
+        "criticalitylevel": [
+            "High Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0006",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "immunization_schedule_and_basics.md",
+        "printed_booklet_question": "Bacche ko teeke kab-kab lagte hain?",
+        "lookup_variants": [
+            "Bche ko tika kab kab lgta hai",
+            "baby ka vaccination chart kya hai",
+            "bache ke tike ka schedule",
+            "konsa tika kis month me lagega"
+        ],
+        "frequencelevel": [
+            "High Frequency"
+        ],
+        "criticalitylevel": [
+            "High Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0007",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "anemia_during_pregnancy.md",
+        "printed_booklet_question": "Calcium ki dawai kab leni chahiye aur kya ise iron ki dawai ke saath le sakti hoon?",
+        "lookup_variants": [
+            "calcium ki dawai kab leni chahiye or kya isse iron wali dawai k sath le sakti hu?",
+            "iron aur calcium tablet ek sath kha sakte hai?",
+            "calcium iron goli kab khaye",
+            "dono dawai me kitna gap hona chahiye"
+        ],
+        "frequencelevel": [
+            "High Frequency"
+        ],
+        "criticalitylevel": [
+            "High Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0008",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "pregnancy_care_and_checkups.md",
+        "printed_booklet_question": "Pregnancy mein kamar mein dard ho to kya karoon?",
+        "lookup_variants": [
+            "kamar me dard hai kya karu",
+            "pregnancy me back pain ka solution",
+            "peeth me dard ho raha hai kya kare",
+            "backache in pregnancy"
+        ],
+        "frequencelevel": [
+            "High Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0009",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "pregnancy_care_and_checkups.md",
+        "printed_booklet_question": "Pregnancy mein pet ke nichle hisse mein dard kyun hota hai?",
+        "lookup_variants": [
+            "pregnancy me pet k nichle hisse me dard kyun hota hai",
+            "lower abdomen pain kyu hota h",
+            "pet ke niche dard ka kya matlab hai",
+            "pedu me dard ho raha hai"
+        ],
+        "frequencelevel": [
+            "High Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0010",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "pregnancy_care_and_checkups.md",
+        "printed_booklet_question": "Acidity ho gayi hai to kya karna chahiye?",
+        "lookup_variants": [
+            "acidity ho gayi h toh kya karna chahiye",
+            "pet me jalan ho rahi hai",
+            "gas khatm karne ke liye kya kru",
+            "sine me jalan ka upay"
+        ],
+        "frequencelevel": [
+            "High Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0011",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "child_growth_and_malnutrition.md",
+        "printed_booklet_question": "Alag-alag mahino mein bacche ka vajan kitna hona chahiye?",
+        "lookup_variants": [
+            "bache ka wajan kitna hona chahiye",
+            "baby ka weight month by month kitna hona chahiye",
+            "5 months pregnancy may baby ka weight kitna Rehta Hai",
+            "7th month me kitna weight rehna chahiye baby ka"
+        ],
+        "frequencelevel": [
+            "High Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0012",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "childbirth_and_newborn_care.md",
+        "printed_booklet_question": "Normal delivery ke liye kya karein?",
+        "lookup_variants": [
+            "normal delivery k liye kya kare",
+            "kya khaye narmal dilwari ho aasani se",
+            "normal delivery ke tips",
+            "bacchedani ka muh khulne ke liye kya karna padta hai"
+        ],
+        "frequencelevel": [
+            "High Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0013",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "pregnancy_nutrition_and_diet.md",
+        "printed_booklet_question": "Pregnancy mein kaun sa fal khaoon aur kaun sa nahi?",
+        "lookup_variants": [
+            "pregancny me konsa fall khau or konsi nahi",
+            "pregnancy me kon se fruit khane chahiye",
+            "papita kha sakti hu kya",
+            "which fruits to avoid in pregnancy"
+        ],
+        "frequencelevel": [
+            "High Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0014",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "breastfeeding_guidance.md",
+        "printed_booklet_question": "Maa ko accha doodh aaye, iske liye kya karna hoga?",
+        "lookup_variants": [
+            "maa ko accha dudh ke liye karna hoga",
+            "breast milk badhane ke liye kya khaye",
+            "doodh nahi aa raha hai kya karu",
+            "how to increase breastmilk supply"
+        ],
+        "frequencelevel": [
+            "High Frequency"
+        ],
+        "criticalitylevel": [
+            "High Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0015",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "pregnancy_care_and_checkups.md",
+        "printed_booklet_question": "Pair mein bahut soojan hai, kya karoon?",
+        "lookup_variants": [
+            "pair me bohot soojan hai",
+            "Mera 6 manth Chal Raha hai paro me sweling aaye to kya karna chahiye",
+            "haath pair me sujan kyu aati hai",
+            "swelling in feet during pregnancy"
+        ],
+        "frequencelevel": [
+            "High Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0016",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "pregnancy_care_and_checkups.md",
+        "printed_booklet_question": "Chakkar aa raha hai, kya karoon?",
+        "lookup_variants": [
+            "chakkar aa raha hai kya karu",
+            "dizziness feel ho raha hai",
+            "sar ghum raha hai kya kare",
+            "kamzori lag rahi hai chakkar aa raha hai"
+        ],
+        "frequencelevel": [
+            "High Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0017",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "childbirth_and_newborn_care.md",
+        "printed_booklet_question": "Caesarean delivery ke baad kya kha sakte hain aur kya nahi?",
+        "lookup_variants": [
+            "Caeser delivery k baad kya kha sakte hai or kya nahi kha sakte hai",
+            "c section ke baad diet",
+            "operation se delivery ke baad kya khana chahiye",
+            "cesarean ke baad parhez"
+        ],
+        "frequencelevel": [
+            "High Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0018",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "pregnancy_care_and_checkups.md",
+        "printed_booklet_question": "Mujhe abhi teesra mahina chalu hai, to mujhe kya-kya check-up karana zaroori hai?",
+        "lookup_variants": [
+            "Mujhe abhi 3 ra month chalu hai to mujhe kya kya check up karna jaruri hai",
+            "3rd month me konse test hote hai",
+            "teesre mahine ki janch",
+            "first trimester me kya checkup karaye"
+        ],
+        "frequencelevel": [
+            "High Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0019",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "pregnancy_care_and_checkups.md",
+        "printed_booklet_question": "Baccha kis mahine mein movement karna shuru karta hai?",
+        "lookup_variants": [
+            "bacha kis month me movement karta hai",
+            "baby ki movement kab feel hoti hai",
+            "pet me baccha kab ghumta hai",
+            "fetal movement kab start hoti hai"
+        ],
+        "frequencelevel": [
+            "High Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0020",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "anemia_during_pregnancy.md",
+        "printed_booklet_question": "Pregnancy mein khoon ka check-up karana kyun zaroori hai?",
+        "lookup_variants": [
+            "Pregnancy mai khun ka check up Krna q zaruri hai",
+            "blood test kyu important hai",
+            "hb test kyu karte hai",
+            "khoon ki janch kyu karwani chahiye"
+        ],
+        "frequencelevel": [
+            "High Frequency"
+        ],
+        "criticalitylevel": [
+            "High Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0021",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "pregnancy_care_and_checkups.md",
+        "printed_booklet_question": "Mera BP 180 badh gaya hai, admit ke liye bola hai, mujhe kya karna chahiye?",
+        "lookup_variants": [
+            "Mera bp 180 bad gaya hai admit ke liye bola hai",
+            "high bp hai pregnancy me kya karu",
+            "bp badh gaya hai",
+            "blood pressure 180 hai, kya ye khatarnak hai?"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "High Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0022",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "childbirth_and_newborn_care.md",
+        "printed_booklet_question": "Mera babu kamzor hai, use kaanch mein rakha hai, kya karoon?",
+        "lookup_variants": [
+            "Mera babu kamzor h use kanch m rakha h",
+            "baby nicu me hai",
+            "baccha kamzor paida hua hai",
+            "bacha incubator me hai kya kare"
+        ],
+        "frequencelevel": [
+            "Low Frequency"
+        ],
+        "criticalitylevel": [
+            "High Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0023",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "pregnancy_care_and_checkups.md",
+        "printed_booklet_question": "Doctor ne bataya hai ki bacche ka vajan kam hai aur paani ki kami hai, kya karoon?",
+        "lookup_variants": [
+            "Doctor se chaup karyi hu wajan kam hai aur pani ki kami bata raha gai",
+            "baby ka weight kam hai aur amniotic fluid bhi kam hai",
+            "paani ki kami hai pregnancy me",
+            "pet me pani kam ho gaya hai kya kare"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "High Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0024",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "childbirth_and_newborn_care.md",
+        "printed_booklet_question": "Mujhe delivery ka dard nahi aa raha hai, dard aaye iske liye kya karna chahiye?",
+        "lookup_variants": [
+            "Mujhe dard nahi aaa raha hai Dard aaye is ke liye kya karna chahiye",
+            "labour pain start nahi ho raha",
+            "delivery date nikal gayi par dard nahi",
+            "dard aane ke liye kya kare"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "High Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0025",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "immunization_rules_and_exceptions.md",
+        "printed_booklet_question": "Chautha mahina hai aur mujhe fever hai, to kya TT ka injection le sakti hoon?",
+        "lookup_variants": [
+            "Chauthe mahine hai mujhe mere fever hai to tt injection liye sakte kya",
+            "bukhar me tt ka tika lagwa sakte hai?",
+            "fever hone par pregnancy me injection le sakte hai",
+            "bimar hu to tika lagega ya nahi"
+        ],
+        "frequencelevel": [
+            "Low Frequency"
+        ],
+        "criticalitylevel": [
+            "High Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0026",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "breastfeeding_special_conditions.md",
+        "printed_booklet_question": "Agar bacche ke liye doodh kam ho jaye to kya karein?",
+        "lookup_variants": [
+            "Agar bacche ko dudh kam hojaye to kiya kare",
+            "mera doodh bacche ke liye pura nahi hota",
+            "low milk supply hai kya karu",
+            "baby ka pet nahi bharta"
+        ],
+        "frequencelevel": [
+            "High Frequency"
+        ],
+        "criticalitylevel": [
+            "High Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0027",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "pregnancy_care_and_checkups.md",
+        "printed_booklet_question": "Pregnancy mein safed paani (white discharge) kyun aata hai?",
+        "lookup_variants": [
+            "pregnancy me white discharge q aata hai",
+            "safed pani aana normal hai kya",
+            "white discharge problem in pregnancy",
+            "safed paani kyu girta hai"
+        ],
+        "frequencelevel": [
+            "High Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0028",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "childbirth_and_newborn_care.md",
+        "printed_booklet_question": "Hospital delivery ke liye kya-kya taiyari karni chahiye?",
+        "lookup_variants": [
+            "hospital delivery ki kya tayyari hai",
+            "delivery ke liye hospital bag me kya rakhe",
+            "what to pack for delivery",
+            "hospital jane se pehle kya taiyari kare"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0029",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "immunization_schedule_and_basics.md",
+        "printed_booklet_question": "Pehli pregnancy hai to mujhe TT ka injection kitni baar lagega?",
+        "lookup_variants": [
+            "Meri first pregnancy Hai to Mujhe didi ka injection kitne bar lagega",
+            "tt ke kitne injection lagte hai",
+            "pregnancy me tt ke dose kab kab lagte hai",
+            "first time pregnant hu, tt tika kitna lagega"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "High Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0030",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "anemia_during_pregnancy.md",
+        "printed_booklet_question": "Pregnancy mein khoon kitna point hona chahiye?",
+        "lookup_variants": [
+            "Preganancy me khoon kitna point hona chahiye",
+            "normal hemoglobin level kya hai pregnancy me",
+            "hb kitna hona chahiye",
+            "khoon kitna hona jaruri hai"
+        ],
+        "frequencelevel": [
+            "High Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0031",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "pregnancy_care_and_checkups.md",
+        "printed_booklet_question": "Abhi mujhe 1 mahina hua hai to mujhe khoon ki jaanch kab karani padegi?",
+        "lookup_variants": [
+            "Abhi mujhe 1 month hua hai to mujhe khoon janch kab karni padegi",
+            "1st month me blood test kab hota hai",
+            "pregnancy confirm hui hai, test kab karau",
+            "pehla blood test kab karwana chahiye"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0032",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "government_cash_benefit_schemes.md",
+        "printed_booklet_question": "Pregnancy mein mujhe kaun si sarkari yojana ka laabh milega?",
+        "lookup_variants": [
+            "pregnancy me mujhe konsi yojana ka labh milega",
+            "pregnant mahila ke liye sarkari scheme",
+            "government se kya help milti hai",
+            "sarkari paisa kaise milega"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0033",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "pregnancy_nutrition_and_diet.md",
+        "printed_booklet_question": "8 mahine ki pregnancy ke liye diet chart dijiye.",
+        "lookup_variants": [
+            "8 months pregnancy diet chart do",
+            "aathve mahine me kya khana chahiye",
+            "diet for 8th month pregnancy",
+            "8 mahine ka diet plan"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0034",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "immunization_schedule_and_basics.md",
+        "printed_booklet_question": "8 mahine ke bacche ko kaun sa injection lagega?",
+        "lookup_variants": [
+            "8 month ke baby ko injection lagega",
+            "8 mahine me konsa tika lagta hai",
+            "baby 8 months ka hai, vaccine konsa hai",
+            "aathve mahine ka teeka"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "High Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0035",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "complementary_feeding_6_to_24_months.md",
+        "printed_booklet_question": "Bacche ko Dast lagne par kya khilana chahiye?",
+        "lookup_variants": [
+            "Dast padhne per kya khayen",
+            "loose motion me baby ko kya de",
+            "dast me kya khilaye",
+            "baby ko dast ho rahe hai"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0036",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "pregnancy_care_and_checkups.md",
+        "printed_booklet_question": "Gala kyun jalta hai pregnancy mein?",
+        "lookup_variants": [
+            "Gla kahe liye jalta hai",
+            "gale me jalan ho rahi hai",
+            "heartburn kyu hota hai",
+            "acidity se gale me jalan"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0037",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "general_child_care_and_development.md",
+        "printed_booklet_question": "Meri bacchi raat ko soti nahi hai, kya karoon?",
+        "lookup_variants": [
+            "Meri rat ko soti nhi hai.....",
+            "baby raat bhar jagta hai",
+            "baccha sota nahi hai",
+            "how to make baby sleep at night"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0038",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "pregnancy_care_and_checkups.md",
+        "printed_booklet_question": "Mere haath ki ungliyon mein sujan aa rahi hai, 9th month hai, kya karoon?",
+        "lookup_variants": [
+            "Mai 9 month ki paregnet hu mare hath ki ungli me sujan ari h to ky karu",
+            "haatho me sujan hai 9 mahine me",
+            "swelling in fingers during pregnancy",
+            "ungliyo me sujan ka kya karan hai"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0039",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "pregnancy_nutrition_and_diet.md",
+        "printed_booklet_question": "Kya pregnancy mein thanda paani pi sakte hain?",
+        "lookup_variants": [
+            "Main Garmi Mein Thanda Pani Pi sakte hain",
+            "thanda pani peena safe hai kya",
+            "can i drink cold water during pregnancy",
+            "fridge ka pani pi sakti hu"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0040",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "anemia_during_pregnancy.md",
+        "printed_booklet_question": "Iron ki goli lene ka sahi samay kya hai?",
+        "lookup_variants": [
+            "iron ki tablet kab leni chahiye",
+            "ifa goli khane ka time",
+            "iron ki dawai subah le ya raat me",
+            "best time to take iron supplements"
+        ],
+        "frequencelevel": [
+            "High Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0041",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "pregnancy_care_and_checkups.md",
+        "printed_booklet_question": "Pregnancy mein sonography (ultrasound) kab aur kitni baar karani chahiye?",
+        "lookup_variants": [
+            "sonography kab karwani chahiye",
+            "ultrasound kitni baar hota hai",
+            "pregnancy me kitne ultrasound hote hai",
+            "pehla sonography kab karaye"
+        ],
+        "frequencelevel": [
+            "High Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0042",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "childbirth_and_newborn_care.md",
+        "printed_booklet_question": "C-section ke baad taankon ki dekhbhal kaise karein?",
+        "lookup_variants": [
+            "c section ke taanke ki care kaise kare",
+            "operation ke baad stitches ka dhyan kaise rakhe",
+            "taanke kab tak theek hote hai",
+            "cesarean stitches care"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0043",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "complementary_feeding_6_to_24_months.md",
+        "printed_booklet_question": "Bacche ko solid food (thos aahar) kab se shuru karna chahiye?",
+        "lookup_variants": [
+            "when to start solid food for baby",
+            "bacche ko khana khilana kab shuru kare",
+            "6 mahine ke bacche ko kya khilaye",
+            "pehli baar kya khilana chahiye"
+        ],
+        "frequencelevel": [
+            "High Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0044",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "vaccine_side_effects_and_reactions.md",
+        "printed_booklet_question": "Teeka lagne ke baad bukhar aa jaye to kya karein?",
+        "lookup_variants": [
+            "vaccine ke baad fever aaye to kya kare",
+            "injection ke baad bukhar ka ilaj",
+            "baby ko teeke ke baad bukhar hai",
+            "fever after vaccination"
+        ],
+        "frequencelevel": [
+            "High Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0045",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "vaccine_side_effects_and_reactions.md",
+        "printed_booklet_question": "Teeke wali jagah par soojan ya gaanth ban jaye to kya karein?",
+        "lookup_variants": [
+            "injection site par swelling hai",
+            "teeke ke baad gaanth ban gayi hai",
+            "sujan aur dard hai injection ke baad",
+            "lump after vaccine"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0046",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "child_growth_and_malnutrition.md",
+        "printed_booklet_question": "Mera baccha vajan nahi badha raha hai, kya karoon?",
+        "lookup_variants": [
+            "baby not gaining weight",
+            "bacche ka vajan nahi badh raha",
+            "mera baby bahut patla hai",
+            "vajan badhane ke liye kya karu"
+        ],
+        "frequencelevel": [
+            "High Frequency"
+        ],
+        "criticalitylevel": [
+            "High Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0047",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "pregnancy_care_and_checkups.md",
+        "printed_booklet_question": "Pregnancy ke dauran yatra (travel) karna surakshit hai?",
+        "lookup_variants": [
+            "can i travel during pregnancy",
+            "pregnancy me safar kar sakte hai",
+            "Pregnant Mahila ke liye bike per baithana safe hai",
+            "travel karna safe hai ya nahi"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0048",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "childbirth_and_newborn_care.md",
+        "printed_booklet_question": "Naye janme bacche (newborn) ki dekhbhal kaise karein?",
+        "lookup_variants": [
+            "newborn baby ki care kaise kare",
+            "naye bacche ki dekhbhal",
+            "first month baby care",
+            "abhi abhi baby hua hai, kaise dhyan rakhe"
+        ],
+        "frequencelevel": [
+            "High Frequency"
+        ],
+        "criticalitylevel": [
+            "High Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0049",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "childbirth_and_newborn_care.md",
+        "printed_booklet_question": "Bacche ki naabhi (umbilical cord) ki dekhbhal kaise karein?",
+        "lookup_variants": [
+            "umbilical cord care",
+            "bacche ki naal ki care kaise kare",
+            "nabhi kab tak girti hai",
+            "cord stump care"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0050",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "breastfeeding_special_conditions.md",
+        "printed_booklet_question": "Stanpan (breastfeeding) ke dauran nipple mein dard ho to kya karein?",
+        "lookup_variants": [
+            "sore nipples ka kya ilaj hai",
+            "breastfeeding me pain ho raha hai",
+            "nipple me crack aa gaye hai",
+            "doodh pilate waqt dard hota hai"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0051",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "pregnancy_care_and_checkups.md",
+        "printed_booklet_question": "Pregnancy mein bacche ki movement kam mehsoos ho to kya karna chahiye?",
+        "lookup_variants": [
+            "baby movement kam ho gayi hai",
+            "baccha kam ghum raha hai pet me",
+            "fetal movement is less what to do",
+            "movement feel nahi ho rahi"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "High Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0052",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "anemia_during_pregnancy.md",
+        "printed_booklet_question": "Anemia (khoon ki kami) hone par kya khatra ho sakta hai?",
+        "lookup_variants": [
+            "anemia se kya problem hoti hai",
+            "khoon ki kami ke nuksan",
+            "low hemoglobin is dangerous?",
+            "agar khoon kam ho to kya hoga"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "High Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0053",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "pregnancy_nutrition_and_diet.md",
+        "printed_booklet_question": "Pregnancy mein kitna vajan badhna normal hai?",
+        "lookup_variants": [
+            "weight gain in pregnancy kitna hona chahiye",
+            "pregnancy me kitna kilo vajan badhna chahiye",
+            "normal weight gain during pregnancy",
+            "mera vajan kitna badhna chahiye"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0054",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "immunization_rules_and_exceptions.md",
+        "printed_booklet_question": "Agar bacche ka koi teeka chhoot jaye to kya karein?",
+        "lookup_variants": [
+            "missed vaccine dose for baby what to do",
+            "bacche ka tika miss ho gaya",
+            "vaccine lagwana bhul gaye",
+            "delayed vaccination ka kya rule hai"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "High Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0055",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "general_child_care_and_development.md",
+        "printed_booklet_question": "Naye janme bacche ko kaise nehalana chahiye?",
+        "lookup_variants": [
+            "how to bathe a newborn baby",
+            "bacche ko kaise nahlaye",
+            "newborn ko kab se nehlana chahiye",
+            "baby bath kaise de"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0056",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "breastfeeding_guidance.md",
+        "printed_booklet_question": "Bacche ko doodh pilane ka sahi tarika kya hai?",
+        "lookup_variants": [
+            "how to breastfeed properly",
+            "doodh pilane ki sahi position",
+            "sahi se latch kaise karaye",
+            "breastfeeding ka tarika"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0057",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "childbirth_and_newborn_care.md",
+        "printed_booklet_question": "Delivery ke baad pehla gaadha doodh (colostrum) pilana kyun zaroori hai?",
+        "lookup_variants": [
+            "colostrum kyu important hai",
+            "pehla doodh pilana kyu jaruri hai",
+            "delivery ke baad pehla doodh",
+            "what is colostrum"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "High Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0058",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "complementary_feeding_6_to_24_months.md",
+        "printed_booklet_question": "6 mahine se 1 saal ke bacche ko din mein kitni baar khana khilana chahiye?",
+        "lookup_variants": [
+            "6 month baby ko kitni baar khilaye",
+            "1 saal ke bacche ka diet chart",
+            "how many times to feed baby solids",
+            "khana kitni baar dena hai"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0059",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "government_free_service_schemes.md",
+        "printed_booklet_question": "Sarkari hospital mein delivery aur check-up ke liye kya-kya suvidhayein free hain?",
+        "lookup_variants": [
+            "sarkari hospital me kya free hai",
+            "government hospital me free services",
+            "free delivery hoti hai kya",
+            "jssk scheme kya hai"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0060",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "pregnancy_care_and_checkups.md",
+        "printed_booklet_question": "Pregnancy mein kaun se khatre ke lakshan (danger signs) hain jinhe nazarandaaz nahi karna chahiye?",
+        "lookup_variants": [
+            "danger signs in pregnancy",
+            "pregnancy me kab doctor ke paas jana chahiye",
+            "khatre ke lakshan kya hai",
+            "warning signs during pregnancy"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "High Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0061",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "anemia_during_pregnancy.md",
+        "printed_booklet_question": "Iron ki goli ke saath kya khana chahiye jisse woh acche se kaam kare?",
+        "lookup_variants": [
+            "iron tablet ke sath kya khaye",
+            "ifa goli ka absorption kaise badhaye",
+            "what to eat with iron supplements",
+            "nimbu pani ke sath iron goli le sakte hai?"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0062",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "pregnancy_nutrition_and_diet.md",
+        "printed_booklet_question": "Kya pregnancy mein chai ya coffee peena theek hai?",
+        "lookup_variants": [
+            "can i drink tea during pregnancy",
+            "pregnancy me chai pee sakte hai kya",
+            "coffee peena safe hai?",
+            "chai kitni baar pi sakti hu"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0063",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "childbirth_and_newborn_care.md",
+        "printed_booklet_question": "Delivery ke baad pet kam karne ke liye kya karna chahiye?",
+        "lookup_variants": [
+            "delivery ke baad pet kaise kam kare",
+            "pet ki charbi kaise ghataye after delivery",
+            "how to reduce tummy after c-section",
+            "pet kam karne ke upay"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0064",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "breastfeeding_special_conditions.md",
+        "printed_booklet_question": "Agar maa bimar ho (bukhar, sardi) to kya bacche ko doodh pila sakti hai?",
+        "lookup_variants": [
+            "fever me breastfeeding kara sakte hai",
+            "bimar hu to doodh pilana chahiye ya nahi",
+            "sardi khasi me doodh pilana",
+            "feeding with cold"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0065",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "complementary_feeding_6_to_24_months.md",
+        "printed_booklet_question": "Bacche ke khane mein namak ya cheeni milani chahiye ya nahi?",
+        "lookup_variants": [
+            "baby ke food me salt dalna chahiye?",
+            "namak aur chini kab se de sakte hai",
+            "can i add sugar to baby food",
+            "1 saal se pehle namak dena hai ya nahi"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0066",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "child_growth_and_malnutrition.md",
+        "printed_booklet_question": "Kam vajan ke saath paida hue bacche (Low Birth Weight) ki dekhbhal kaise karein?",
+        "lookup_variants": [
+            "low birth weight baby care",
+            "kam vajan wale bacche ka dhyan kaise rakhe",
+            "lbw baby ki care",
+            "mera baby do kilo 300 gram tha"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "High Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0067",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "general_child_care_and_development.md",
+        "printed_booklet_question": "Bacche ke liye Kangaroo Mother Care (KMC) kya hai aur iske kya fayde hain?",
+        "lookup_variants": [
+            "kmc kya hota hai",
+            "kangaroo mother care kaise de",
+            "kmc ke fayde",
+            "what is KMC"
+        ],
+        "frequencelevel": [
+            "Low Frequency"
+        ],
+        "criticalitylevel": [
+            "High Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0068",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "pregnancy_care_and_checkups.md",
+        "printed_booklet_question": "Pregnancy mein kab se doctor ko dikhana shuru kar dena chahiye?",
+        "lookup_variants": [
+            "when to register pregnancy",
+            "pregnancy ka registration kab karaye",
+            "doctor ko kab dikhaye pehli baar",
+            "pehla checkup kab karwana chahiye"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0069",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "childbirth_and_newborn_care.md",
+        "printed_booklet_question": "Normal delivery aur C-section mein kya behtar hai?",
+        "lookup_variants": [
+            "normal delivery vs c-section",
+            "konsi delivery acchi hai",
+            "normal ya operation kya better hai",
+            "c section ke fayde nuksan"
+        ],
+        "frequencelevel": [
+            "Low Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0070",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "breastfeeding_guidance.md",
+        "printed_booklet_question": "Kaise pata chalega ki bacche ko aavashyak matra mein doodh mil raha hai?",
+        "lookup_variants": [
+            "is my milk enough for baby",
+            "kaise pata kare baby ka pet bhar gaya",
+            "signs of adequate milk transfer",
+            "mera doodh kam to nahi pad raha"
+        ],
+        "frequencelevel": [
+            "High Frequency"
+        ],
+        "criticalitylevel": [
+            "High Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0071",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "pregnancy_nutrition_and_diet.md",
+        "printed_booklet_question": "Kya pregnancy mein papita ya ananas (pineapple) kha sakte hain?",
+        "lookup_variants": [
+            "papita kha sakte hai kya pregnancy me",
+            "can i eat pineapple during pregnancy",
+            "konsa fruit avoid karna chahiye",
+            "papaya khana safe hai ya nahi"
+        ],
+        "frequencelevel": [
+            "High Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0072",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "pregnancy_care_and_checkups.md",
+        "printed_booklet_question": "Pregnancy mein pet par khujli ho to kya karein?",
+        "lookup_variants": [
+            "pet par khujli ho rahi hai",
+            "itching on stomach during pregnancy",
+            "khujli ka kya ilaj hai",
+            "stretch marks me khujli"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0073",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "childbirth_and_newborn_care.md",
+        "printed_booklet_question": "Delivery ke baad bleeding (khoon aana) kitne din tak hota hai?",
+        "lookup_variants": [
+            "postpartum bleeding kitne din chalti hai",
+            "delivery ke baad bleeding kab tak hoti hai",
+            "bleeding after delivery",
+            "delivery ke baad khoon aana"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0074",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "complementary_feeding_6_to_24_months.md",
+        "printed_booklet_question": "Bacche ko paani pilana kab se shuru karna chahiye?",
+        "lookup_variants": [
+            "when to give water to baby",
+            "bacche ko pani kab se pilaye",
+            "6 mahine se pehle pani de sakte hai?",
+            "how much water should baby drink"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0075",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "general_child_care_and_development.md",
+        "printed_booklet_question": "Bacche ke daant nikalte samay kya takleef hoti hai aur kya karna chahiye?",
+        "lookup_variants": [
+            "baby teething problems",
+            "daant nikalte waqt dast",
+            "teething ke symptoms kya hai",
+            "daant aane par kya kare"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0076",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "immunization_schedule_and_basics.md",
+        "printed_booklet_question": "Vitamin A ka dose bacche ko kab aur kyun diya jaata hai?",
+        "lookup_variants": [
+            "vitamin a ka dose kab milta hai",
+            "vitamin a kyu jaruri hai",
+            "vitamin a schedule for baby",
+            "vit a ki khurak"
+        ],
+        "frequencelevel": [
+            "Low Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0077",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "pregnancy_care_and_checkups.md",
+        "printed_booklet_question": "Pregnancy mein neend nahi aati, kya karoon?",
+        "lookup_variants": [
+            "neend nahi aati pregnancy me",
+            "insomnia during pregnancy",
+            "acchi neend ke liye kya kare",
+            "raat me neend kyu nahi aati"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0078",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "childbirth_and_newborn_care.md",
+        "printed_booklet_question": "Naye janme bacche ko peeliya (jaundice) ho to kya karein?",
+        "lookup_variants": [
+            "newborn jaundice ka ilaj",
+            "bacche ko piliya ho gaya hai",
+            "jaundice me kya kare",
+            "piliya kitne din me theek hota hai"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "High Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0079",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "breastfeeding_special_conditions.md",
+        "printed_booklet_question": "Kya formula milk maa ke doodh jitna accha hota hai?",
+        "lookup_variants": [
+            "formula milk vs breast milk",
+            "Kon sa formula milk best hota h bachhe k liye",
+            "kya formula milk de sakte hai",
+            "formula doodh ke fayde nuksan"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0080",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "government_cash_benefit_schemes.md",
+        "printed_booklet_question": "Pradhan Mantri Matru Vandana Yojana (PMMVY) ke tehat paise kaise milte hain?",
+        "lookup_variants": [
+            "pmmvy ke paise kaise milenge",
+            "pradhan mantri matru vandana yojana ke liye apply kaise kare",
+            "sarkari yojana 5000 wali",
+            "pmmvy installments kab aati hai"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0081",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "anemia_during_pregnancy.md",
+        "printed_booklet_question": "Pet ke keede maarne ki dawai (Albendazole) pregnancy mein kab leni chahiye?",
+        "lookup_variants": [
+            "albendazole kab khani chahiye",
+            "pet ke kide ki dawa pregnancy me",
+            "deworming tablet in pregnancy",
+            "kide ki goli kab le"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0082",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "pregnancy_nutrition_and_diet.md",
+        "printed_booklet_question": "Pregnancy mein non-veg (maans, machli, anda) kha sakte hain?",
+        "lookup_variants": [
+            "can i eat non veg during pregnancy",
+            "pregnancy me chicken kha sakte hai",
+            "fish khana safe hai kya",
+            "anda khana chahiye ya nahi"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0083",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "childbirth_and_newborn_care.md",
+        "printed_booklet_question": "Delivery ke kitne din baad aam taur par kaamkaaj shuru kar sakte hain?",
+        "lookup_variants": [
+            "delivery ke baad rest kitne din kare",
+            "c-section ke baad kab kaam kar sakte hai",
+            "when to resume work after delivery",
+            "kitne din aaram karna chahiye"
+        ],
+        "frequencelevel": [
+            "Low Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0084",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "complementary_feeding_6_to_24_months.md",
+        "printed_booklet_question": "Bacche ko khichdi, daliya jaisi cheezein kab se khilana shuru kar sakte hain?",
+        "lookup_variants": [
+            "baby ko khichdi kab se de",
+            "daliya kab se start kare",
+            "6 mahine ke bacche ke liye food recipes",
+            "what to feed 6 month old baby"
+        ],
+        "frequencelevel": [
+            "High Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0085",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "general_child_care_and_development.md",
+        "printed_booklet_question": "Bacche ke liye diaper ya langot, kya behtar hai?",
+        "lookup_variants": [
+            "diaper vs cloth nappy",
+            "diaper pehnana aacha hai ya nahi",
+            "langot ya diaper kya use kare",
+            "diaper se rashes to nahi honge"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0086",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "immunization_rules_and_exceptions.md",
+        "printed_booklet_question": "Kya bimar bacche ko teeka lagwaya ja sakta hai?",
+        "lookup_variants": [
+            "can sick child be vaccinated",
+            "baccha bimar hai to vaccine lagega?",
+            "sardi khasi me tika lagwa sakte hai",
+            "fever and vaccine"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "High Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0087",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "pregnancy_care_and_checkups.md",
+        "printed_booklet_question": "Pregnancy mein pairon mein dard ya aithan (cramps) ho to kya karein?",
+        "lookup_variants": [
+            "leg cramps during pregnancy",
+            "pairon me dard rehta hai",
+            "Mere pao me bhot dardr rhta hai",
+            "raat me pairo me aithan hoti hai"
+        ],
+        "frequencelevel": [
+            "High Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0088",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "childbirth_and_newborn_care.md",
+        "printed_booklet_question": "Delivery ke baad pehla period (maahwari) kab aata hai?",
+        "lookup_variants": [
+            "first period after delivery",
+            "delivery ke baad period kab aata hai",
+            "c-section ke baad period",
+            "maahwari kab shuru hogi"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0089",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "breastfeeding_guidance.md",
+        "printed_booklet_question": "Upar ka doodh (formula) kaise banayein aur kitna pilayein?",
+        "lookup_variants": [
+            "how to prepare formula milk",
+            "formula milk banane ka tarika",
+            "kitna formula milk dena chahiye",
+            "upar ka doodh kaise banate hai"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0090",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "general_child_care_and_development.md",
+        "printed_booklet_question": "Bacche kab bolna shuru karte hain?",
+        "lookup_variants": [
+            "Chhota baby baten kab shuru karte Hain",
+            "when do babies start talking",
+            "baccha bolna kab seekhta hai",
+            "baby talking milestones"
+        ],
+        "frequencelevel": [
+            "Low Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0091",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "pregnancy_care_and_checkups.md",
+        "printed_booklet_question": "Pregnancy mein kabj (constipation) ki samasya ho to kya karein?",
+        "lookup_variants": [
+            "constipation during pregnancy",
+            "kabj ka ilaj pregnancy me",
+            "pet saaf nahi ho raha",
+            "kabj ke liye kya khaye"
+        ],
+        "frequencelevel": [
+            "High Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0092",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "childbirth_and_newborn_care.md",
+        "printed_booklet_question": "Delivery ke baad yoni (vagina) mein dard ya taankon ki dekhbhal kaise karein?",
+        "lookup_variants": [
+            "vaginal stitches care after normal delivery",
+            "normal delivery ke baad taanke ki care",
+            "yoni me dard ho raha hai",
+            "taanke kab ghulte hai"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0093",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "complementary_feeding_6_to_24_months.md",
+        "printed_booklet_question": "Kya bacche ko gaay ya bhains ka doodh de sakte hain?",
+        "lookup_variants": [
+            "can i give cow's milk to baby",
+            "gay ka doodh kab se de sakte hai",
+            "1 saal se pehle cow milk dena chahiye?",
+            "bhains ka doodh de ya nahi"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0094",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "vaccine_side_effects_and_reactions.md",
+        "printed_booklet_question": "BCG teeke ke baad jo nishaan ya foda banta hai, uska kya karein?",
+        "lookup_variants": [
+            "bcg scar me pus aa gaya hai",
+            "bcg ka nishan nahi bana",
+            "what to do with bcg lump",
+            "bcg ka foda kab theek hota hai"
+        ],
+        "frequencelevel": [
+            "Low Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0095",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "pregnancy_care_and_checkups.md",
+        "printed_booklet_question": "Pregnancy mein baar-baar peshab (urine) aana normal hai kya?",
+        "lookup_variants": [
+            "baar baar urine aana pregnancy me",
+            "frequent urination during pregnancy",
+            "bahut peshab lag raha hai",
+            "is it normal to pee a lot"
+        ],
+        "frequencelevel": [
+            "High Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0096",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "childbirth_and_newborn_care.md",
+        "printed_booklet_question": "Delivery ke baad baal jhadne (hair fall) ki samasya ho to kya karein?",
+        "lookup_variants": [
+            "hair fall after delivery",
+            "delivery ke baad baal bahut jhad rahe hai",
+            "postpartum hair loss solution",
+            "baal jhadne se kaise roke"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0097",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "breastfeeding_special_conditions.md",
+        "printed_booklet_question": "Stan (breast) mein doodh bhar jaane se gaanth ya dard ho to kya karein?",
+        "lookup_variants": [
+            "breast engorgement ka ilaj",
+            "doodh bhar gaya hai, dard ho raha hai",
+            "breast me gaanth ban gayi hai",
+            "breast full and hard"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0098",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "general_child_care_and_development.md",
+        "printed_booklet_question": "Bacche ke pet mein gas banne par kya gharelu upchar kar sakte hain?",
+        "lookup_variants": [
+            "baby ko gas ho to kya kare",
+            "gas problem in infants home remedies",
+            "bacche ke pet me marod",
+            "gas ke liye kya kare"
+        ],
+        "frequencelevel": [
+            "High Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0099",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "pregnancy_care_and_checkups.md",
+        "printed_booklet_question": "Pregnancy mein ulti ya jee machlane (morning sickness) par kya karein?",
+        "lookup_variants": [
+            "morning sickness ka upay",
+            "ulti ho rahi hai pregnancy me",
+            "jee machla raha hai kya karu",
+            "vomiting in pregnancy solution"
+        ],
+        "frequencelevel": [
+            "High Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0100",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "child_growth_and_malnutrition.md",
+        "printed_booklet_question": "Janm ke samay bacche ka normal vajan kitna hona chahiye?",
+        "lookup_variants": [
+            "normal birth weight of baby",
+            "janm ke waqt baby ka weight kitna hona chahiye",
+            "healthy baby weight at birth",
+            "newborn ka vajan kitna ho"
+        ],
+        "frequencelevel": [
+            "High Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0101",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "anemia_during_pregnancy.md",
+        "printed_booklet_question": "Kya iron ki goli se potty ka rang kaala ho sakta hai?",
+        "lookup_variants": [
+            "iron tablet se black potty hoti hai kya",
+            "stool ka color change after iron pills",
+            "kali potty aa rahi hai",
+            "is black stool normal with iron supplements"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0102",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "pregnancy_nutrition_and_diet.md",
+        "printed_booklet_question": "Pregnancy mein iodine-yukt namak khana kyun zaroori hai?",
+        "lookup_variants": [
+            "iodine kyu jaruri hai pregnancy me",
+            "iodized salt benefits in pregnancy",
+            "iodine ki kami se kya hota hai",
+            "konsa namak khana chahiye"
+        ],
+        "frequencelevel": [
+            "Low Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0103",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "childbirth_and_newborn_care.md",
+        "printed_booklet_question": "Delivery ke baad depression ya udaasi mehsoos ho to kya karein?",
+        "lookup_variants": [
+            "postpartum depression symptoms",
+            "delivery ke baad rona aata hai",
+            "udaas rehti hu delivery ke baad",
+            "baby blues kya hota hai"
+        ],
+        "frequencelevel": [
+            "Low Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0104",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "complementary_feeding_6_to_24_months.md",
+        "printed_booklet_question": "Baccha khana nahi khata ya khane mein nakre karta hai to kya karein?",
+        "lookup_variants": [
+            "my baby is a picky eater",
+            "baccha khana nahi khata",
+            "fussy eater baby solution",
+            "khana khilane me pareshan karta hai"
+        ],
+        "frequencelevel": [
+            "High Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0105",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "general_child_care_and_development.md",
+        "printed_booklet_question": "Bacche ko sardi-jukham ho jaye to kya gharelu upchar hain?",
+        "lookup_variants": [
+            "baby ko sardi ho gayi hai",
+            "cold and cough home remedies for infants",
+            "jukham ka ilaj chote bacche ke liye",
+            "sardi me kya kare"
+        ],
+        "frequencelevel": [
+            "High Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0106",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "immunization_schedule_and_basics.md",
+        "printed_booklet_question": "Private aur sarkari hospital ke teekon mein kya koi fark hota hai?",
+        "lookup_variants": [
+            "private vs government vaccines",
+            "sarkari teeka theek hai ya private",
+            "kya private vaccine lagwana jaruri hai",
+            "vaccine me kya difference hai"
+        ],
+        "frequencelevel": [
+            "Low Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0107",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "pregnancy_care_and_checkups.md",
+        "printed_booklet_question": "Pregnancy mein blood pressure (BP) kitna hona chahiye?",
+        "lookup_variants": [
+            "normal bp range in pregnancy",
+            "pregnancy me bp kitna hona chahiye",
+            "blood pressure kitna normal hai",
+            "high bp kab mana jayega"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "High Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0108",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "childbirth_and_newborn_care.md",
+        "printed_booklet_question": "Delivery ke baad pehli baar nahana (bath) kab chahiye?",
+        "lookup_variants": [
+            "when to take bath after delivery",
+            "delivery ke baad kab nahana chahiye",
+            "c-section ke baad kab naha sakte hai",
+            "nahane ke niyam after delivery"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0109",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "breastfeeding_guidance.md",
+        "printed_booklet_question": "Kaamkaaji mahilayein (working women) bacche ko stanpan kaise jaari rakh sakti hain?",
+        "lookup_variants": [
+            "how to continue breastfeeding after joining work",
+            "working women ke liye breastfeeding tips",
+            "doodh express karke kaise store kare",
+            "job ke sath doodh kaise pilaye"
+        ],
+        "frequencelevel": [
+            "Low Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0110",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "general_child_care_and_development.md",
+        "printed_booklet_question": "Bacche ke sir ka aakar gol kaise rakhein?",
+        "lookup_variants": [
+            "how to shape baby's head",
+            "bacche ka sir pichak gaya hai",
+            "sir gol karne ke liye kya kare",
+            "rai ka takiya use kare ya nahi"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0111",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "pregnancy_care_and_checkups.md",
+        "printed_booklet_question": "Kya pregnancy mein exercise ya vyayam karna chahiye?",
+        "lookup_variants": [
+            "exercise during pregnancy",
+            "pregnancy me konsi exercise kare",
+            "vyayam karna safe hai ya nahi",
+            "walking kar sakti hu kya"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0112",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "childbirth_and_newborn_care.md",
+        "printed_booklet_question": "Premature (samay se pehle) delivery ke kya kaaran ho sakte hain?",
+        "lookup_variants": [
+            "causes of premature delivery",
+            "samay se pehle delivery kyu hoti hai",
+            "preterm labor ke karan",
+            "jaldi delivery hone ka reason"
+        ],
+        "frequencelevel": [
+            "Low Frequency"
+        ],
+        "criticalitylevel": [
+            "High Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0113",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "complementary_feeding_6_to_24_months.md",
+        "printed_booklet_question": "Bacche ko naye khadya padarth (new foods) se allergy ho to kaise pehchanein?",
+        "lookup_variants": [
+            "food allergy symptoms in babies",
+            "allergy kaise pehchane",
+            "naye food se reaction ho to kya kare",
+            "signs of allergy in baby"
+        ],
+        "frequencelevel": [
+            "Low Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0114",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "general_child_care_and_development.md",
+        "printed_booklet_question": "Bacche ko kitne ghante sona chahiye?",
+        "lookup_variants": [
+            "how much should baby sleep",
+            "baby kitne ghante sota hai",
+            "neend ka schedule kya hona chahiye",
+            "mera baccha bahut sota hai"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0115",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "pregnancy_care_and_checkups.md",
+        "printed_booklet_question": "Pregnancy mein bleeding ya spotting hona khatarnak hai kya?",
+        "lookup_variants": [
+            "bleeding during pregnancy",
+            "spotting ho rahi hai kya karu",
+            "pregnancy me blood aana",
+            "is spotting normal"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "High Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0116",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "anemia_during_pregnancy.md",
+        "printed_booklet_question": "Khoon badhane ke liye anar, chukandar aur gajar ke alawa aur kya khayein?",
+        "lookup_variants": [
+            "iron rich food other than anar",
+            "khoon badhane ke liye aur kya khana chahiye",
+            "best food for hemoglobin increase",
+            "palak khane se khoon badhta hai?"
+        ],
+        "frequencelevel": [
+            "High Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0117",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "pregnancy_nutrition_and_diet.md",
+        "printed_booklet_question": "Pregnancy mein kitna paani peena chahiye?",
+        "lookup_variants": [
+            "how much water to drink in pregnancy",
+            "din me kitna pani piye",
+            "pani peene ke fayde",
+            "kya jyada pani peena chahiye"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0118",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "childbirth_and_newborn_care.md",
+        "printed_booklet_question": "C-section ke kitne din baad sambandh (sex) bana sakte hain?",
+        "lookup_variants": [
+            "sex after c-section",
+            "c section ke baad sex kab kare",
+            "sambandh kab bana sakte hai",
+            "physical relation after delivery"
+        ],
+        "frequencelevel": [
+            "Low Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0119",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "breastfeeding_special_conditions.md",
+        "printed_booklet_question": "Agar nipple andar ki taraf dhansi (inverted) ho to kaise doodh pilayein?",
+        "lookup_variants": [
+            "inverted nipples breastfeeding",
+            "nipple bahar nahi hai kaise pilau",
+            "flat nipple problem",
+            "doodh pilane me problem ho rahi hai"
+        ],
+        "frequencelevel": [
+            "Low Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0120",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "complementary_feeding_6_to_24_months.md",
+        "printed_booklet_question": "Bacche ko finger foods kab se dena shuru kar sakte hain?",
+        "lookup_variants": [
+            "when to start finger foods",
+            "finger foods for babies",
+            "baccha khud se kab khana shuru karta hai",
+            "konsa finger food de"
+        ],
+        "frequencelevel": [
+            "Low Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0121",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "general_child_care_and_development.md",
+        "printed_booklet_question": "Bacche ke liye maalish (massage) karna kyun zaroori hai aur kaun sa tel istemal karein?",
+        "lookup_variants": [
+            "baby massage ke fayde",
+            "konsa tel accha hai malish ke liye",
+            "maalish kab aur kaise kare",
+            "benefits of baby massage"
+        ],
+        "frequencelevel": [
+            "High Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0122",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "immunization_schedule_and_basics.md",
+        "printed_booklet_question": "Teekakaran ka card (immunization card) sambhal kar rakhna kyun zaroori hai?",
+        "lookup_variants": [
+            "immunization card kyu important hai",
+            "teeke ka card kho gaya to kya kare",
+            "vaccination card importance",
+            "card kyu sambhalna chahiye"
+        ],
+        "frequencelevel": [
+            "Low Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0123",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "pregnancy_care_and_checkups.md",
+        "printed_booklet_question": "Judwa bacche (twins) hone par pregnancy mein kya khaas dhyan rakhna chahiye?",
+        "lookup_variants": [
+            "twin pregnancy care",
+            "judwa bacche hai to kya dhyan rakhe",
+            "care for twins in womb",
+            "twin pregnancy me kya alag hota hai"
+        ],
+        "frequencelevel": [
+            "Low Frequency"
+        ],
+        "criticalitylevel": [
+            "High Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0124",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "childbirth_and_newborn_care.md",
+        "printed_booklet_question": "Labor pain (prasav peeda) ke kya lakshan hain?",
+        "lookup_variants": [
+            "signs of labor",
+            "delivery ka dard kaisa hota hai",
+            "kaise pata chalega ki labor pain shuru ho gaya",
+            "prasav ke lakshan"
+        ],
+        "frequencelevel": [
+            "High Frequency"
+        ],
+        "criticalitylevel": [
+            "High Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0125",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "breastfeeding_guidance.md",
+        "printed_booklet_question": "Bacche ko har baar kitni der tak doodh pilana chahiye?",
+        "lookup_variants": [
+            "how long to breastfeed on each side",
+            "kitni der tak doodh pilaye",
+            "feeding ka duration kitna hona chahiye",
+            "ek taraf se kitni der pilana hai"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0126",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "general_child_care_and_development.md",
+        "printed_booklet_question": "Bacche ko pet ke bal litana (tummy time) kab shuru karein aur iske kya fayde hain?",
+        "lookup_variants": [
+            "when to start tummy time for baby",
+            "tummy time ke fayde",
+            "pet ke bal kab litaye",
+            "tummy time kyu jaruri hai"
+        ],
+        "frequencelevel": [
+            "Low Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0127",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "pregnancy_nutrition_and_diet.md",
+        "printed_booklet_question": "Kya pregnancy mein bahar ka khana (junk food) kha sakte hain?",
+        "lookup_variants": [
+            "can i eat junk food during pregnancy",
+            "bahar ka khana khana safe hai kya",
+            "pizza burger kha sakti hu",
+            "junk food avoid kyu kare"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0128",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "childbirth_and_newborn_care.md",
+        "printed_booklet_question": "Naye janme bacche ke khatre ke lakshan (danger signs) kya hain?",
+        "lookup_variants": [
+            "newborn danger signs",
+            "bacche me khatre ke lakshan",
+            "kab doctor ko dikhana chahiye newborn ko",
+            "warning signs in newborn baby"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "High Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0129",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "complementary_feeding_6_to_24_months.md",
+        "printed_booklet_question": "Bacche ko kabj (constipation) ho to khane mein kya dein?",
+        "lookup_variants": [
+            "constipation remedies for babies",
+            "bacche ko kabj hai kya khilaye",
+            "potty nahi kar raha baby",
+            "food for constipation in babies"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0130",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "general_child_care_and_development.md",
+        "printed_booklet_question": "Bacche ke kapde dhone ke liye kaun sa sabun (detergent) istemal karein?",
+        "lookup_variants": [
+            "which detergent to use for baby clothes",
+            "bacche ke kapde kaise dhoye",
+            "baby clothes washing tips",
+            "konsa sabun use kare"
+        ],
+        "frequencelevel": [
+            "Low Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0131",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "pregnancy_care_and_checkups.md",
+        "printed_booklet_question": "Delivery ki date (EDD) kaise calculate ki jaati hai?",
+        "lookup_variants": [
+            "how to calculate due date",
+            "delivery date kaise nikalte hai",
+            "mera edd kya hai",
+            "Mera 15 January ko date aaya tha uske bad se kitne mahine hue hain"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0132",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "anemia_during_pregnancy.md",
+        "printed_booklet_question": "Kya pregnancy mein thakaan aur kamzori khoon ki kami ka sanket hai?",
+        "lookup_variants": [
+            "feeling tired and weak in pregnancy",
+            "bahut thakan lagti hai",
+            "kamzori mehsoos ho rahi hai",
+            "thakawat kyu hoti hai"
+        ],
+        "frequencelevel": [
+            "High Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0133",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "pregnancy_nutrition_and_diet.md",
+        "printed_booklet_question": "Calcium ki goli khana kyun zaroori hai pregnancy mein?",
+        "lookup_variants": [
+            "calcium kyu jaruri hai",
+            "importance of calcium in pregnancy",
+            "calcium tablet ke fayde",
+            "agar calcium na khaye to kya hoga"
+        ],
+        "frequencelevel": [
+            "High Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0134",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "childbirth_and_newborn_care.md",
+        "printed_booklet_question": "C-section ke baad pet par belt (abdominal binder) lagana chahiye ya nahi?",
+        "lookup_variants": [
+            "should i use abdominal belt after c-section",
+            "pet par belt kab lagaye",
+            "c section ke baad belt lagane ke fayde",
+            "pet ki belt"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0135",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "breastfeeding_guidance.md",
+        "printed_booklet_question": "Kya doodh pilane se maa ka vajan kam hota hai?",
+        "lookup_variants": [
+            "does breastfeeding help lose weight",
+            "doodh pilane se weight loss hota hai kya",
+            "vajan kam karne ke liye breastfeeding",
+            "weight loss after delivery"
+        ],
+        "frequencelevel": [
+            "Low Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0136",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "complementary_feeding_6_to_24_months.md",
+        "printed_booklet_question": "Bacche ko juice dena chahiye ya fal?",
+        "lookup_variants": [
+            "juice or fruit which is better for baby",
+            "bacche ko juice de sakte hai kya",
+            "fal khilaye ya juice pilaye",
+            "fruit juice for babies"
+        ],
+        "frequencelevel": [
+            "Low Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0137",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "general_child_care_and_development.md",
+        "printed_booklet_question": "Bacche ke liye kaun se khilone (toys) surakshit hain?",
+        "lookup_variants": [
+            "safe toys for babies",
+            "bacche ke liye khilone",
+            "konsa toy lena chahiye",
+            "toy safety tips"
+        ],
+        "frequencelevel": [
+            "Low Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0138",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "immunization_schedule_and_basics.md",
+        "printed_booklet_question": "Ek hi samay par ek se zyada teeke lagwana surakshit hai?",
+        "lookup_variants": [
+            "is it safe to give multiple vaccines at once",
+            "ek sath do teeke lagwa sakte hai",
+            "multiple injections for baby",
+            "do vaccine ek sath"
+        ],
+        "frequencelevel": [
+            "Low Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0139",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "pregnancy_care_and_checkups.md",
+        "printed_booklet_question": "Pregnancy mein mood swings (bhaavnaon mein utaar-chadhav) kyun hote hain?",
+        "lookup_variants": [
+            "mood swings during pregnancy",
+            "chidhchidhapan kyu hota hai",
+            "kabhi rona aata hai kabhi gussa",
+            "emotional changes in pregnancy"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0140",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "childbirth_and_newborn_care.md",
+        "printed_booklet_question": "Kya normal delivery ke baad taanke aate hain?",
+        "lookup_variants": [
+            "stitches in normal delivery",
+            "normal delivery me taanke aate hai kya",
+            "episiotomy kya hota hai",
+            "taanke kab lagte hai"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0141",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "breastfeeding_special_conditions.md",
+        "printed_booklet_question": "C-section ke baad doodh pilane mein koi pareshani hoti hai kya?",
+        "lookup_variants": [
+            "breastfeeding after c-section",
+            "c section ke baad doodh pilane me problem",
+            "operation ke baad doodh kab aata hai",
+            "how to feed after c-section"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0142",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "general_child_care_and_development.md",
+        "printed_booklet_question": "Bacche ke naak band ho to kya karein?",
+        "lookup_variants": [
+            "baby ki naak band hai",
+            "nasal congestion in infants",
+            "naak saaf kaise kare",
+            "stuffy nose remedy for baby"
+        ],
+        "frequencelevel": [
+            "High Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0143",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "pregnancy_nutrition_and_diet.md",
+        "printed_booklet_question": "Folic acid ki goli pregnancy mein kyun zaroori hai?",
+        "lookup_variants": [
+            "importance of folic acid in pregnancy",
+            "folic acid kab tak khana chahiye",
+            "folic acid kyu jaruri hai",
+            "folic acid ke fayde"
+        ],
+        "frequencelevel": [
+            "High Frequency"
+        ],
+        "criticalitylevel": [
+            "High Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0144",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "child_growth_and_malnutrition.md",
+        "printed_booklet_question": "Bacche ki lambai (height) aur vajan (weight) kaise naapein?",
+        "lookup_variants": [
+            "how to measure baby height and weight",
+            "bacche ka vajan kaise le",
+            "lambai kaise nape",
+            "growth monitoring kaise kare"
+        ],
+        "frequencelevel": [
+            "Low Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0145",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "vaccine_side_effects_and_reactions.md",
+        "printed_booklet_question": "Teeka lagne ke baad baccha bahut ro raha hai, kya yeh normal hai?",
+        "lookup_variants": [
+            "baby crying a lot after vaccine",
+            "injection ke baad baccha chup nahi ho raha",
+            "bahut ro raha hai teeke ke baad",
+            "is it normal for baby to be fussy after shots"
+        ],
+        "frequencelevel": [
+            "High Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0146",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "pregnancy_care_and_checkups.md",
+        "printed_booklet_question": "Kya pregnancy mein pet ke bal sona chahiye?",
+        "lookup_variants": [
+            "sleeping on stomach during pregnancy",
+            "pet ke bal so sakte hai kya",
+            "sone ki sahi position kya hai",
+            "kaise sona chahiye pregnancy me"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0147",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "childbirth_and_newborn_care.md",
+        "printed_booklet_question": "Paani ki thaili fatne (water breaking) ka kya matlab hota hai?",
+        "lookup_variants": [
+            "what is water breaking",
+            "pani ki thaili fat jaye to kya kare",
+            "water break ke kitni der me delivery hoti hai",
+            "pani jaisa discharge ho raha hai"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "High Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0148",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "breastfeeding_guidance.md",
+        "printed_booklet_question": "Bacche ko dakaar (burp) dilana kyun zaroori hai?",
+        "lookup_variants": [
+            "how to burp a baby",
+            "dakar dilana kyu jaruri hai",
+            "burp kaise karaye",
+            "agar baby dakar na le to"
+        ],
+        "frequencelevel": [
+            "High Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0149",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "general_child_care_and_development.md",
+        "printed_booklet_question": "Bacche ko diaper rash ho jaye to kya karein?",
+        "lookup_variants": [
+            "diaper rash home remedies",
+            "diaper se lal chakatte ho gaye hai",
+            "rash ka ilaj",
+            "how to treat diaper rash"
+        ],
+        "frequencelevel": [
+            "High Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0150",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "government_cash_benefit_schemes.md",
+        "printed_booklet_question": "Janani Suraksha Yojana (JSY) ka laabh kaise milta hai?",
+        "lookup_variants": [
+            "jsy scheme details",
+            "janani suraksha yojana ke paise kaise milte hai",
+            "jsy ka labh kaise le",
+            "sarkari hospital me delivery ke fayde"
+        ],
+        "frequencelevel": [
+            "Low Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0151",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "pregnancy_care_and_checkups.md",
+        "printed_booklet_question": "Pregnancy mein stretch marks se kaise bachein?",
+        "lookup_variants": [
+            "how to avoid stretch marks during pregnancy",
+            "stretch marks ke liye kya lagaye",
+            "pet par nishan na pade iske liye kya kare",
+            "stretch marks cream"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Low Critical"
+        ]
+    },
+    {
+        "booklet_id": "Q_0152",
+        "booklet_type": "FAQ",
+        "textbook_chapter_reference": "childbirth_and_newborn_care.md",
+        "printed_booklet_question": "Delivery ke baad pehla doctor check-up kab karana chahiye?",
+        "lookup_variants": [
+            "postnatal checkup kab hota hai",
+            "delivery ke baad doctor ko kab dikhaye",
+            "first checkup after delivery",
+            "postpartum doctor visit"
+        ],
+        "frequencelevel": [
+            "Medium Frequency"
+        ],
+        "criticalitylevel": [
+            "Medium Critical"
+        ]
+    }
+]

@@ -1,0 +1,626 @@
+[
+    {
+        "booklet_id": "Q_0001",
+        "booklet_type": "MIQ",
+        "textbook_chapter_reference": "anemia_during_pregnancy.md",
+        "printed_booklet_question": "Mera hemoglobin 7 point hai. Khoon badhane ke liye kya karna chahiye?",
+        "lookup_variants": [
+            "Mera Khoon 7 point hain khoon badhane ke liye kya karna hai",
+            "hb 7 hai blood badane k liye kya khau",
+            "khoon ki kami hai 7 point pe kya kare",
+            "pregnancy me blood 7 gm hai kaise badhaye"
+        ]
+    },
+    {
+        "booklet_id": "Q_0002",
+        "booklet_type": "MIQ",
+        "textbook_chapter_reference": "anemia_during_pregnancy.md",
+        "printed_booklet_question": "Pregnancy mein khoon ki jaanch karana kyon zaroori hai?",
+        "lookup_variants": [
+            "Pregnancy mai khun ka check up Krna q zaruri hai",
+            "hb test kyu important hai",
+            "gর্ভাবস্থা me blood test kyu karte h",
+            "khoon janch kyu karwani chahiye preg me"
+        ]
+    },
+    {
+        "booklet_id": "Q_0003",
+        "booklet_type": "MIQ",
+        "textbook_chapter_reference": "pregnancy_nutrition_and_diet.md",
+        "printed_booklet_question": "Iron aur calcium ki dawai ek saath le sakti hoon kya? Inhe kab lena chahiye?",
+        "lookup_variants": [
+            "calcium ki dawai kab leni chahiye or kya isse iron wali dawai k sath le sakti hu?",
+            "iron or calcium tablet sath me kha sakte hai?",
+            "fa aur ca goli kab khani hai",
+            "iron calcium goli me kitna gap hona chahiye"
+        ]
+    },
+    {
+        "booklet_id": "Q_0004",
+        "booklet_type": "MIQ",
+        "textbook_chapter_reference": "pregnancy_care_and_checkups.md",
+        "printed_booklet_question": "Mera BP 180 ho gaya hai aur doctor ne admit hone ko bola hai. Yeh kitna khatarnak hai?",
+        "lookup_variants": [
+            "Mera bp 180 bad gaya hai admit ke liye bola hai",
+            "high bp in pregnancy 180",
+            "bp badh gaya hai kya karu",
+            "pregnancy me bp high hone se kya hota hai"
+        ]
+    },
+    {
+        "booklet_id": "Q_0005",
+        "booklet_type": "MIQ",
+        "textbook_chapter_reference": "childbirth_and_newborn_care.md",
+        "printed_booklet_question": "Mera bachcha kamzor hai aur use kaanch mein rakha hai. Iska kya matlab hai aur mujhe kya karna chahiye?",
+        "lookup_variants": [
+            "Mera babu kamzor h use kanch m rakha h",
+            "baby ko kanch me rakha hai",
+            "bacha nicu me hai kamzor hai",
+            "kamjor bache ko kaanch me kyu rakhte hai"
+        ]
+    },
+    {
+        "booklet_id": "Q_0006",
+        "booklet_type": "MIQ",
+        "textbook_chapter_reference": "pregnancy_care_and_checkups.md",
+        "printed_booklet_question": "Doctor ne bataya hai ki bachche ka vajan kam hai aur paani ki bhi kami hai. Mujhe kya karna chahiye?",
+        "lookup_variants": [
+            "Doctor se chaup karyi hu wajan kam hai aur pani ki kami bata raha gai",
+            "baby ka weight kam aur pani kam hai",
+            "pet me pani ki kami hai kya karu",
+            "bache ka vajan kaise badhaye aur pani kaise badhaye"
+        ]
+    },
+    {
+        "booklet_id": "Q_0007",
+        "booklet_type": "MIQ",
+        "textbook_chapter_reference": "immunization_schedule_and_basics.md",
+        "printed_booklet_question": "Pregnancy mein TT ka tika lagwana kyon zaroori hai?",
+        "lookup_variants": [
+            "tt ka injection kyu jaruri hai pregnancy me",
+            "tika kyu lagwate hai",
+            "pregnancy me tetanus ka tika kyu lagta hai",
+            "td injection kyu important hai"
+        ]
+    },
+    {
+        "booklet_id": "Q_0008",
+        "booklet_type": "MIQ",
+        "textbook_chapter_reference": "immunization_rules_and_exceptions.md",
+        "printed_booklet_question": "Mujhe bukhar hai. Kya main chauthe mahine mein TT ka injection le sakti hoon?",
+        "lookup_variants": [
+            "Chauthe mahine hai mujhe mere fever hai to tt injection liye sakte kya",
+            "bukhar me tt ka tika lagwa sakte hai?",
+            "fever h to injection le sakte h kya",
+            "kya bukhar me tika lagta hai"
+        ]
+    },
+    {
+        "booklet_id": "Q_0009",
+        "booklet_type": "MIQ",
+        "textbook_chapter_reference": "childbirth_and_newborn_care.md",
+        "printed_booklet_question": "Mera delivery ka time ho gaya hai par dard shuru nahi ho raha hai. Dard aane ke liye kya karna chahiye?",
+        "lookup_variants": [
+            "Mujhe dard nahi aaa raha hai Dard aaye is ke liye kya karna chahiye",
+            "delivery date nikal gayi par pain nahi ho raha",
+            "labour pain start karne ke liye kya kare",
+            "dard aane ka upay batao"
+        ]
+    },
+    {
+        "booklet_id": "Q_0010",
+        "booklet_type": "MIQ",
+        "textbook_chapter_reference": "breastfeeding_special_conditions.md",
+        "printed_booklet_question": "Agar bachche ke liye maa ka doodh kam pad raha ho toh kya karna chahiye?",
+        "lookup_variants": [
+            "Agar bacche ko dudh kam hojaye to kiya kare",
+            "mera doodh kam aa raha hai",
+            "breast milk supply kaise badhaye",
+            "maa ka dudh nahi ho raha hai kya karu"
+        ]
+    },
+    {
+        "booklet_id": "Q_0011",
+        "booklet_type": "MIQ",
+        "textbook_chapter_reference": "pregnancy_nutrition_and_diet.md",
+        "printed_booklet_question": "Bachche ka vajan badhane ke liye pregnancy mein kya khana chahiye?",
+        "lookup_variants": [
+            "bache ka wajah badhane k liye kya khilana chaiye",
+            "baby ka weight gain karne ke liye kya khau",
+            "garbh me shishu ka vajan kaise badhaye",
+            "pet me bacche ka weight badhane ki diet"
+        ]
+    },
+    {
+        "booklet_id": "Q_0012",
+        "booklet_type": "MIQ",
+        "textbook_chapter_reference": "immunization_schedule_and_basics.md",
+        "printed_booklet_question": "Bachchon ka tikakaran kyon zaroori hai?",
+        "lookup_variants": [
+            "Tikkaran kyu jaruri hai",
+            "bacho ko tika lagwana kyu important hai",
+            "vaccination kyu karwate hai baby ka",
+            "tika nahi lagwayenge to kya hoga"
+        ]
+    },
+    {
+        "booklet_id": "Q_0013",
+        "booklet_type": "MIQ",
+        "textbook_chapter_reference": "immunization_schedule_and_basics.md",
+        "printed_booklet_question": "Bachche ko kaun se tike kab-kab lagte hain?",
+        "lookup_variants": [
+            "Bche ko tika kab kab lgta hai",
+            "baby ka vaccination chart kya hai",
+            "bache ke tike ki list",
+            "konsa tika kis month me lagta hai"
+        ]
+    },
+    {
+        "booklet_id": "Q_0014",
+        "booklet_type": "MIQ",
+        "textbook_chapter_reference": "pregnancy_nutrition_and_diet.md",
+        "printed_booklet_question": "Pregnancy mein kya khana chahiye aur kya nahi khana chahiye?",
+        "lookup_variants": [
+            "Pregnancy me kya khana chahiye",
+            "pregancny me konsi sabji khau or konsi sabji nahi",
+            "pregancny me konsa fall khau or konsi nahi",
+            "pregnancy me kya khaye kya na khaye"
+        ]
+    },
+    {
+        "booklet_id": "Q_0015",
+        "booklet_type": "MIQ",
+        "textbook_chapter_reference": "pregnancy_care_and_checkups.md",
+        "printed_booklet_question": "Pregnancy mein pet ke nichle hisse mein dard kyon hota hai? Yeh normal hai ya khatarnak?",
+        "lookup_variants": [
+            "pregnancy me pet k nichle hisse me dard kyun hota hai",
+            "pet ke niche dard ho raha hai",
+            "lower abdomen pain in pregnancy normal hai?",
+            "pedu me dard kyu hota hai"
+        ]
+    },
+    {
+        "booklet_id": "Q_0016",
+        "booklet_type": "MIQ",
+        "textbook_chapter_reference": "childbirth_and_newborn_care.md",
+        "printed_booklet_question": "Normal delivery ke liye kya karna chahiye?",
+        "lookup_variants": [
+            "normal delivery k liye kya kare",
+            "narmal dilwari ke liye tips",
+            "normal delivery kaise ho",
+            "kya khaye ki normal delivery ho"
+        ]
+    },
+    {
+        "booklet_id": "Q_0017",
+        "booklet_type": "MIQ",
+        "textbook_chapter_reference": "breastfeeding_special_conditions.md",
+        "printed_booklet_question": "Maa ko achha doodh bane, iske liye kya khana chahiye?",
+        "lookup_variants": [
+            "maa ko accha dudh ke liye karna hoga",
+            "doodh badhane ke liye kya khana chahiye",
+            "breast milk increase food",
+            "kya khane se doodh badhta hai"
+        ]
+    },
+    {
+        "booklet_id": "Q_0018",
+        "booklet_type": "MIQ",
+        "textbook_chapter_reference": "pregnancy_care_and_checkups.md",
+        "printed_booklet_question": "Pregnancy mein pairon mein soojan kyon aati hai aur iske liye kya karein?",
+        "lookup_variants": [
+            "pair me bohot soojan hai",
+            "Mera 6 manth Chal Raha hai paro me sweling aaye to kya karna chahiye",
+            "pregnancy me feet swelling ka kya ilaj hai",
+            "pairo me sujan aana normal hai?"
+        ]
+    },
+    {
+        "booklet_id": "Q_0019",
+        "booklet_type": "MIQ",
+        "textbook_chapter_reference": "childbirth_and_newborn_care.md",
+        "printed_booklet_question": "Caesarean delivery ke baad kya khana chahiye aur kya nahi?",
+        "lookup_variants": [
+            "Caeser delivery k baad kya kha sakte hai or kya nahi kha sakte hai",
+            "c section ke baad diet",
+            "operation se delivery ke baad kya khaye",
+            "sijerian ke baad kya parhez kare"
+        ]
+    },
+    {
+        "booklet_id": "Q_0020",
+        "booklet_type": "MIQ",
+        "textbook_chapter_reference": "pregnancy_care_and_checkups.md",
+        "printed_booklet_question": "Mera teesra mahina chal raha hai. Mujhe abhi kaun se check-up karwane zaroori hain?",
+        "lookup_variants": [
+            "Mujhe abhi 3 ra month chalu hai to mujhe kya kya check up karna jaruri hai",
+            "3rd month pregnancy me kya test hote hai",
+            "first trimester checkup list",
+            "teesre mahine me konsi janch hoti hai"
+        ]
+    },
+    {
+        "booklet_id": "Q_0021",
+        "booklet_type": "MIQ",
+        "textbook_chapter_reference": "pregnancy_care_and_checkups.md",
+        "printed_booklet_question": "Bachcha pet mein movement (hilna) kab shuru karta hai?",
+        "lookup_variants": [
+            "bacha kis month me movement karta hai",
+            "baby kick kab start karta hai",
+            "pet me halchal kab mehsoos hoti hai",
+            "bache ki movement kab pata chalti hai"
+        ]
+    },
+    {
+        "booklet_id": "Q_0022",
+        "booklet_type": "MIQ",
+        "textbook_chapter_reference": "child_growth_and_malnutrition.md",
+        "printed_booklet_question": "Pregnancy ke alag-alag mahino mein bachche ka vajan kitna hona chahiye?",
+        "lookup_variants": [
+            "bache ka wajan kitna hona chahiye",
+            "5 months pregnancy may baby ka weight kitna Rehta Hai",
+            "7th month me kitna weight rehna chahiye baby ka",
+            "garbh me shishu ka vajan har mahine"
+        ]
+    },
+    {
+        "booklet_id": "Q_0023",
+        "booklet_type": "MIQ",
+        "textbook_chapter_reference": "childbirth_and_newborn_care.md",
+        "printed_booklet_question": "Naye janme bachche mein kaun se khatre ke lakshan hote hain jinhe dekh kar turant doctor ke paas jaana chahiye?",
+        "lookup_variants": [
+            "newborn danger signs kya hai",
+            "naye bacche me kya problem ho sakti hai",
+            "kis situation me baby ko doctor ko dikhaye",
+            "navjat shishu ke khatre ke lakshan"
+        ]
+    },
+    {
+        "booklet_id": "Q_0024",
+        "booklet_type": "MIQ",
+        "textbook_chapter_reference": "child_growth_and_malnutrition.md",
+        "printed_booklet_question": "Kangaroo Mother Care (KMC) kya hai aur yeh kam vajan wale bachchon ke liye kyon zaroori hai?",
+        "lookup_variants": [
+            "KMC kya hota hai",
+            "kangaroo mother care kaise karte hai",
+            "kamjor bache ko kmc kyu dete hai",
+            "skin to skin care kya hai"
+        ]
+    },
+    {
+        "booklet_id": "Q_0025",
+        "booklet_type": "MIQ",
+        "textbook_chapter_reference": "complementary_feeding_6_to_24_months.md",
+        "printed_booklet_question": "Bachche ko upari aahar (solid food) dena kab shuru karna chahiye?",
+        "lookup_variants": [
+            "bachhe ko khana khilana kab shuru kare",
+            "when to start solid food for baby",
+            "upar ka khana kab de",
+            "6 mahine ke baad kya khilaye"
+        ]
+    },
+    {
+        "booklet_id": "Q_0026",
+        "booklet_type": "MIQ",
+        "textbook_chapter_reference": "complementary_feeding_6_to_24_months.md",
+        "printed_booklet_question": "Bachche ko shuruaat mein kaun se solid foods dene chahiye?",
+        "lookup_variants": [
+            "baby ke liye first food kya hai",
+            "6 mahine ke bacche ko kya khilaye",
+            "shuru me bacche ko kya de khane me",
+            "complementary feeding me kya de"
+        ]
+    },
+    {
+        "booklet_id": "Q_0027",
+        "booklet_type": "MIQ",
+        "textbook_chapter_reference": "government_cash_benefit_schemes.md",
+        "printed_booklet_question": "Pregnancy ke dauran sarkari paise wali kaun si yojanayein hain?",
+        "lookup_variants": [
+            "pregnancy me mujhe konsi yojana ka labh milega",
+            "sarkar se paisa kaise milta hai pregnant hone par",
+            "pmmvy jsy kya hai",
+            "garbhvati mahila ke liye sarkari yojana"
+        ]
+    },
+    {
+        "booklet_id": "Q_0028",
+        "booklet_type": "MIQ",
+        "textbook_chapter_reference": "government_free_service_schemes.md",
+        "printed_booklet_question": "Sarkari hospital mein delivery aur bachche ke ilaaj ke liye kya-kya free milta hai?",
+        "lookup_variants": [
+            "sarkari hospital me kya free hai",
+            "jssk scheme kya hai",
+            "free delivery kaha hoti hai",
+            "government hospital me free services"
+        ]
+    },
+    {
+        "booklet_id": "Q_0029",
+        "booklet_type": "MIQ",
+        "textbook_chapter_reference": "general_child_care_and_development.md",
+        "printed_booklet_question": "Bachche ki naabhi (umbilical cord) ki dekhbhal kaise karein?",
+        "lookup_variants": [
+            "baby ki nabhi ki care kaise kare",
+            "umbilical cord stump care",
+            "naal sukhne tak kya kare",
+            "bacche ki sundi ki dekhbhal"
+        ]
+    },
+    {
+        "booklet_id": "Q_0030",
+        "booklet_type": "MIQ",
+        "textbook_chapter_reference": "vaccine_side_effects_and_reactions.md",
+        "printed_booklet_question": "Tika lagne ke baad agar bachche ko bukhar aaye toh kya karna chahiye?",
+        "lookup_variants": [
+            "injection ke baad bukhar aaye to kya kare",
+            "vaccine ke baad fever",
+            "tika lagne par bukhar ki dawa",
+            "baby crying after vaccine fever"
+        ]
+    },
+    {
+        "booklet_id": "Q_0031",
+        "booklet_type": "MIQ",
+        "textbook_chapter_reference": "breastfeeding_special_conditions.md",
+        "printed_booklet_question": "Caesarean (operation) se delivery ke baad doodh kaise pilayein?",
+        "lookup_variants": [
+            "feeding after c-section",
+            "operation ke baad doodh kaise pilau",
+            "c section ke baad breastfeeding position",
+            "sijerian ke baad doodh kab aata hai"
+        ]
+    },
+    {
+        "booklet_id": "Q_0032",
+        "booklet_type": "MIQ",
+        "textbook_chapter_reference": "breastfeeding_guidance.md",
+        "printed_booklet_question": "Maa ka pehla gaadha peela doodh (colostrum) bachche ke liye kyon zaroori hai?",
+        "lookup_variants": [
+            "colostrum kyu important hai",
+            "maa ka pehla doodh",
+            "delivery ke baad peela doodh kyu jaruri hai",
+            "cheenk ka doodh ke fayde"
+        ]
+    },
+    {
+        "booklet_id": "Q_0033",
+        "booklet_type": "MIQ",
+        "textbook_chapter_reference": "general_child_care_and_development.md",
+        "printed_booklet_question": "Bachche ko surakshit tarike se kaise sulana chahiye?",
+        "lookup_variants": [
+            "safe sleep for baby",
+            "baby ko kaise sulaye",
+            "bacche ke sone ka sahi tarika",
+            "sids se bachav ke liye kaise sulaye"
+        ]
+    },
+    {
+        "booklet_id": "Q_0034",
+        "booklet_type": "MIQ",
+        "textbook_chapter_reference": "immunization_rules_and_exceptions.md",
+        "printed_booklet_question": "Agar bachche ka koi tika chhoot jaaye toh kya karna chahiye?",
+        "lookup_variants": [
+            "missed vaccine dose what to do",
+            "tika miss ho gaya ab kya kare",
+            "vaccine chhut gaya hai",
+            "delayed vaccination schedule"
+        ]
+    },
+    {
+        "booklet_id": "Q_0035",
+        "booklet_type": "MIQ",
+        "textbook_chapter_reference": "pregnancy_care_and_checkups.md",
+        "printed_booklet_question": "Pregnancy mein acidity ya gas hone par kya karna chahiye?",
+        "lookup_variants": [
+            "acidity ho gayi h toh kya karna chahiye",
+            "pregnancy me gas problem",
+            "Gla kahe liye jalta hai",
+            "Is wakt kya kru ges khatm karne ke liye"
+        ]
+    },
+    {
+        "booklet_id": "Q_0036",
+        "booklet_type": "MIQ",
+        "textbook_chapter_reference": "pregnancy_care_and_checkups.md",
+        "printed_booklet_question": "Pregnancy mein kamar dard ke liye kya upaay hain?",
+        "lookup_variants": [
+            "kamar me dard hai kya karu",
+            "back pain in pregnancy relief",
+            "pregnancy me kamar dard kyu hota hai",
+            "Mere pao me bhot dardr rhta hai"
+        ]
+    },
+    {
+        "booklet_id": "Q_0037",
+        "booklet_type": "MIQ",
+        "textbook_chapter_reference": "pregnancy_care_and_checkups.md",
+        "printed_booklet_question": "Pregnancy mein chakkar aane par kya karna chahiye?",
+        "lookup_variants": [
+            "chakkar aa raha hai kya karu",
+            "pregnancy me dizziness",
+            "mujhe chakkar aa rahe hai",
+            "kamjori aur chakkar aana pregnancy me"
+        ]
+    },
+    {
+        "booklet_id": "Q_0038",
+        "booklet_type": "MIQ",
+        "textbook_chapter_reference": "childbirth_and_newborn_care.md",
+        "printed_booklet_question": "Delivery ke liye hospital jaate samay kya-kya saaman saath le jaana chahiye?",
+        "lookup_variants": [
+            "hospital delivery ki kya tayyari hai",
+            "what to pack for delivery",
+            "hospital bag me kya rakhe",
+            "delivery ke liye kya taiyari kare"
+        ]
+    },
+    {
+        "booklet_id": "Q_0039",
+        "booklet_type": "MIQ",
+        "textbook_chapter_reference": "pregnancy_care_and_checkups.md",
+        "printed_booklet_question": "Pregnancy mein safed paani (white discharge) aana normal hai ya chinta ki baat hai?",
+        "lookup_variants": [
+            "pregnancy me white discharge q aata hai",
+            "safed pani aana normal hai",
+            "white discharge in pregnancy",
+            "safed paani ke liye kya kare"
+        ]
+    },
+    {
+        "booklet_id": "Q_0040",
+        "booklet_type": "MIQ",
+        "textbook_chapter_reference": "breastfeeding_guidance.md",
+        "printed_booklet_question": "Kaise pata chalega ki bachche ko bhar pet doodh mil raha hai?",
+        "lookup_variants": [
+            "is my milk enough for baby",
+            "kaise jane baby ka pet bhar gaya",
+            "adequacy of milk signs",
+            "bacha kitni der me kitni bar peshab karta hai"
+        ]
+    },
+    {
+        "booklet_id": "Q_0041",
+        "booklet_type": "MIQ",
+        "textbook_chapter_reference": "child_growth_and_malnutrition.md",
+        "printed_booklet_question": "Bachchon mein kuposhan (malnutrition) ke kya lakshan hain aur isse kaise bachein?",
+        "lookup_variants": [
+            "kuposhan kya hai",
+            "malnutrition ke lakshan",
+            "bacha kamjor hai kya kare",
+            "baby not gaining weight"
+        ]
+    },
+    {
+        "booklet_id": "Q_0042",
+        "booklet_type": "MIQ",
+        "textbook_chapter_reference": "anemia_during_pregnancy.md",
+        "printed_booklet_question": "Pregnancy mein pet ke keede maarne ki dawai (Albendazole) kab aur kyon di jaati hai?",
+        "lookup_variants": [
+            "albendazole in pregnancy",
+            "pet ke kide ki dawa pregnancy me",
+            "deworming kyu karte hai",
+            "albendazole tablet kab leni hai"
+        ]
+    },
+    {
+        "booklet_id": "Q_0043",
+        "booklet_type": "MIQ",
+        "textbook_chapter_reference": "pregnancy_care_and_checkups.md",
+        "printed_booklet_question": "Pregnancy mein sonography (ultrasound) kab-kab aur kyon ki jaati hai?",
+        "lookup_variants": [
+            "sonography kab karwani chahiye",
+            "ultrasound kyu karte hai pregnancy me",
+            "pregnancy me kitne ultrasound hote hai",
+            "sonography report me kya dekhte hai"
+        ]
+    },
+    {
+        "booklet_id": "Q_0044",
+        "booklet_type": "MIQ",
+        "textbook_chapter_reference": "pregnancy_nutrition_and_diet.md",
+        "printed_booklet_question": "Garbhavastha ke dauran kaun si cheezein bilkul nahi khani chahiye?",
+        "lookup_variants": [
+            "what not to eat pregnancy",
+            "pregnancy me kya nahi khana chahiye",
+            "foods to avoid during pregnancy",
+            "kya pregnancy me papita kha sakte hai"
+        ]
+    },
+    {
+        "booklet_id": "Q_0045",
+        "booklet_type": "MIQ",
+        "textbook_chapter_reference": "childbirth_and_newborn_care.md",
+        "printed_booklet_question": "Delivery shuru hone ke kya lakshan hain? Kab hospital jaana chahiye?",
+        "lookup_variants": [
+            "signs of labor",
+            "delivery ke lakshan kya hai",
+            "when to go to hospital for delivery",
+            "labour pain ke symptoms"
+        ]
+    },
+    {
+        "booklet_id": "Q_0046",
+        "booklet_type": "MIQ",
+        "textbook_chapter_reference": "breastfeeding_special_conditions.md",
+        "printed_booklet_question": "Doodh pilate samay nipple mein dard ya ghaav ho jaaye toh kya karna chahiye?",
+        "lookup_variants": [
+            "sore nipples while breastfeeding",
+            "nipple me dard ho raha hai",
+            "cracked nipples ka ilaj",
+            "doodh pilane me pain kyu hota hai"
+        ]
+    },
+    {
+        "booklet_id": "Q_0047",
+        "booklet_type": "MIQ",
+        "textbook_chapter_reference": "child_growth_and_malnutrition.md",
+        "printed_booklet_question": "Bachche ka vajan aur lambai sahi badh rahi hai ya nahi, yeh kaise pata karein?",
+        "lookup_variants": [
+            "growth monitoring kyu jaruri hai",
+            "baby ka weight chart",
+            "bacha theek se badh raha hai ya nahi",
+            "child growth and development kaise check kare"
+        ]
+    },
+    {
+        "booklet_id": "Q_0048",
+        "booklet_type": "MIQ",
+        "textbook_chapter_reference": "general_child_care_and_development.md",
+        "printed_booklet_question": "Agar bachche ko dast (diarrhea) lag jaayein toh ghar par kya karna chahiye?",
+        "lookup_variants": [
+            "Dast padhne per kya khayen",
+            "baby ko loose motion ho to kya kare",
+            "diarrhea me kya de",
+            "bachhe ko dast lag gaye"
+        ]
+    },
+    {
+        "booklet_id": "Q_0049",
+        "booklet_type": "MIQ",
+        "textbook_chapter_reference": "breastfeeding_guidance.md",
+        "printed_booklet_question": "Pehle 6 mahine tak bachche ko sirf maa ka doodh kyon pilana chahiye? Paani bhi nahi dena chahiye kya?",
+        "lookup_variants": [
+            "exclusive breastfeeding kyu important hai",
+            "6 mahine tak sirf maa ka doodh",
+            "baby ko pani kab se de",
+            "kya 6 mahine se pehle pani de sakte hai"
+        ]
+    },
+    {
+        "booklet_id": "Q_0050",
+        "booklet_type": "MIQ",
+        "textbook_chapter_reference": "pregnancy_care_and_checkups.md",
+        "printed_booklet_question": "Pregnancy mein kaun se khatre ke lakshan hain jinhe nazarandaaz nahi karna chahiye?",
+        "lookup_variants": [
+            "danger signs in pregnancy",
+            "pregnancy me kab doctor ke pas jana chahiye",
+            "khatre ke lakshan garbhvati mahila",
+            "bleeding in pregnancy is it normal"
+        ]
+    },
+    {
+        "booklet_id": "Q_0051",
+        "booklet_type": "MIQ",
+        "textbook_chapter_reference": "general_child_care_and_development.md",
+        "printed_booklet_question": "Naye janme bachche ko pehli baar kab aur kaise nehlana chahiye?",
+        "lookup_variants": [
+            "how to bathe baby",
+            "newborn ko kaise nahlaye",
+            "baby ko kab se nehlana shuru kare",
+            "bachhe ko nehlane ka tarika"
+        ]
+    },
+    {
+        "booklet_id": "Q_0052",
+        "booklet_type": "MIQ",
+        "textbook_chapter_reference": "anemia_during_pregnancy.md",
+        "printed_booklet_question": "Khoon ki kami (anemia) ke kya lakshan hote hain?",
+        "lookup_variants": [
+            "anemia ke symptoms kya hai",
+            "kaise pata chale khoon ki kami hai",
+            "feeling tired and weak in pregnancy",
+            "chakkar aana kamjori khoon ki kami hai kya"
+        ]
+    }
+]
