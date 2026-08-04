@@ -1,0 +1,636 @@
+question,CompiledAnswer,booklet_id,booklet_type,frequencelevel,criticalitylevel,AnswerConsistencyLevel,ConfidenceLevelinAnswer,ClarityofQuestion,PossibleAssumptioninQuestion,ActionRecommendation,Topics,Keywords,SuggestedReframedQuestion,lookup_variants
+Pregnancy me khoon (hemoglobin) badhane ke liye kya khana chahiye?,"Pregnancy mein hemoglobin ke liye **iron-rich foods** roz khayein aur unke saath **Vitamin C** wali cheez lein.
+
+- **Iron foods:** palak/methi jaise leafy vegetables, dal, chana, rajma/beans, bajra, jowar, til, pumpkin seeds, khajoor aur kishmish.
+- Agar aap non-veg khati hain: anda, chicken, fish aur lean meat le sakti hain.
+- **Vitamin C saath mein:** nimbu, amla, amrood, orange, tomato ya capsicum. Jaise dal/chana par nimbu nichod sakti hain.
+
+**Iron absorb hone ke liye:**
+- Chai, coffee aur cola ko iron-rich meal ya iron tablet ke aas-paas na lein; kam se kam **1–2 ghante ka gap** rakhein.
+- Milk/curd ya calcium supplements ko iron tablet ke same time par na lein; alag time par lein.
+
+Sirf khane se significant anemia hamesha theek nahi hota. Pregnancy mein prescribed **Iron-Folic Acid (IFA)** tablets lena aur Hb test karwana zaroori ho sakta hai—tablet ki dose apne doctor/health worker se confirm karein.
+
+Agar bahut zyada kamzori, chakkar, saans phoolna, dhadkan tez hona, behoshi, ya Hb bahut kam ho, to jaldi health facility se sampark karein.",Q_0001,MIQ,['High Frequency'],['High Critical'],VeryConsistent,High,Clear,ImplicitAssumption,RE_VET,"Pregnancy anemia, Antenatal nutrition, Iron and folic acid supplementation","pregnancy, hemoglobin, khoon badhana, anemia, iron-rich food, IFA tablet, Vitamin C","Pregnancy mein mera Hb/khoon kam hai ya kam hone ka doubt hai—hemoglobin badhane ke liye kya khana chahiye, kya avoid karna chahiye, aur IFA tablet doctor se kab leni chahiye?","['Mera Khoon 7 point hain khoon badhane ke liye kya karna hai', 'hb kam hai khane me kya lu', 'pregnancy me blood badhane ke liye kya khaye', 'khoon badhane k liye kya khana zaruri hai']"
+Pregnancy me khoon ki jaanch (blood test) karana kyu zaroori hai?,"Pregnancy mein blood tests isliye zaroori hote hain kyunki inse maa aur baby ko affect karne wali problems **jaldi pakdi** ja sakti hain.
+
+In tests se doctor/health worker check kar sakte hain:
+- **Khoon ki kami (anaemia)** aur platelet level
+- **Blood group aur Rh factor**, jisse Rh-related risk ka plan ban sake
+- **Blood sugar**, yani pregnancy diabetes ka risk
+- Kuch infections, jaise **HIV, syphilis aur hepatitis B**; dusre tests local guidelines aur aapki health history ke hisaab se ho sakte hain
+- Zarurat par **thyroid** ya anya health problems
+
+Early detection se iron/folic acid, medicines, vaccination, monitoring ya referral jaise steps time par liye ja sakte hain. Kaun-sa test aur kab repeat hoga, yeh aapke trimester, reports, risk factors aur doctor/health worker ki advice par depend karta hai.",Q_0002,MIQ,['Medium Frequency'],['High Critical'],VeryConsistent,Medium,Clear,ImplicitAssumption,RE_VET,"Pregnancy care, Antenatal screening, Maternal health tests","pregnancy, pregnancy me blood test, khoon ki jaanch, antenatal checkup, CBC hemoglobin, blood group Rh factor, gestational diabetes","Pregnancy mein routine blood tests/khoon ki jaanch kyu karwate hain, aur inse kya-kya problems jaldi pata chal sakti hain?","['Pregnancy mai khun ka check up Krna q zaruri hai', 'blood test kyu karte hai pregnancy me', 'khoon janch kyu karwani chahiye', 'hb test karana important hai kya']"
+Iron aur Calcium ki goliyaan ek saath le sakte hain ya nahi? Unhe kab lena chahiye?,"**Iron aur calcium ki goli ek saath na lein**, kyunki calcium iron ke absorption ko kam kar sakta hai.
+
+- **Calcium:** aam taur par meal ke baad le sakte hain, agar doctor ne prescribe kiya ho.
+- **Iron/IFA:** calcium se **kam se kam 2 ghante ka gap** rakhkar lein. Pet par suit kare to meals ke beech/baad le sakte hain.
+- Iron tablet ke aas-paas **chai, coffee, ya doodh** lene se bachna behtar hai, kyunki iron absorption kam ho sakta hai.
+
+Example: calcium breakfast aur dinner ke baad, aur iron/IFA lunch ke lagbhag 2 ghante baad. Dose aur exact timing apne doctor ki prescription ke mutabik rakhein—khaaskar agar Hb kam hai, pregnancy hai, ya doosri medicines chal rahi hain.",Q_0003,MIQ,['High Frequency'],['High Critical'],VeryConsistent,Medium,Clear,ImplicitAssumption,KEEP,"Pregnancy and antenatal care, Nutrition and supplements, Medication timing","iron tablet, calcium ki goli, IFA, saath mein lena, 2 ghante ka gap, pregnancy supplements, chai coffee","Iron/IFA aur calcium ki goli kya ek saath le sakte hain? In dono ke beech kitne time ka gap rakhna chahiye, aur kab lena best hai?","['calcium ki dawai kab leni chahiye or kya isse iron wali dawai k sath le sakti hu?', 'iron calcium goli kaise khaye', 'kya iron or calcium ki tablet sath me kha sakte h', 'calcium aur iron ki goli lene ka time']"
+Pregnancy me BP (Blood Pressure) badh jaaye to kya karna chahiye? Yeh khatarnak kyu hai?,"## Pregnancy mein BP badh jaaye to kya karein?
+
+Pregnancy mein high BP ko **ignore na karein**. Aaj hi apne doctor/ANM/health centre se baat karein aur antenatal check-up miss na karein. BP, urine test aur baby ki growth/movement ki assessment zaroori ho sakti hai. **Khud se BP ki dawa shuru, band ya dose change na karein.**
+
+### Turant hospital/health facility jaayein agar high BP ke saath:
+- tez ya lagatar headache, chakkar, ya aankhon ke saamne dhundhla dikhna ho
+- chehre ya haathon mein achanak zyada sujan ho
+- pet ke upar/right side mein tez dard, saans phoolna, behoshi ya bahut zyada kamzori ho
+- vaginal bleeding ya paani jaisa discharge ho
+- baby ki movement kam ya band lage
+
+Transport na mile to local emergency/ambulance service, jaise **102/108** (jahaan available ho), ko call karein.
+
+### Yeh khatarnak kyun ho sakta hai?
+Pregnancy ka high BP kabhi-kabhi **preeclampsia** naam ki serious condition ka sign hota hai. Isse maa ko fits (seizures), stroke, kidney/liver problems ya placenta se judi complications ka risk ho sakta hai. Baby tak blood aur oxygen ki supply kam ho sakti hai, jisse growth kam hona, time se pehle delivery, ya doosri serious problems ho sakti hain. Jaldi check-up aur treatment se risk kam kiya ja sakta hai.
+
+Agar possible ho, BP reading, pregnancy ke kitne weeks/months hain, aur koi symptom hai ya nahi, yeh doctor ko batayein.",Q_0004,MIQ,['Low Frequency'],['High Critical'],VeryConsistent,High,Clear,ImplicitAssumption,RE_VET,"Pregnancy care, Hypertensive disorders of pregnancy, Pregnancy danger signs","pregnancy mein high BP, BP badh jaaye, preeclampsia, antenatal check-up, pregnancy danger signs, baby movement kam, 102/108 ambulance","Pregnancy mein mera BP high aa raha hai—mujhe ab kya karna chahiye aur yeh maa aur baby ke liye khatarnak kyun ho sakta hai? BP reading, pregnancy week aur symptoms bhi bata sakti/ta sakta hoon.","['Mera bp 180 bad gaya hai admit ke liye bola hai', 'pregnancy me bp high ho to kya kare', 'blood pressure badh gaya hai kya karu', 'pregrency me bp high hona normal hai kya']"
+Pregnancy me TT (Tetanus) ka tika kab aur kitni baar lagta hai?,"Pregnancy mein tetanus se bachav ke liye **Td/TT vaccine** aam taur par lagti hai:
+
+- **Dose 1:** Pregnancy ka pata chalne ke baad, **jaldi se jaldi**.
+- **Dose 2:** Pehli dose ke **kam se kam 4 hafton baad**.
+- Dono doses ko ideally **pregnancy ke 36 weeks se pehle** complete karna chahiye.
+
+Agar aapko pichhle **3 saal mein 2 tetanus-containing doses** lag chuki hain, to aksar **1 booster dose** hi kaafi hoti hai.
+
+Apna **MCP/vaccination card** ANM ya doctor ko zaroor dikhayein, kyunki exact schedule aapke purane vaccination record par depend karta hai. Government health facilities mein yeh vaccine aam taur par free milti hai.",Q_0005,MIQ,['High Frequency'],['High Critical'],VeryConsistent,High,Clear,ImplicitAssumption,KEEP,"Pregnancy care, Antenatal immunization, Tetanus prevention","pregnancy, TT tika, Td vaccine, tetanus injection, kitni baar, 4 hafton baad, MCP card",Pregnancy mein TT/Td ka tika kab lagta hai aur kitni doses lagti hain? Agar pehle se TT/Td laga ho to booster kab chahiye?,"['Meri first pregnancy Hai to Mujhe didi ka injection kitne bar lagega', 'tt ka tika kab lagwana hai', 'pregnancy me tetanus ka injection', 'td injection kab lagta h']"
+Agar pregnancy me bukhar (fever) ho to kya TT ka injection le sakte hain?,"Pregnancy mein bukhar ho aur **TT/Td injection due** ho, to injection lagwane se pehle ANM/doctor ko zaroor batayein ki bukhar hai.
+
+- Dono cheezein—pregnancy aur fever ki severity—check karna zaroori hai.
+- Bukhar kitna hai, kitne din se hai, aur khansi, saans ki dikkat, pet dard, rash, bleeding, ya bahut zyada kamzori jaise symptoms hain ya nahi, yeh batayein.
+- Health worker aapki condition dekhkar batayenge ki injection usi din dena hai ya pehle fever ka assessment/treatment karna hai.
+
+**Jaldi care lein** agar tez bukhar, saans lene mein dikkat, severe pet dard, bleeding, behoshi/confusion, ya bahut zyada kamzori ho.",Q_0006,MIQ,['Low Frequency'],['High Critical'],VeryConsistent,Medium,Clear,ImplicitAssumption,RE_VET,"Pregnancy care and checkups, Maternal immunization, Vaccination rules and precautions","pregnancy, bukhar, fever, TT injection, Td vaccine, ANM/doctor, pregnancy mein vaccine","Main pregnant hoon aur mujhe bukhar hai. Mera TT/Td injection due hai—kya abhi lagwa sakti hoon? Bukhar kitna hai, kitne din se hai, aur koi aur symptoms bhi hain?","['Chauthe mahine hai mujhe mere fever hai to tt injection liye sakte kya', 'bukhar me tt ka tika lagwa sakte hai', 'fever hone par pregnancy me injection le sakte h', 'bimar hu to tika lagega ya nahi']"
+Mera bachcha kamzor paida hua hai aur use 'kaanch' (incubator) me rakha hai. Iska kya matlab hai?,"“Kaanch” se aam taur par **incubator** matlab hota hai—ek hospital machine/bed jo chhote ya kamzor newborn ko garam rakhne aur close monitoring ke liye use hoti hai.
+
+Baby ko incubator mein **kam birth weight, time se pehle paida hone, body temperature maintain na kar paane, saans ki problem, feeding difficulty, ya infection ke risk** ki wajah se rakha ja sakta hai. Sirf incubator mein rakhne ka matlab yeh nahi ki baby ki condition zaroor bahut serious hai; exact reason treating doctor hi bata sakte hain.
+
+Doctor/nurse se poochhein:
+- Baby ka birth weight aur pregnancy ke kitne weeks par birth hua?
+- Incubator ki zarurat ka main reason kya hai—weight, saans, temperature, feeding, ya koi aur problem?
+- Baby ko breastmilk kaise aur kab diya jayega?
+
+Agar baby stable ho, hospital team **Kangaroo Mother Care (KMC)**—maa ya pita ke seene se skin-to-skin contact—and breastmilk ki salah de sakti hai. Yeh **hospital staff ki advice ke mutabik** hi shuru karein.
+
+Hospital mein baby ki saans tez/chalti hui lage, baby neela pade, feed na le, bahut sust ho, ya bukhar/temperature low ho, to turant nurse ya doctor ko batayein.",Q_0007,MIQ,['Low Frequency'],['High Critical'],VeryConsistent,High,Clear,ImplicitAssumption,KEEP,"Newborn care, Low birth weight and prematurity, Kangaroo Mother Care","kaanch, incubator, kamzor newborn, low birth weight, preterm baby, Kangaroo Mother Care (KMC), breastmilk feeding","Mera newborn baby kamzor/chhota paida hua hai aur use “kaanch” yani incubator mein rakha hai. Doctor ne kyun rakha hoga—weight, saans, temperature ya feeding ke liye? Baby ka birth weight aur care ke baare mein kya poochhna chahiye?","['Mera babu kamzor h use kanch m rakha h', 'bacha kamjor hai kanch me rakha hai', 'baby ko kanch me kyu rakhte hai', 'kam wajan wale bache ko machine me rakha hai']"
+Doctor ne bataya hai ki bachche ka vajan kam hai aur paani ki bhi kami hai. Ab kya karna chahiye?,"## Pehle yeh clear karna zaroori hai
+“Bachche ka vajan kam aur paani ki kami” ka matlab do alag situations ho sakta hai:
+
+1. **Pregnancy mein ultrasound par baby ka weight kam aur paani/amniotic fluid kam**, ya
+2. **Paida hue bachche ka weight kam aur dehydration/feeding ki kami**.
+
+Dono mein doctor ki **jaldi follow-up review** zaroori hai. Scan/report ya child growth record saath le jaiye.
+
+## Agar aap pregnant hain
+- Gynaecologist se poochhiye ki baby ka growth, amniotic fluid aur placenta report mein kya likha hai aur next scan/monitoring kab hai.
+- Doctor ki batayi medicines, iron-folic acid/calcium aur diet advice follow karein; bina advice ke koi medicine ya home remedy se “paani” badhane ki koshish na karein.
+- **Turant facility jaiye** agar bleeding ya paani jaisa discharge, tez pet dard, bukhar, behoshi/zyada kamzori, severe headache, chehre/haath-pair ki achanak sujan, ya baby ki movements kam/na ho.
+
+## Agar bachcha paida ho chuka hai
+- Child doctor/health worker se **weight, feeding/latch, urine output aur growth chart** check karwaiye.
+- Breastfeeding baby ko **baar-baar breastfeed** karaiye. 6 mahine se chhote baby ko aam taur par sirf breastmilk chahiye; plain paani ya koi drink dene se pehle doctor se poochhein.
+- Low-birth-weight lekin stable baby ke liye **Kangaroo Mother Care** (skin-to-skin contact aur frequent exclusive breastfeeding) helpful ho sakta hai.
+- Dast/ulti ho to feeding band na karein; ORS ya fluids ke baare mein health worker ki salah lein.
+
+**Urgent care lein** agar bachcha feed na kar raha ho, bahut sust ho, baar-baar ulti/dast ho, muh sookha ho, aankhen dhansi lagen, bukhar ho, ya peshab bahut kam ho.
+
+Doctor ko bachche ki age/pregnancy week, current weight, kitne din se problem hai, feeding aur urine ki details, aur scan/report dikhaiye.",Q_0008,MIQ,['Low Frequency'],['High Critical'],VeryConsistent,Medium,Ambiguous,ImplicitAssumption,RE_VET,"Pregnancy monitoring, Child growth and nutrition, Dehydration and feeding","bachche ka vajan kam, low birth weight, paani ki kami, dehydration, amniotic fluid, Kangaroo Mother Care, growth monitoring","Doctor ne bola hai ki bachche ka weight kam hai aur “paani” bhi kam hai. Kya yeh pregnancy ultrasound mein baby ka weight aur amniotic fluid kam hai, ya paida hue bachche mein dehydration/feeding ki kami? Pregnancy week ya bachche ki age, report ke numbers, feeding aur peshab ki details ke hisaab se ab kya karna chahiye?","['Doctor se chaup karyi hu wajan kam hai aur pani ki kami bata raha gai', 'pet me pani kam hai kya karu', 'baby ka weight kam hai aur pani bhi kam hai', 'amniotic fluid kam ho to kya kare']"
+Bachchon ke liye teekakaran (vaccination) kyu zaroori hai?,"## Bachchon ke liye vaccination kyu zaroori hai?
+
+Vaccination bachche ko kai **serious infectious diseases** se bachane ka safe aur effective tareeqa hai. Vaccine body ke immune system ko infection pehchanne aur uske khilaaf protection (antibodies aur immune response) banane mein madad karta hai.
+
+- Vaccines sahi umar par aur **poori recommended doses** mein lagne par best protection dete hain.
+- Vaccine delay ya miss hone par bachcha kuch samay tak us bimari se kam protected reh sakta hai aur serious infection ka risk badh sakta hai.
+- Teekakaran se kuch bimariyon ki severe complications, hospital admission aur death ka risk kam hota hai.
+- Routine childhood vaccination birth se shuru hoti hai. India mein sarkari health facilities par National Immunization Schedule ke vaccines aam taur par free milte hain; Mother and Child Protection (MCP) card sambhal kar rakhein.
+
+Agar koi dose miss ho gayi ho, apne nearest health centre ya pediatrician se catch-up vaccination ke baare mein poochhein.",Q_0009,MIQ,['Medium Frequency'],['High Critical'],VeryConsistent,High,Clear,NoAssumption,KEEP,"Childhood immunization, Preventive healthcare, Vaccine schedule basics","teekakaran, vaccination, bachchon ka vaccine, immunization, antibodies, routine childhood immunization, MCP card","Bachchon ke liye routine teekakaran (vaccination) kyu zaroori hai, aur time par saari doses lagwana kyu important hai?","['Tikkaran kyu jaruri hai', 'bacho ko tika lagwana kyu important hai', 'vaccine kyu lagate hai', 'teeka nahi lagwayenge to kya hoga']"
+Delivery ka time paas hai lekin dard shuru nahi ho raha hai. Dard laane ke liye kya kar sakte hain?,"Delivery ka time paas hone par bhi dard shuru na hona kabhi-kabhi normal ho sakta hai, lekin **ghar par dard laane ki koshish na karein**. Koi dawa, desi nuskha, ya method bina doctor/health worker ki salah ke use na karein.
+
+Apne doctor ya nearest health centre se **aaj hi** baat karein. Unhe batayein:
+- pregnancy kitne hafte ki hai / due date kya hai
+- baby ki movement normal hai ya nahi
+- paani leak ho raha hai ya bleeding ho rahi hai
+- koi purani pregnancy ya health complication hai ya nahi
+
+Delivery bag, reports aur transport ready rakhein. Zarurat ho to free government ambulance **102/108** par call karein.
+
+**Turant hospital/health facility jayein** agar bleeding ho, paani nikal raha ho, baby ki movement kam ya band lage, tez pet dard, bukhar, chakkar/behoshi, ya bahut zyada kamzori ho.",Q_0010,MIQ,['Medium Frequency'],['High Critical'],VeryConsistent,Medium,Clear,DangerousAssumption,KEEP,"Labour and delivery, Pregnancy danger signs, Birth preparedness","delivery time paas, dard shuru nahi, labour pain, near due date, ghar par induction, baby movement, 102/108 ambulance","Delivery ka time paas hai lekin dard shuru nahi hua. Meri pregnancy kitne weeks ki hai/due date kya hai, baby movement normal hai, aur paani ya bleeding to nahi ho rahi—mujhe doctor ya hospital se kab sampark karna chahiye?","['Mujhe dard nahi aaa raha hai Dard aaye is ke liye kya karna chahiye', 'delivery date nikal gayi par pain nahi ho raha', 'labour pain start karne ke liye kya kare', 'dard shuru nahi hua ab kya']"
+Agar maa ka doodh bachche ke liye kam pad raha ho to kya karna chahiye?,"Aksar doodh sach mein kam nahi hota—pehle dekhein ki baby ko milk theek se mil raha hai ya nahi.
+
+- Baby ko **demand par baar-baar breastfeed** karayein, din aur raat mein. Har feed mein baby ko ek breast par tab tak peene dein jab tak woh khud chhod de, phir zarurat ho to doosra breast offer karein.
+- **Latch check karein:** baby ka muh wide open ho, chin breast ko touch kare, aur nipple ke saath areola ka kaafi hissa muh mein ho. Feed ke dauran gehri sucking aur nigalne ki awaaz/harakat dikhni chahiye.
+- Agar baby 5 din se bada aur exclusively breastfed hai, to aam taur par **24 ghante mein 6 ya zyada wet diapers/urine** aur lagatar weight gain reassuring signs hote hain. Growth ko health worker ke growth chart par check karwana sabse behtar hai.
+- Pehle 6 mahine mein, agar baby sirf breastfeed kar raha hai, to **paani, ghutti ya doosra feed** na dein; pyas/feeding cues par breast offer karein.
+
+**Jaldi doctor, ANM/ASHA, ya lactation counsellor se milen** agar baby bahut sust ho, feed na kar raha ho, urine bahut kam ho, weight na badh raha ho/ghat raha ho, bukhar ho, ya dehydration ke signs hon. Baby ki umar, wet diapers ki sankhya, weight trend aur latch dekhkar hi pata chalega ki supply ki problem hai ya feeding technique ki.",Q_0011,MIQ,['High Frequency'],['High Critical'],VeryConsistent,Medium,Clear,ImplicitAssumption,RE_VET,"Breastfeeding support, Perceived low milk supply, Infant feeding assessment","maa ka doodh kam, breastfeeding, low milk supply, latch, wet diapers / susu, baby weight gain, exclusive breastfeeding","Mujhe lag raha hai ki mera baby maa ka doodh poora nahi le paa raha. Kaise pata chalega ki doodh kaafi mil raha hai, aur latch ya feeding mein kya sudhar karun?","['Agar bacche ko dudh kam hojaye to kiya kare', 'mera doodh kam aa raha hai kya karu', 'baby ka pet nahi bhar raha mere doodh se', 'breast milk supply kaise badhaye']"
+Garbhavastha me bachche ka vajan badhane ke liye maa ko kya khana chahiye?,"## Garbhavastha mein baby ki healthy growth ke liye kya khayen?
+
+Baby ka weight sirf khane se nahi, balki pregnancy ke month, maa ke Hb/BP/sugar, placenta aur anya health factors se bhi affect hota hai. Isliye **balanced diet** lein—sirf zyada khana zaroori nahi.
+
+- Roz **4–5 chhote, nutritious meals** lein. Dusre trimester se ek extra healthy meal/snack le sakti hain.
+- Har din protein shamil karein: **dal, chana, rajma, beans, doodh, dahi, paneer, anda**; non-veg lete hain to well-cooked fish/chicken.
+- **Roti/rice, bajra, jowar, ragi** jaise grains, seasonal fruits aur sabziyan—khaaskar hari pattedar sabziyan—khaayen.
+- Healthy snacks: fruit, doodh, peanuts/nuts, roasted chana, dates ya salad.
+- Iron ke liye dal, chana, leafy vegetables aur jaggery/dates; calcium ke liye doodh, dahi, paneer lein. **Iodized namak** use karein.
+- Doctor/ANM ne jo **iron-folic acid (IFA) aur calcium tablets** di hain, unhe unki salah ke mutabik lein. Iron aur calcium ko ek saath na lein; tea/coffee bhi meals ya iron tablet ke aas-paas na lein.
+- Paani aur anya safe fluids milakar lagbhag **2 litre ya pyaas ke hisaab se** lein, agar doctor ne fluid restriction na di ho.
+
+**Bachna chahiye:** junk/zyada oily ya sugary food, alcohol, tobacco/gutkha, kaccha ya adhpaka anda, aur bina ubla/pasteurized doodh. Tea/coffee ko limited rakhein.
+
+Agar ultrasound mein baby ka weight kam, growth slow, ya paani/BP/sugar/Hb ki problem batayi gayi hai, to apni pregnancy week aur ultrasound report ke saath doctor se jaldi personal advice lein.",Q_0012,MIQ,['High Frequency'],['Medium Critical'],VeryConsistent,High,Clear,ImplicitAssumption,KEEP,"Pregnancy nutrition, Fetal growth, Antenatal care","garbhavastha, baby weight growth, pregnancy diet, maa kya khaye, protein foods, IFA calcium, ultrasound low weight","Garbhavastha mein baby ki healthy growth ke liye maa ko kya-kya khana chahiye? Agar ultrasound mein baby ka weight kam bataya hai, to kya diet ke saath doctor se check-up bhi zaroori hai?","['bache ka wajah badhane k liye kya khilana chaiye', 'baby ka weight gain ke liye kya khau', 'pet me bacche ka vajan kaise badhaye', 'garbh me shishu ka vajan badhane ke upay']"
+Paida hone ke baad bachche ko kaun se teeke kab-kab lagte hain?,"## Bharat mein routine teekakaran schedule
+
+Bachche ka routine vaccination **janm ke samay** shuru hota hai. Vaccination card sambhal kar rakhein aur due date par session/site par jaayein.
+
+| Umar | Routine teeke / drops |
+|---|---|
+| **Janm par** | **BCG**, **Hepatitis-B birth dose** (behtar hai 24 ghante ke andar), **OPV-0** polio drops |
+| **6 hafte** | OPV-1, Pentavalent-1, Rotavirus-1, fractional IPV-1 |
+| **10 hafte** | OPV-2, Pentavalent-2, Rotavirus-2 |
+| **14 hafte** | OPV-3, Pentavalent-3, Rotavirus-3, fractional IPV-2 |
+| **9–12 mahine** | MR/Measles-Rubella pehla dose, Vitamin A pehla dose; **JE-1** sirf JE-endemic districts mein |
+| **16–24 mahine** | DPT booster-1, OPV booster, MR/Measles-Rubella doosra dose, Vitamin A; **JE-2** selected endemic districts mein |
+| **5–6 saal** | DPT booster-2 |
+| **10 aur 16 saal** | **Td** vaccine |
+
+Vitamin A ki agali doses aam taur par har 6 mahine mein 5 saal ki umar tak di jaati hain. Government health facilities par routine vaccines free milte hain.
+
+Agar koi teeka miss ho gaya ho, card lekar nearest health facility par jaayein—schedule dobara shuru karne ki zarurat aam taur par nahi hoti.",Q_0013,MIQ,['High Frequency'],['High Critical'],VeryConsistent,Medium,Clear,ImplicitAssumption,RE_VET,"Childhood immunization, National Immunization Schedule, Newborn and child preventive care","teeke, bachche ka vaccination, paida hone ke baad, immunization schedule, BCG, polio drops, Pentavalent vaccine",Paida hone se lekar bachche ko kaun-kaun se routine teeke kis umar par lagte hain? India ka vaccine schedule bata dijiye.,"['Bche ko tika kab kab lgta hai', 'baby ka vaccination chart kya hai', 'bacho ke teeko ki list', 'newborn baby ko konse injection lagte hai']"
+Pregnancy ke dauran kaun se khatre ke lakshan (danger signs) hain jinhe nazarandaaz nahi karna chahiye?,"## Pregnancy mein danger signs
+
+Pregnancy mein in lakshanon ko **bilkul ignore na karein**. Inmein se koi bhi ho to **turant doctor/nearest health centre se sampark karein**:
+
+- Vaginal bleeding, ya paani jaisa fluid **leak** hona
+- Tez ya lagataar pet dard
+- Tez sar dard, chakkar, dhundhla dikhna, ya chehre/haathon ki achanak soojan
+- Fits/daure, behoshi, bahut zyada kamzori, ya saans lene mein dikkat
+- Bukhar ya kapkapi
+- Baby ki harkat pehle se kam lagna ya bilkul band lagna
+- Tez ulti jisse khana-paani na ruk paaye
+- Bahut zyada peela pan, thakaan, ya severe anaemia ke lakshan
+- Raat mein dekhne mein dikkat (night blindness)
+
+**Agar bleeding zyada ho, fits aaye, saans ki dikkat ho, tez pet dard ho, ya baby ki movement kam/band ho, to emergency care abhi lein.**",Q_0014,MIQ,['Low Frequency'],['High Critical'],VeryConsistent,Medium,Clear,NoAssumption,RE_VET,"Pregnancy care, Antenatal danger signs, Maternal emergency care","pregnancy, khatre ke lakshan, danger signs, vaginal bleeding, baby movement kam, tez sar dard, soojan",Pregnancy ke dauran kaun se danger signs ya khatre ke lakshan hain jinmein turant doctor/health centre jaana chahiye?,"['pregnancy me danger sign kya hote hai', 'kab turant doctor ke paas jana chahiye', 'pregnancy me kya problem hone par hospital jaye', 'khatre ke lakshan pregnancy me']"
+Normal delivery ke liye kya karna chahiye?,"## Normal delivery ke liye kya taiyari karein?
+
+“Normal” (vaginal) delivery ki guarantee nahi hoti—maa aur baby ki condition dekhkar doctor/ANM safe delivery method decide karte hain. Safe vaginal delivery ki preparation ke liye:
+
+- Pregnancy ko jaldi register karayein aur **saari scheduled ANC check-ups** karayein.
+- Doctor/ANM ki salah se **IFA (iron-folic acid), calcium aur doosri prescribed medicines** lein. Iron aur calcium ko aam taur par alag samay par lena behtar hota hai.
+- Poshtik khana khayein, paryapt paani aur aaram lein; tobacco, gutkha, bidi, alcohol aur drugs bilkul na lein.
+- **Birth plan** banayein: delivery kahan karani hai, saath kaun rahega, transport, emergency paise aur zarurat par blood donor contact.
+- Delivery bag ready rakhein: MCP card, ID/Aadhaar, blood/ultrasound reports, kapde, sanitary/hygiene items aur baby ke kapde.
+- Labour shuru ho, paani nikle, ya koi problem lage to health centre/hospital se turant sampark karein. Ambulance ke liye apne area ka **102/108** number verify karke rakhein.
+
+**Turant hospital jayein** agar vaginal bleeding, paani nikalna, tez ya lagatar pet dard/contractions, baby ki movement kam lagna, severe headache, dhundhla dikhna, chehre/haath-pair mein achanak sujan, bukhar, behoshi ya saans ki dikkat ho.
+
+Agar pehle C-section hua hai, BP/diabetes/anaemia hai, twins hain, ya doctor ne high-risk bataya hai, to delivery hospital aur referral plan pehle se confirm karein.",Q_0015,MIQ,['High Frequency'],['Medium Critical'],VeryConsistent,High,Ambiguous,ImplicitAssumption,KEEP,"Pregnancy care, Birth preparedness, Labour and delivery","normal delivery, vaginal delivery, safe delivery, birth plan, ANC check-up, delivery bag, labour signs","Normal/vaginal delivery ke liye pregnancy mein kya taiyari karun? Main kitne hafte ki pregnant hoon, aur kya mujhe BP, diabetes, khoon ki kami, bleeding ya pehle C-section ki history hai?","['normal delivery k liye kya kare', 'narmal dilwari ke liye tips', 'normal delivery kaise hoti hai', 'kya khaye ki normal delivery ho']"
+Pregnancy me kaun se phal aur sabziyan khani chahiye aur kaun si nahi?,"## Pregnancy mein kya khayein
+Pregnancy mein **fresh, seasonal aur achchhi tarah dhoye hue phal aur sabziyan** roz khayein. Plate ko colourful/rainbow rakhein aur phal-sabzi ke saath dal, beans, whole grains, milk/curd (agar suit kare) aur nuts bhi lein.
+
+**Achchhe options:**
+- **Hari sabziyan:** palak, methi, cabbage, broccoli, dhaniya
+- **Anya sabziyan:** bhindi, gajar, tamatar, matar, beans
+- **Phal:** amrood, santara/mosambi, nimbu, amla, seb, kela
+
+Palak, dal aur beans jaise iron wale foods ke saath **vitamin-C wale phal/sabzi**—jaise amrood, santara, nimbu, amla ya tamatar—lene se iron absorb hone mein madad milti hai.
+
+## Kis cheez se bachna ya limit karna hai
+Aam taur par koi specific fruit ya vegetable sabke liye mana nahi hota, lekin **unwashed, sade/gale hue, ya hygienically prepare na kiye hue** phal-sabzi na khayein. Phal aur sabzi ko saaf paani se achchhi tarah dho kar, phir kaatkar khayein; soap ya detergent use na karein.
+
+Saath hi pregnancy mein:
+- Junk/packet food, bahut zyada namak, cheeni ya tel wali cheezein limit karein.
+- Alcohol, tobacco, gutkha aur drugs bilkul na lein.
+- Kachcha ya aadha paka anda aur bina ubla/pasteurised doodh na lein.
+- Chai/coffee ko lagbhag **2 cups/day tak** rakhein aur meals ke turant saath na lein, kyunki iron absorption kam ho sakta hai.
+
+Agar diabetes, severe vomiting, food allergy, anemia, high BP, ya koi pregnancy complication hai, to diet apne doctor/dietitian se personalise karwayein.",Q_0016,MIQ,['High Frequency'],['Medium Critical'],VeryConsistent,High,Clear,ImplicitAssumption,KEEP,"Pregnancy care, Maternal nutrition, Food safety","pregnancy diet, pregnancy mein phal, sabziyan, palak iron, vitamin C fruits, foods to avoid, Hinglish nutrition","Pregnancy mein kaun se phal aur sabziyan roz khani chahiye? Kya koi phal ya sabzi avoid karni hoti hai, aur unhe safely kaise wash/prepare karein?","['pregancny me konsi sabji khau or konsi sabji nahi', 'pregancny me konsa fall khau or konsi nahi', 'pregnancy me kya khana chahiye kya nahi', 'kon sa fruit safe hai pregnancy me']"
+"Maa ko achha doodh aaye, iske liye kya karna chahiye?","## Maa ka doodh paryapt aane ke liye
+
+Aksar “achha doodh” se matlab doodh ki **quantity/supply** hoti hai. Doodh banne ka sabse effective tareeqa hai baby ko sahi latch ke saath **jaldi aur baar-baar breastfeed** karana.
+
+- Baby ko bhookh ke early signs—haath munh mein lena, breast ki taraf mudna, lips lick karna—par feed karayein; rone ka wait na karein.
+- 24 ghante mein, raat mila kar, aam taur par **8–12 feeds** karayein.
+- **Deep latch** zaroori hai: baby ka munh wide open ho, chin breast ko touch kare, aur areola ka zyada hissa munh mein ho. Feed bahut dardnaak nahi honi chahiye.
+- Baby ko pehla breast khud chhodne dein; phir bhi bhookh lage to doosra breast offer karein.
+- Skin-to-skin contact aur rooming-in feeding ko support karte hain.
+- Pehle 6 mahine baby ko sirf breastmilk dein—paani, ghutti ya doosre fluids ki zaroorat nahi hoti, garmi mein bhi nahi.
+
+### Doodh paryapt mil raha hai ya nahi?
+Aam taur par day 5 ke baad baby 24 ghante mein **kam se kam 6 baar urine** kare aur weight theek se badhe. Weight ko regular growth monitoring se check karwana best hai.
+
+Agar baby bahut sust ho, urine kam ho, feed na kar pa raha ho, weight na badh raha ho, ya maa ko nipple pain, cracked nipples, breast redness/fever, ya latch problem ho, to jaldi lactation counsellor/health worker/doctor se milen.",Q_0017,MIQ,['High Frequency'],['High Critical'],VeryConsistent,High,Ambiguous,ImplicitAssumption,KEEP,"Breastfeeding support, Breastmilk supply and adequacy, Infant feeding","maa ka doodh, breastmilk supply, doodh kam lag raha hai, 8–12 feeds, deep latch, baby susu 6 baar, exclusive breastfeeding",Maa ka doodh kam lag raha hai ya baby ko paryapt doodh nahi mil raha—doodh supply aur breastfeeding sahi karne ke liye kya karein?,"['maa ko accha dudh ke liye karna hoga', 'doodh badhane ke liye kya khaye', 'breast milk increase food', 'dudh utarne ke liye kya kare']"
+Caesarean (operation) se delivery ke baad khane-peene me kya parhez karna chahiye?,"### C-section ke baad khane-peene ka parhez
+C-section ke baad aam taur par kisi specific food ya drink ko sabke liye strictly avoid karne ki zaroorat nahi hoti. Hospital/doctor ne jo diet instructions di hain, unhe zaroor follow karein.
+
+- Recovery aur breastfeeding ke liye **protein aur balanced diet** lein—dal, pulses, eggs/milk (agar lete hain), whole grains aur sabziyan.
+- **Paani aur fluids** achhi matra mein lein; aam taur par **2 litre se zyada/day** fluids helpful hote hain, agar doctor ne fluid restriction na di ho.
+- **Fibre-rich foods**—whole grains, dal, fruits aur vegetables—constipation se bachane mein madad karte hain.
+- Doctor ne prescribe kiya ho to **iron-folic acid tablets** regular lein.
+- Breastfeeding ke pehle 6 mahine mein extra calories aur protein ki zaroorat badh sakti hai.
+
+Agar diabetes, high BP, severe anaemia, infection, vomiting, ya koi aur complication hai, to diet alag ho sakti hai—apne doctor/hospital ki salah ko priority dein.",Q_0018,MIQ,['Medium Frequency'],['Medium Critical'],VeryConsistent,High,Clear,ImplicitAssumption,KEEP,"Postpartum care, Maternal nutrition, Caesarean recovery","C-section, Caesarean delivery, operation ke baad, postpartum diet, khane-peene ka parhez, breastfeeding, fibre aur fluids","C-section/operation se delivery ke baad kya khana chahiye aur khane-peene mein kis cheez ka parhez karna chahiye, especially agar breastfeeding kar rahi hoon?","['Caeser delivery k baad kya kha sakte hai or kya nahi kha sakte hai', 'operation ke baad kya khana chahiye', 'c section ke baad diet', 'sijerian delivery ke baad kya na khaye']"
+Pregnancy ke pehle 3 mahino me kaun se check-up karana zaroori hai?,"## Pregnancy ke pehle 3 mahine (0–12 weeks) mein
+
+Pregnancy confirm hote hi **jaldi registration** karayein aur **pehla antenatal check-up (ANC)** doctor, government hospital, ya health centre par karayein—behtar hai **12 weeks ke andar**.
+
+### Pehli visit mein aam taur par
+- **Blood pressure, weight** aur general health check
+- **Urine test:** sugar, protein aur zarurat par infection ke liye
+- **Blood tests:** hemoglobin/CBC (anaemia), blood group aur Rh factor, blood sugar, aur local programme ke hisaab se HIV, syphilis (VDRL), hepatitis B etc.
+- Doctor aapki history ke hisaab se **thyroid, hepatitis C, rubella** ya doosre tests bhi suggest kar sakte hain.
+
+### Ultrasound
+Ultrasound ki timing aur zarurat doctor batate hain. Early scan pregnancy ki location/viability ya dates check karne ke liye kiya ja sakta hai; routine dating/first-trimester scan aksar **11–14 weeks** ke aas-paas advise hota hai, local guidance aur clinical need ke anusaar.
+
+### Supplements aur vaccines
+- **Folic acid** ke baare mein turant poochhein; yeh early pregnancy mein khaas important hota hai.
+- **Iron, calcium aur tetanus-diphtheria (Td) vaccine** ka schedule aapki health, pehle ke vaccination record aur local programme ke hisaab se health worker/doctor batayenge.
+
+**Turant medical help lein** agar bleeding, ek taraf ya bahut tez pet dard, behoshi/chakkar, bukhar, severe vomiting/dehydration, ya fluid discharge ho.",Q_0019,MIQ,['Medium Frequency'],['High Critical'],VeryConsistent,Medium,Clear,ImplicitAssumption,RE_VET,"Pregnancy care, First-trimester antenatal care, Prenatal screening and tests","pregnancy, pehle 3 mahine, first trimester, ANC check-up, blood urine tests, ultrasound/sonography, folic acid aur Td vaccine","Pregnancy ke pehle 3 mahine (0–12 weeks) mein routine ANC check-up aur kaun-kaun se tests zaroori hote hain, aur ultrasound kab karwana chahiye?","['Mujhe abhi 3 ra month chalu hai to mujhe kya kya check up karna jaruri hai', 'first trimester me konse test hote hai', '3 mahine ki pregnancy me kya janch hoti hai', 'pehli timahi ke test']"
+Bachcha pet me movement (halchal) karna kab shuru karta hai?,"## Baby ki halchal kab mehsoos hoti hai?
+
+Baby garbh mein pehle hi hilna shuru kar deta hai, lekin maa ko uski halchal aam taur par **16–20 hafte** ke beech mehsoos hoti hai.
+
+- **Pehli pregnancy** mein halchal aksar **18–20 hafte** ke aas-paas mehsoos hoti hai.
+- Agli pregnancy mein yeh kabhi-kabhi **16–18 hafte** se mehsoos ho sakti hai.
+- Shuru mein halchal halki—jaise phadphadahat, bubble ya flutter—lag sakti hai; baad mein zyada saaf mehsoos hoti hai.
+
+Agar **24 hafte** tak halchal bilkul mehsoos na ho, ya pehle se mehsoos ho rahi halchal **achanak kam ya band** lage, to jaldi se doctor/nearby health facility se sampark karein.",Q_0020,MIQ,['High Frequency'],['Medium Critical'],VeryConsistent,High,Clear,ImplicitAssumption,KEEP,"Pregnancy care, Fetal movement, Antenatal warning signs","baby movement, bachche ki halchal, fetal movement, quickening, pregnancy weeks, pehli pregnancy, garbh mein baby",Pregnancy mein baby ki halchal maa ko pehli baar aam taur par kitne hafte mein mehsoos hoti hai? Meri pehli pregnancy hai/nahin hai.,"['bacha kis month me movement karta hai', 'baby ki kick kab feel hoti hai', 'pet me baby kab ghumta hai', 'bachche ki movement kab pata chalti hai']"
+"Alag-alag mahino me (jaise 5th, 7th month) garbh me bachche ka vajan kitna hona chahiye?","Baby ka weight month se zyada **pregnancy weeks** aur ultrasound ki estimated fetal weight (EFW) se assess kiya jata hai. Har baby ki growth thodi alag ho sakti hai.
+
+Approximate range, **single pregnancy** mein:
+- **5th month (lagbhag 18–22 weeks):** kareeb **200–450 gram**
+- **7th month (lagbhag 26–30 weeks):** kareeb **800 gram–1.4 kg**
+
+Yeh sirf approximate ranges hain—ultrasound mein baby ki growth, paani (amniotic fluid), placenta aur pregnancy ki exact weeks ko saath mein dekha jata hai. Ultrasound report mein diya hua **weeks + estimated weight** doctor/ANM ko dikhakar interpretation karwayein. Twins ya pregnancy dates mein difference ho to expected weight alag ho sakta hai.",Q_0021,MIQ,['High Frequency'],['Medium Critical'],VeryConsistent,High,Clear,ImplicitAssumption,KEEP,"Pregnancy care, Fetal growth monitoring, Antenatal ultrasound","garbh mein bachcha, fetal weight, 5th month pregnancy, 7th month pregnancy, ultrasound EFW, pregnancy weeks, baby growth",5th ya 7th month mein garbh mein baby ka approximate weight kitna ho sakta hai? Mere ultrasound ke weeks aur estimated weight ke hisaab se growth theek hai ya nahi?,"['bache ka wajan kitna hona chahiye', '5 months pregnancy may baby ka weight kitna Rehta Hai', '7th month me kitna weight rehna chahiye baby ka', 'pregnancy ke har mahine baby ka weight']"
+Paida hue bachche me kaun se khatre ke lakshan (danger signs) hote hain?,"### Newborn mein khatre ke lakshan
+Agar **paida hua bachcha (khaaskar pehle 28 din)** mein inmein se **ek bhi** lakshan ho, to **turant nearest hospital/health worker se sampark karein**:
+
+- **Doodh na peena**, bahut kam peena, ya feed karte hi chhod dena
+- **Saans bahut tez chalna**, seene ka andar dhansna, grunting/karahne jaisi awaaz, ya saans rukna
+- **Bukhar** ya sharir bahut thanda lagna
+- Bachcha bahut **sust**, dheela, kam hilna-dulna, ya jagane par bhi response na dena
+- **Daure/fit aana**
+- Bahut zyada peeliya, khaaskar **haath-pair ki hatheli/talwon tak peela pan**
+- Naabhi se **peep, laalpan failna**, badbu, ya skin par peep wale dane
+- Baar-baar ulti, pet phoolna, ya bachcha bahut bechain/lagataar rona
+
+**Emergency:** Agar bachcha saans lene mein dikkat mein ho, bilkul feed na kar raha ho, fit aa raha ho, ya response na de raha ho, to intezar na karein—turant emergency care lein.",Q_0022,MIQ,['Low Frequency'],['High Critical'],VeryConsistent,High,Clear,ImplicitAssumption,RE_VET,"Newborn care, Neonatal danger signs, Emergency referral","newborn danger signs, paida hua bachcha, navjaat shishu, doodh na peena, saans tez chalna, bukhar ya thand, newborn emergency","Paida hue bachche, khaaskar pehle 28 din mein, kaun se khatre ke lakshan hote hain jinmein turant hospital ya health worker ko dikhana chahiye?","['newborn baby ke danger signs kya hai', 'chote bache me kya problem hone par doctor ko dikhaye', 'navjat shishu ke khatre ke lakshan', 'kis situation me baby ko turant hospital le jaye']"
+Kangaroo Mother Care (KMC) kya hai aur yeh kam vajan wale bachchon ke liye kyu zaroori hai?,"**Kangaroo Mother Care (KMC)** premature ya **kam janm-vajan (low-birth-weight)** wale newborns ki ek proven care method hai. Ismein baby ko diaper aur cap ke saath maa ke bare chest par seedha, skin-to-skin rakha jata hai. Maa ke alawa healthy adult caregiver bhi KMC de sakta/sakti hai.
+
+KMC mein aam taur par:
+- jitna possible ho utna **lamba skin-to-skin contact**,
+- **maa ka doodh** baar-baar dena (exclusive breastfeeding ko support karna), aur
+- baby ki feeding, temperature aur growth ki monitoring shamil hoti hai.
+
+**Yeh zaroori kyun hai?**
+- Baby ko garam rakhne mein madad karta hai.
+- Breastfeeding aur weight gain ko support karta hai.
+- Breathing aur heart rate ko stable rakhne mein madad kar sakta hai.
+- Infection ka risk aur serious complications kam karne mein madad karta hai.
+- Maa-baby bonding badhata hai aur hospital se ghar jaane ke baad bhi care continue karne mein helpful hota hai.
+
+KMC hospital/health worker ki salah se shuru karein, khaaskar agar baby bahut chhota, premature, ya beemar ho. Caregiver haath saaf rakhe aur saaf kapde pehne. Baby doodh na pee raha ho, saans tez/pareshan ho, bukhar ya thanda sharir ho, ya bahut sust lage, to turant health worker se sampark karein.",Q_0023,MIQ,['Low Frequency'],['High Critical'],VeryConsistent,Medium,Clear,ImplicitAssumption,RE_VET,"Newborn care, Low birth weight and prematurity, Breastfeeding support","Kangaroo Mother Care, KMC, kam janm vajan, low-birth-weight baby, premature newborn, skin-to-skin contact, maa ka doodh","Kangaroo Mother Care (KMC) kya hai, aur premature ya kam janm-vajan wale newborn baby ke liye yeh kyu zaroori hai?","['KMC kya hota hai', 'kangaroo mother care kaise karte hai', 'kamjor bache ko kmc kyu dete hai', 'skin to skin care kya hai']"
+Paida hone ke baad pehla gaadha peela doodh (colostrum) bachche ke liye kyu amrit jaisa hai?,"## Colostrum baby ke liye “amrit” kyun hai?
+
+Paida hone ke baad aane wala pehla gaadha peela doodh **colostrum** kehlata hai. Yeh quantity mein kam hota hai, lekin newborn ki zaroorat ke hisaab se bahut concentrated aur faydemand hota hai.
+
+- Ismein infection se bachane wale **antibodies aur protective factors** hote hain—isi liye ise baby ki **pehli natural vaccine jaisi protection** kaha jata hai.
+- Yeh protein, Vitamin A aur doosre important nutrients se bharpoor hota hai.
+- Yeh baby ko pehla kaala/green stool (**meconium**) pass karne mein madad karta hai.
+- Meconium jaldi nikalne se **jaundice ka risk kam karne mein madad** mil sakti hai.
+- Yeh baby ke pet aur immunity ko breastfeeding ke liye tayyar karta hai.
+
+Maa aur baby stable/ready hon to delivery ke **pehle 1 ghante ke andar breastfeeding shuru** karna aur colostrum zaroor pilana achha hota hai. Is pehle doodh ko na nikaalein aur na phenkain.",Q_0024,MIQ,['Medium Frequency'],['High Critical'],VeryConsistent,High,Clear,NoAssumption,KEEP,"Breastfeeding, Newborn care, Postnatal care","colostrum, pehla gaadha peela doodh, amrit jaisa, newborn baby, pehli vaccination, meconium, jalaundice","Paida hone ke baad pehla gaadha peela doodh, yani colostrum, newborn baby ke liye amrit jaisa kyun hota hai?","['pehla doodh pilana kyu zaruri hai', 'colostrum kya hota hai', 'delivery ke baad jo peela doodh aata hai wo pilana chahiye?', 'maa ka pehla doodh important kyu hai']"
+"Bachche ko 6 mahine tak sirf maa ka doodh hi kyu pilana chahiye, paani bhi kyu nahi?","For a healthy, full-term baby aged under 6 months, **sirf maa ka doodh (exclusive breastfeeding)** dena recommended hai—**paani, ghutti, honey, animal milk, other liquids, ya food ki zarurat nahi hoti**.
+
+### Paani kyun nahi?
+- **Breast milk mein baby ke liye enough water hota hai**, garmi ke mausam mein bhi.
+- Baar-baar breastfeeding se baby ki pyaas aur nutrition dono poore hote hain.
+- Paani dene se baby ka pet bhar sakta hai, jis se woh kam breastfeed karega aur zaroori calories/nutrition kam mil sakte hain.
+- Saaf na hua paani infection aur loose motions ka risk badha sakta hai.
+
+Baby ko pyaas lage, dry lips dikhen, ya garmi ho to **paani dene ke bajay breast zyada baar offer karein**, din aur raat feed on demand karein.
+
+**Exception:** Doctor/health worker ki salah par medicines, vitamins, ya special fluids diye ja sakte hain. Premature, low-birth-weight, ya medically unwell baby ke feeding plan ke liye doctor se poochhein.",Q_0025,MIQ,['Low Frequency'],['High Critical'],VeryConsistent,High,Clear,ImplicitAssumption,KEEP,"Exclusive breastfeeding, Infant nutrition and hydration","exclusive breastfeeding, maa ka doodh, 6 mahine, paani, infant hydration, feed on demand, breastfeeding guidance",Bachche ko 6 mahine tak sirf maa ka doodh hi kyu dena chahiye? Garmi mein bhi paani dene ki zarurat kyu nahi hoti?,"['6 mahine tak sirf maa ka doodh kyu', 'exclusive breastfeeding kya hota hai', 'kya 6 mahine se pehle pani de sakte hai', 'sirf breast milk kyu important hai']"
+Bachche ko 6 mahine ke baad upari aahar (solid food) dena kab aur kaise shuru karein?,"## 6 mahine poore hone ke baad upari aahar kaise shuru karein
+
+Healthy, full-term bachche ko **6 mahine poore hote hi** breastmilk ke saath complementary/solid food dena shuru kiya ja sakta hai. Breastfeeding on demand jaari rakhein; ise 2 saal ya usse zyada tak continue kiya ja sakta hai.
+
+- Shuruat **gaadhe, smooth mashed/pureed ya semi-solid** khane se karein—patla pani jaisa dalia/gruel na dein.
+- Pehle **2–3 chammach**, din mein **2–3 baar** dein. Bachcha accept kare to quantity dheere-dheere badhayein.
+- Achhe options: mashed khichdi ya dal-chawal, mashed kela/papaya/aam, paka hua mashed aloo ya shakarkand, ragi, idli ya dalia.
+- Saaf katori aur chammach se, dheere aur pyaar se khilayein. Bachche ko encourage karein, par **zabardasti na khilayein**. Feeding ke waqt TV/mobile se bachayein.
+- Haath sabun se dhokar khana banayein aur khilayein; taza khana aur saaf bartan use karein. Solid food ke liye feeding bottle use na karein.
+- Whole nuts, poore angoor aur kacche gajar ke tukde na dein, kyunki choking ka risk hota hai. Nuts dene hon to unhe barik peeskar khane mein milayein.
+- Biscuits, cakes, packaged/canned foods, juice, bahut meethi cereals aur baar-baar tale hue foods se bachein.
+
+Lagbhag **8 mahine** par mashed, barik kata hua aur safe finger food shuru kiya ja sakta hai. **12 mahine** tak kai bachche mashed/chopped family food kha sakte hain.
+
+*Yeh general salah healthy, full-term, lagbhag 6 mahine ke bachche ke liye hai. Agar bachcha premature hai, weight/growth ki dikkat hai, ya khana nigalne mein problem hoti hai, to pediatrician se salah lein.*",Q_0026,MIQ,['High Frequency'],['Medium Critical'],VeryConsistent,High,Clear,ImplicitAssumption,KEEP,"Complementary feeding, Infant nutrition, Child feeding safety","6 mahine, upari aahar, complementary feeding, solid food shuru, mashed khana, breastfeeding, choking safety","Mera bachcha 6 mahine ka ho gaya hai. Upari aahar/solid food kab se aur kaise shuru karun—pehle kya khilana hai, kitni quantity aur din mein kitni baar?","['when to start solid food for baby', '6 mahine ke baad bacche ko kya khilaye', 'complementary feeding kab shuru kare', 'upar ka khana kab chalu karna chahiye']"
+Pregnancy ke dauran sarkari yojana (PMMVY) se paise kaise mil sakte hain?,"## PMMVY mein paise kaise milte hain?
+
+PMMVY (Pradhan Mantri Matru Vandana Yojana) ke liye nearest **Anganwadi Centre** ya government health facility par registration karayein. **ASHA worker, ANM/nurse ya Anganwadi worker** form bharne mein madad kar sakte hain.
+
+### Aam taur par kya karna hota hai
+1. Pregnancy registration karayein aur **PMMVY Form 1-A** submit karein.
+2. **Aadhaar-linked bank ya post-office account** ki details dein, taki paisa DBT se account mein aa sake.
+3. Aadhaar, bank/post-office passbook, pregnancy/MCP card aur jo eligibility proof maanga jaye woh le kar jaayein.
+4. Pehle living child ke liye benefit aam taur par **₹5,000** hota hai: registration aur ANC ke baad ek hissa, aur birth registration plus 14-week vaccination ke baad baaki hissa.
+5. Doosre child ke case mein, agar baby girl ho, to alag benefit provision ho sakta hai.
+
+Eligibility aur required documents state/portal ke current rules ke hisaab se badal sakte hain. Isliye apne Anganwadi worker ya nearest government health facility se **current eligibility, installment amount aur documents** confirm zaroor karein. Regular salary/maternity benefit paane wali government employees aam taur par eligible nahi hoti hain.",Q_0027,MIQ,['Medium Frequency'],['Medium Critical'],VeryConsistent,Medium,Clear,ImplicitAssumption,RE_VET,"Government maternal benefit schemes, Pregnancy registration, Maternal health support","PMMVY, Pradhan Mantri Matru Vandana Yojana, pregnancy registration, Anganwadi centre, ASHA worker, DBT paisa, Aadhaar-linked bank account",Pregnancy mein PMMVY yojana ka paisa paane ke liye registration kahan aur kaise karna hai? Kaunse documents aur eligibility chahiye?,"['pregnancy me mujhe konsi yojana ka labh milega', 'sarkar se pregnant mahila ko paise kaise milte hai', 'pradhan mantri matru vandana yojana kya hai', 'pmmvy ke liye apply kaise kare']"
+Sarkari aspataal me garbhvati mahilaon aur bachchon ke liye kaun si sevaayein muft (free) hain?,"## Sarkari aspataal mein free services
+
+India ke government health facilities mein garbhvati mahilaon aur bachchon ke liye kai services muft milti hain. Facility aur state ke hisaab se availability thodi alag ho sakti hai.
+
+### Garbhvati mahilaon ke liye
+**JSSK ke tahat** aam taur par yeh services free hoti hain:
+- Normal delivery aur C-section delivery
+- Delivery ke dauran medicines, zaroori consumables/materials aur tests
+- Blood/urine jaise tests aur available diagnostic tests
+- Hospital mein khana: normal delivery ke baad aam taur par **3 din** aur C-section ke baad **7 din** tak
+- Ghar se hospital, referral hospital aur discharge ke baad ghar tak transport/ambulance, jahan service available ho
+- Delivery se judi hospital fees nahi li jaati
+
+### Pregnancy check-up aur supplements
+- **PMSMA** ke under har mahine ki **9 tareekh** ko designated facilities par free ANC/pregnancy check-up
+- Iron-folic acid (IFA), calcium tablets aur **Td (Tetanus-Diphtheria)** vaccine/injection, doctor ki salah aur stock ke hisaab se
+
+### Bachchon ke liye
+- **1 saal se chhote beemar bachche** ke liye admission/treatment, medicines, tests, hospital meals aur transport JSSK ke under free ho sakte hain.
+- National Immunization Schedule ke routine vaccines free hote hain.
+- Vaccine ke liye syringe aur Mother and Child Protection (MCP) card bhi free milte hain.
+
+Ambulance ke liye kai jagah **102** ya **108** par call kiya ja sakta hai, lekin number aur service state ke hisaab se badal sakti hai. Apne nearest sarkari hospital/PHC se service timing aur availability confirm kar lein.",Q_0028,MIQ,['Medium Frequency'],['Medium Critical'],VeryConsistent,Medium,Clear,ImplicitAssumption,KEEP,"Government health schemes, Maternal health, Child health and immunization","sarkari aspataal, garbhvati mahila, free delivery, JSSK muft seva, PMSMA 9 tareekh, bachchon ka free ilaaj, टीकाकरण vaccines","Sarkari hospital/PHC mein garbhvati mahila aur 1 saal se chhote bachche ke liye kaun-kaun si free services milti hain—delivery, tests, dawa, vaccines aur ambulance bhi?","['sarkari hospital me kya free hai', 'jssk scheme kya hai', 'free delivery kaha hoti hai', 'government hospital me free services']"
+Agar bachche ke teeke ki taarikh nikal gayi ho (miss ho gayi ho) to kya karein?,"Agar bachche ka teeka miss ho gaya hai, to **poora vaccine course dobara shuru nahi karna hota**.
+
+- Bachche ko **jaldi se jaldi** nearest health centre/clinic ya health worker ke paas le jaayein.
+- Wahan missed/next due vaccine dose ke baare mein check karke dose lagwayi jaayegi.
+- Baaki doses recommended interval ke hisaab se complete ki jaayengi.
+- **Immunization card** saath le jaayein.
+
+Exact catch-up plan bachche ki **umar**, kaunsa **teeka** miss hua, aur pichhli dose kab lagi thi, is par depend karta hai. Der na karein, kyunki delay ke dauran bachcha infection se kam protected ho sakta hai.",Q_0029,MIQ,['Medium Frequency'],['High Critical'],VeryConsistent,High,Clear,ImplicitAssumption,KEEP,"Child immunization, Missed-dose catch-up vaccination","missed vaccine, teeka miss ho gaya, catch-up vaccination, immunization card, bachche ki umar, next due dose, late vaccine date","Agar mere bachche ka teeka miss ho gaya ho, to kya poora course dobara shuru karna padega? Bachcha kitni umar ka hai aur kaunsa teeka miss hua hai, uske hisaab se catch-up dose kab lagwani chahiye?","['missed vaccine dose what to do', 'bachhe ka tika miss ho gaya', 'agar vaccine late ho jaye to kya kare', 'delayed vaccination schedule for baby']"
+Bachche ko teeka lagne ke baad bukhar ya soojan aaye to kya karna chahiye?,"Halka bukhar, dard, laalpan ya injection wali jagah par soojan teeka lagne ke baad aam taur par normal reaction ho sakta hai.
+
+**Kya karein:**
+- Injection wali jagah par **thandi patti/cold compress** lagayein. Baraf ko seedha skin par na lagayein.
+- Bachche ko fluids/breastfeeding dete rahein aur comfortable kapde pehnayein.
+- Bukhar ya dard ke liye **paracetamol sirf bachche ke weight ke hisaab se doctor/health worker ya label ke bataye dose mein** dein. Aspirin bachchon ko na dein.
+- Aksar soojan aur dard **1–3 din** mein, aur halka bukhar **1–2 din** mein kam ho jata hai.
+
+**Turant doctor/health facility se sampark karein** agar bukhar bahut zyada ho, bachcha bahut sust ho ya feed na kare, saans mein dikkat ho, daure padhein, poore sharir par allergy/rash ho, injection wali jagah ki soojan tezi se badhe, ya symptoms 2–3 din se zyada rahen.",Q_0030,MIQ,['High Frequency'],['Medium Critical'],VeryConsistent,High,Clear,ImplicitAssumption,KEEP,"Immunization, Post-vaccination reactions, Child health","teeka, vaccine ke baad bukhar, soojan, post-vaccination reaction, cold compress, paracetamol, bachcha immunization","Bachche ko teeka lagne ke baad halka bukhar ya injection wali jagah par soojan ho to ghar par kya karein, aur kab doctor ko dikhana chahiye?","['baby crying after vaccine what to do', 'injection ke baad bukhar aa gaya', 'tika lagne ke baad sujan', 'vaccine side effects kaise manage kare']"
+Pregnancy me kamar aur pet ke nichle hisse me dard kyu hota hai? Kab chinta karni chahiye?,"Pregnancy mein **halka, kabhi-kabhi hone wala kamar ya pet ke neeche dard** body ke badlav, uterus ke badhne, muscles/ligaments par khinchav, posture change, ya thakan ki wajah se ho sakta hai. Lekin bina check-up ke exact reason batana possible nahi hai.
+
+**Turant doctor/health centre se baat karein ya urgent care lein** agar dard:
+
+- **Tez, achanak, ya lagataar** ho
+- **Bleeding/spotting** ke saath ho
+- Vagina se **pani jaisa fluid/discharge** aaye
+- **Bukhar ya kapkapi** ho
+- **Chakkar, behoshi, bahut kamzori**, severe headache, ya face/hands/feet mein zyada sujan ho
+- Baby ki movement pehle mehsoos hoti thi aur ab **kam ya band** lage
+- Peshab mein jalan, baar-baar peshab, ya kamar ke ek taraf bahut tez dard ho
+
+Agar dard halka hai aur koi warning sign nahi hai, heavy lifting aur bahut mehnat se bachein, aaram karein, aur apne antenatal check-up mein zaroor batayein. **Severe ya persistent pain ko normal samajhkar ignore na karein.**
+
+Doctor ko sahi guidance ke liye batayein: aap kitne weeks/months pregnant hain, dard kab se hai, kitna tez hai, aur bleeding, discharge, fever, peshab mein jalan, ya baby movement mein koi change hai ya nahi.",Q_0031,MIQ,['High Frequency'],['Medium Critical'],VeryConsistent,Medium,Clear,ImplicitAssumption,KEEP,"Pregnancy care, Pregnancy danger signs, Back and lower abdominal pain","pregnancy, pregnancy pain, kamar dard, pet ke neeche dard, lower abdominal pain, danger signs in pregnancy, bleeding discharge","Main pregnant hoon aur kamar ke saath pet ke neeche dard ho raha hai. Main kitne weeks/months pregnant hoon, dard kab se aur kitna tez hai, aur bleeding, pani jaisa discharge, bukhar, peshab mein jalan, ya baby movement kam to nahi hai—inke hisaab se kab doctor ko turant dikhana chahiye?","['kamar me dard hai kya karu', 'pregnancy me pet k nichle hisse me dard kyun hota hai', 'back pain in pregnancy solution', 'pet ke niche dard hona normal hai kya']"
+Pregnancy me pairon me soojan (swelling) aana normal hai ya nahi?,"Pregnancy mein **pairon/ankles ki halki, dheere-dheere badhne wali soojan**—khaaskar din ke end ya pregnancy ke aakhri mahino mein—aksar ho sakti hai. Lekin ise bina check kiye hamesha normal bhi na maanein.
+
+**Jaldi doctor/ANC clinic se baat karein** agar soojan:
+- achanak ya bahut zyada ho,
+- ek hi pair mein zyada ho, ya pair laal, garam, ya dardnaak ho,
+- chehre ya haathon mein bhi ho,
+- severe headache, dhundhla dikhna, chakkar, pet ke upar wale hissa mein dard, saans phoolna, ya BP high ke saath ho,
+- ya baby ki movement kam lage.
+
+Routine antenatal check-up mein **BP aur urine** check karwana zaroori hai. Tab tak lambi der khade rehne se bachein, aaram ke waqt **left side** letein, aur paani peete rahein. Apne doctor ki salah ke bina diuretic/""paani ki goli"" na lein.",Q_0032,MIQ,['High Frequency'],['Medium Critical'],VeryConsistent,Medium,Clear,ImplicitAssumption,RE_VET,"Pregnancy care, Pregnancy danger signs, Antenatal check-ups","pregnancy, pairon ki soojan, swelling, pedal edema, pregnancy danger signs, BP high, ANC check-up","Pregnancy mein dono pairon/ankles mein soojan aa rahi hai—kya yeh normal ho sakti hai? Soojan achanak hai ya dheere-dheere, aur kya headache, BP high, chehre/haathon ki soojan, saans phoolna ya baby movement kam hai?","['pair me bohot soojan hai', 'Mera 6 manth Chal Raha hai paro me sweling aaye to kya karna chahiye', 'pregnancy me feet swelling normal hai', 'hath pair me sujan kyu aati hai']"
+"Pregnancy me acidity, gas ya seene me jalan hone par kya gharelu upaay kar sakte hain?","Pregnancy mein acidity, gas aur seene ki jalan (heartburn) common ho sakti hai. Aap ye safe steps try kar sakti hain:
+
+- Din mein **4–5 chhote meals** lein; ek baar mein bahut zyada na khayen.
+- Teekha, tala hua, bahut fatty/junk food, packaged snacks, achar, mithai aur fizzy drinks se bachne ki koshish karein agar in se jalan badhti ho.
+- Tea/coffee **2 cups per day se zyada na lein**, aur meals ke saath na lein.
+- Paani aur anya safe fluids paryapt lein; din bhar thoda-thoda karke piyen.
+- Khana khane ke turant baad na leten; sone se pehle heavy meal na lein. Sote waqt sir/upper body thoda uncha rakhna madad kar sakta hai.
+- Fresh, achchhi tarah paka hua khana khayen. Bacha hua khana sahi tareeke se reheat karke hi lein.
+
+**Doctor/health centre se jaldi baat karein** agar jalan bahut zyada ho, baar-baar ho ya in upaayon se theek na ho; ulti ke kaaran kuchh kha-pi na paa rahi hon; tez pet ya seene mein dard, saans ki takleef, behoshi/zyada kamzori, bukhar, vaginal bleeding ya paani jaisa discharge ho. Baby ki movements kam lagen to bhi turant assessment karayen.
+
+Pregnancy mein bina doctor ki salah ke acidity ki dawa, antacid ya koi herbal/gharelu nuskha na lein.",Q_0033,MIQ,['High Frequency'],['Low Critical'],VeryConsistent,Medium,Clear,ImplicitAssumption,RE_VET,"Pregnancy care, Pregnancy nutrition and diet, Heartburn and digestive symptoms","pregnancy acidity, gas in pregnancy, seene mein jalan, heartburn, gharelu upaay, small frequent meals, pregnancy diet","Pregnancy mein acidity, gas ya seene mein jalan ho to ghar par kya safe upaay kar sakte hain, aur kin symptoms mein doctor ko dikhana chahiye?","['acidity ho gayi h toh kya karna chahiye', 'Is wakt kya kru ges khatm karne ke liye', 'Gla kahe liye jalta hai', 'pregnancy me gas problem solution']"
+Delivery ke liye aspataal jaate samay kya-kya saamaan saath le jaana chahiye?,"### Delivery ke liye hospital bag checklist
+Bag pehle se taiyar rakhna helpful hota hai. Isme yeh saamaan rakhein:
+
+- **Documents:** Aadhaar/ID, MCP card, doctor ki prescription aur hospital registration papers (agar hain)
+- **Medical reports:** Saari blood-test reports aur ultrasound/sonography reports
+- **Maa ke liye:** Saaf kapde, undergarments, towel, soap, toothbrush aur zaroori personal hygiene items
+- **Baby ke liye:** Newborn ke kapde aur wrap/kapda
+- **Planning:** Kuch emergency paise rakhein aur hospital tak jaane ke transport ka plan bana kar rakhein.
+
+Labour shuru ho, paani aaye, bleeding ho, ya koi complication lage to health centre/hospital se turant sampark karein. Emergency mein bag pack karne ke liye rukkar hospital jaane mein der na karein. Ambulance ke liye apne area mein available **102/108** ya local emergency service ki jankari pehle se rakhna useful hai.",Q_0034,MIQ,['Medium Frequency'],['Medium Critical'],VeryConsistent,High,Clear,ImplicitAssumption,KEEP,"Childbirth and newborn care, Birth preparedness","delivery hospital bag, aspataal jaate samay, MCP card, Aadhaar card, blood test reports, ultrasound/sonography reports, birth preparedness",Delivery ke liye aspataal jaate waqt hospital bag mein kya-kya saamaan aur documents saath le jaane chahiye?,"['hospital delivery ki kya tayyari hai', 'what to pack for delivery', 'hospital bag me kya rakhe', 'delivery ke liye kya taiyari kare']"
+Delivery ke baad agla bachcha plan karne se pehle kitna antar rakhna zaroori hai?,"**Aam taur par, delivery ke baad agli pregnancy plan karne se pehle kam se kam 24 mahine ka gap rakhna behtar mana jata hai.** Isse maa ke sharir ko theek hone aur agle pregnancy ke risks kam karne mein madad mil sakti hai.
+
+Agar C-section hua tha, khoon ki kami, BP/diabetes, koi complication, ya breastfeeding chal rahi hai, to aapke liye sahi timing alag ho sakti hai. Family-planning method aur personalised salah ke liye ASHA/ANM ya doctor se baat karein.",Q_0035,MIQ,['Low Frequency'],['High Critical'],VeryConsistent,Medium,Clear,ImplicitAssumption,RE_VET,"Postpartum care, Birth spacing and family planning, Preconception care","delivery ke baad, birth spacing, agla bachcha plan, next pregnancy, 24 mahine gap, C-section, family planning","Meri delivery ke baad agla bachcha plan karne se pehle kitna gap rakhna chahiye? Agar normal delivery ya C-section ho, to kya gap alag hota hai?","['doosre bacche me kitna gap hona chahiye', 'family planning kab start kare after delivery', 'delivery ke kitne din baad sambandh bana sakte hai', 'birth spacing kyu zaruri hai']"
+Bachche ki naal (umbilical cord) ki dekhbhaal kaise karein?,"Agar baby newborn hai aur naal ka stump abhi gira nahi hai:
+
+- Naal ko **saaf aur sukha** rakhein.
+- Naal par **kuchh bhi na lagayein**—ointment, tel, powder, haldi ya koi aur cheez nahi.
+- Baby ya naal ko chhoone se pehle **sabun aur paani se haath dhoyein**.
+- Diaper ko naal ke neeche fold rakhein, taaki area dry rahe aur diaper ragde nahi.
+- Naal aam taur par sookh kar apne-aap gir jaati hai; use kheenchkar na hatayein.
+
+**Jaldi health worker se baat karein** agar naal ke paas laalpan fail raha ho, peep/badbu aaye, zyada bleeding ho, ya baby ko bukhar ho, doodh kam pee raha ho, tez saans chal rahi ho, ya baby bahut sust lage.",Q_0036,MIQ,['Medium Frequency'],['Medium Critical'],VeryConsistent,High,Clear,ImplicitAssumption,KEEP,"Newborn care, Umbilical cord care, Postnatal hygiene","naal ki dekhbhaal, umbilical cord care, newborn care, cord stump, naabhi saaf sukhi, navel infection, baby hygiene","Newborn baby ki naal/naabhi ka stump abhi gira nahi hai—iski dekhbhaal kaise karein? Agar laalpan, peep, badbu ya bleeding ho to kya karein?","['umbilical cord care kaise kare', 'bachche ki nabhi ki care', 'cord stump kab girega', 'naal me infection to nahi hai kaise pata kare']"
+Agar doodh pilate samay nipple me dard ho ya wo chhil jaayein to kya karna chahiye?,"Nipple mein dard ya chhilna/cracks aksar **baby ka latch shallow hone** ki wajah se hota hai—jab baby sirf nipple pakadta hai aur areola (nipple ke aas-paas ka kala hissa) muh mein achchhe se nahi leta.
+
+- Feeding ke waqt baby ko bilkul paas rakhein, uska body aapki taraf ho, aur **nose nipple ke saamne** ho.
+- Baby ka muh wide open ho; baby ko nipple ke saath **areola ka achchha hissa** bhi muh mein lene dein. Lower lip bahar ki taraf ho aur chin breast ko touch kare.
+- Feed mein dard ho to latch ko gently todkar dobara deep latch karayein. Zarurat par trained health worker/lactation counsellor se latch check karwayein.
+- Nipple par apna thoda breast milk laga kar hawa mein sookhne dein. Harsh soap ya rubbing se bachayein.
+- Cracks ke bawajood, agar aap manage kar paa rahi hain, breastfeeding usually jaari rakhi ja sakti hai with corrected latch. Agar feed karana bahut painful ho, milk express karke **saaf cup aur spoon** se baby ko diya ja sakta hai.
+
+Sahi position aur latch se soreness aam taur par kuchh din mein behtar hoti hai. **Jaldi doctor/qualified health worker se milen** agar bukhar, breast mein laalpan/garmahat/soojan, peep, bahut tez dard, bleeding, ya 2–3 din mein sudhar na ho.",Q_0037,MIQ,['Medium Frequency'],['Medium Critical'],VeryConsistent,High,Clear,NoAssumption,KEEP,"Breastfeeding support, Nipple pain and cracked nipples, Breastfeeding latch and positioning","doodh pilana, nipple dard, chhilna, cracked nipples, sore nipples, deep latch, areola","Doodh pilate waqt nipple mein dard ho ya nipple chhil/crack ho jaaye, to latch aur feeding position kaise sahi karein aur kab doctor ko dikhana chahiye?","['sore nipples ka kya ilaj hai', 'cracked nipples ho gaye hai', 'breastfeeding me pain ho raha hai', 'nipple me dard kyu hota hai doodh pilate time']"
+Main kaise pata karun ki mere bachche ka vajan aur lambai uski umar ke hisaab se theek hai ya nahi?,"Bachche ka vajan aur lambai/height **umar aur ladka/ladki hone ke hisaab se WHO growth chart** par compare karke dekha jata hai.
+
+Sahi check ke liye yeh details chahiye:
+- exact umar (months mein, khaaskar chhote bachchon ke liye)
+- ladka ya ladki
+- current weight (kg)
+- length/height (cm)
+
+Health worker/doctor chart par aam taur par yeh dekhta hai:
+1. **Weight-for-age**
+2. **Length/height-for-age**
+3. **Weight-for-length/height**
+
+**2 saal se chhote** bachche ki length litaakar maapi jati hai; **2 saal ya usse bade** bachche ki height khada karke maapi jati hai. Ek hi reading se final faisla nahi hota—pichhle measurements ke saath growth ka trend dekhna bhi zaroori hai.
+
+Aap is format mein details de sakte hain: **“Mera bachcha 18 mahine ka ladka/ladki hai, weight 9 kg aur length/height 78 cm hai.”** Isse growth chart par behtar assessment ho sakta hai.
+
+Agar bachcha bilkul weight nahi badha raha, weight kam ho raha hai, bahut kam kha/pee raha hai, baar-baar bimar ho raha hai, ya sust lag raha hai, to jaldi health worker ya doctor ko dikhayein.",Q_0038,MIQ,['Medium Frequency'],['High Critical'],VeryConsistent,High,Clear,ImplicitAssumption,KEEP,"Child growth monitoring, Child nutrition and malnutrition, WHO growth standards","bachche ka vajan, lambai/height, umar ke hisaab se, WHO growth chart, weight-for-age, growth monitoring, malnutrition",Main kaise check karun ki mere bachche ka vajan aur lambai/height uski exact umar aur ladka/ladki hone ke hisaab se theek hai? Growth chart ke liye kya details chahiye?,"['baby ka weight height chart', 'growth chart kaise samjhe', 'mera bacha dubla hai kya karu', 'child growth monitoring kyu zaruri hai']"
+Pregnancy me pet ke keede maarne ki dawai (Albendazole) lena kyu zaroori hai?,"Albendazole pet ke keede (intestinal worms) ko treat karne ke liye di jati hai. Keede kabhi-kabhi **khoon ki kami (anemia)** aur nutrition ki kami ko badha sakte hain; isliye kuch antenatal-care programmes mein pregnancy ke dauran deworming shamil hoti hai.
+
+Pregnancy mein Albendazole **khud se na lein**. Iska use, dose aur timing aapke pregnancy stage, local health programme aur doctor/ANM ki salah par depend karta hai. Aam taur par ise **pehle 3 mahine ke baad** consider kiya jata hai when advised by a clinician.
+
+Agar doctor/ANM ne tablet di hai, unke bataye hue schedule ko follow karein. Agar tez pet dard, vomiting, bleeding, allergy, ya severe weakness ho, jaldi medical advice lein.",Q_0039,MIQ,['Low Frequency'],['High Critical'],VeryConsistent,Medium,Clear,ImplicitAssumption,RE_VET,"Pregnancy care, Deworming, Anemia prevention","pregnancy, garbhavastha, Albendazole, pet ke keede, deworming, anemia/khoon ki kami, antenatal care","Pregnancy mein Albendazole/pet ke keede ki dawai doctor ya ANM kyu dete hain, aur ise kab lena safe hota hai?","['deworming in pregnancy kyu karte hai', 'pet ke kide ki goli khana zaruri hai kya', 'albendazole tablet in pregnancy', 'kide ki dawa kab khani chahiye']"
+Aspataal me delivery karana ghar par delivery se behtar aur surakshit kyu hai?,"### Aspataal mein delivery zyada surakshit kyon hoti hai?
+
+Aspataal/health facility mein delivery isliye zyada surakshit hoti hai kyunki labour aur janm ke dauran maa ya baby ki problem kabhi bhi achanak shuru ho sakti hai. Wahan trained doctors, nurses aur zaroori equipment turant milte hain.
+
+- **Emergency care jaldi milta hai:** Zyada bleeding, lamba ya ruk gaya labour, high BP/fits, baby ki heartbeat ki problem, ya breathing problem jaise complications ka turant ilaaj ho sakta hai.
+- **Maa aur baby dono ki monitoring hoti hai:** Staff labour ke dauran maa ki condition aur baby ki heartbeat dekhte rehte hain.
+- **Zarurat par operation ya referral:** Caesarean delivery, blood, medicines, newborn resuscitation, ya higher hospital referral ki zarurat ho to care mein deri kam hoti hai.
+- **Janm ke turant baad newborn care:** Baby ko turant sukha kar garam rakhna, skin-to-skin care, pehle 1 ghante mein breastfeeding shuru karana, aur chhote/saans ya feeding problem wale baby ko special care mil sakti hai.
+- **Teekakaran aur counselling:** BCG, OPV zero dose aur Hepatitis B jaise birth-dose vaccines, breastfeeding aur newborn-care guidance mil sakti hai.
+- **Sarkari suvidhayein:** Sarkari health facilities mein JSSK ke tahat delivery, dawa, tests, stay, khana aur transport jaise muft benefits mil sakte hain. Apne area mein available services ki jankari ASHA/health worker se lein.
+
+Delivery ki planning pregnancy ke dauran hi ASHA, ANM ya doctor ke saath karein, khas kar agar pehle C-section, high BP, diabetes, twins, bleeding, ya koi aur risk ho. Labour shuru ho, bleeding ho, paani jaldi nikal jaye, tez pet dard/fits aaye, ya baby ki movement kam lage to turant health facility se sampark karein. Sarkari ambulance ke liye kai jagah **102/108** par call kiya ja sakta hai.",Q_0040,MIQ,['Low Frequency'],['High Critical'],VeryConsistent,High,Clear,ImplicitAssumption,KEEP,"Maternal health, Labour and delivery, Newborn care","aspataal delivery, ghar par delivery, institutional delivery, labour emergency, maa aur baby safety, JSSK muft seva, 102/108 ambulance",Aspataal ya health centre mein delivery karana ghar par delivery ke mukable zyada surakshit kyon mana jata hai?,"['institutional delivery kyu zaruri hai', 'hospital me delivery ke fayde', 'ghar pe delivery safe hai kya', 'aspataal me hi delivery kyu karwaye']"
+Pregnancy me safed paani (white discharge) aana normal hai ya chinta ki baat hai?,"Pregnancy me **halka safed ya milky discharge** aksar normal ho sakta hai, khaaskar agar woh **badbu ke bina ho aur khujli, jalan ya dard na ho**. Isse normal pregnancy discharge (leukorrhea) kaha jata hai.
+
+Lekin doctor/maternity health centre se **jaldi baat karein** agar discharge:
+- paani jaisa bahut zyada ho ya lagatar leak ho (waters leak hone ka doubt)
+- badbudar ho, ya peela/green/grey rang ka ho
+- khujli, jalan, soreness, ya urine karte waqt jalan ke saath ho
+- khoon, pet/peeth ka dard, bukhar, contractions, ya tabiyat kharab hone ke saath ho.
+
+Agar bleeding, tez pet dard, bukhar, ya baby ki movement kam lage, to **urgent medical care** lein. Douching/andar se wash ya bina doctor ki salah ke cream/medicine na use karein.",Q_0041,MIQ,['High Frequency'],['Medium Critical'],VeryConsistent,High,Clear,ImplicitAssumption,RE_VET,"Pregnancy care, Vaginal discharge in pregnancy, Pregnancy danger signs","pregnancy, safed paani, white discharge, leukorrhea, vaginal discharge, pregnancy danger signs, paani jaisa leakage","Pregnancy me safed discharge/paani aa raha hai—kya ye normal hai? Isme badbu, khujli, jalan, pet dard, blood ya paani jaisa lagatar leakage nahi hai/ hai.","['pregnancy me white discharge q aata hai', 'safed pani aana normal hai kya', 'white discharge in pregnancy', 'leukorrhea in pregnancy']"
+Main kaise samjhun ki mere bachche ko bhookh lagi hai aur uska pet bhar gaya hai?,"## Bhookh ke signs
+Agar aapka baby doodh peeta hai, to bhookh ke early signs dekhein:
+- haath ya mutthi munh mein lana
+- lips lick karna, sucking movements karna, ya munh kholna
+- godi mein lene par breast/bottle ki taraf head turn karna (rooting)
+- fussiness ya bechaini
+
+**Rona bhookh ka late sign hai**, isliye possible ho to rone se pehle feed offer karein.
+
+## Pet bharne ke signs
+Baby aam taur par pet bharne par:
+- breast/bottle se khud hat jata hai ya sucking slow/stop kar deta hai
+- relaxed, calm aur content dikhta hai
+- feed ke baad neend mein chala sakta hai
+
+Baby ko force-feed na karein. Agar woh ek breast ke baad bhi hunger cues dikhaye, to doosra breast offer kar sakte hain.
+
+## Agar baby 6 mahine ya usse bada hai aur solids leta hai
+Dheere aur patiently khilayein. Bhookh par munh kholna, food ki taraf lean karna ya haath badhana ho sakta hai; pet bharne par munh band karna, head turn karna, food push away karna ya interest khona ho sakta hai. Zabardasti na khilayein.
+
+## Kab advice leni chahiye
+Agar baby bahut kam feed kar raha ho, unusual sleepy/weak ho, wet diapers noticeably kam ho rahe hon, ya weight gain theek na ho, to pediatrician/health worker se baat karein. Baby ki age aur breastfeed, formula, ya solids—ye details dene se guidance aur exact ho sakti hai.",Q_0042,MIQ,['High Frequency'],['Medium Critical'],VeryConsistent,High,Ambiguous,ImplicitAssumption,KEEP,"Infant and young child feeding, Breastfeeding, Responsive feeding","bhookh ke signs, pet bhar gaya, feeding cues, breastfeeding, responsive feeding, baby hunger cues, solids khilana",Mera bachcha [umar] ka hai aur breastfeed/formula/solids leta hai. Main kaise pehchaanun ki use bhookh lagi hai aur uska pet bhar gaya hai?,"['baby ke bhookh lagne ke signs', 'kaise pata kare baby ka pet bhar gaya', 'feeding cues kya hote hai', 'mera baby kyu ro raha hai bhookha hai kya']"
+6 se 12 mahine ke bachche ko din me kitni baar aur kitna khilana chahiye?,"### 6–12 mahine ke bachche ko complementary food kitna aur kitni baar dein?
+
+Agar bachcha healthy hai aur 6 mahine ke baad solids/complementary food shuru kar raha hai:
+
+- **6–8 mahine:** din mein **2–3 baar** thick mashed/pureed ya semi-solid khana dein. Shuru mein **2–3 tablespoons** se start karein aur bachche ki bhookh ke hisaab se dheere-dheere badhayein.
+- **9–11 mahine:** din mein **3 meals + 1–2 healthy snacks** dein. Har meal lagbhag **½ katori/cup (125 mL)** ho sakta hai. Khana mashed, finely chopped, ya soft finger foods ho sakta hai.
+- **12 mahine ke aas-paas:** **3–4 meals + 1–2 snacks** dein. Portion bachche ki bhookh aur growth ke hisaab se badhayein; aam taur par **¾–1 katori/cup tak** ho sakta hai.
+
+**Breastfeeding** (ya doctor-advised milk feeds) jaari rakhein; breastfeeding bachche ki demand par 2 saal ya usse zyada tak chal sakti hai. Bachche ko aaram se, patiently khilayein—force-feed na karein. Agar bachcha khana bilkul na kha raha ho, baar-baar ulti ho, weight na badh raha ho, ya feeding mein dikkat ho, to pediatrician se baat karein.",Q_0043,MIQ,['High Frequency'],['Medium Critical'],VeryConsistent,Medium,Clear,ImplicitAssumption,KEEP,"Infant and young child feeding, Complementary feeding, Breastfeeding","6–12 mahine, baby feeding, complementary feeding, kitni baar khilana, kitna khilana, semi-solid food, breastfeeding",6 se 12 mahine ke healthy bachche ko breastmilk/milk ke saath din mein kitni baar complementary food dena chahiye aur har baar kitna dena chahiye?,"['6 mahine ke baby ko kitni baar khilaye', 'food quantity for 8 month baby', '1 saal ke bache ki diet', 'khana kitni baar dena hai']"
+Bachche aur maa ke liye haath dhona (handwashing) kyu itna zaroori hai?,"Haath dhona maa/caregiver aur bachche ko infection se bachane ke liye bahut zaroori hai. Soap aur safe, saaf paani se haath dhoyen:
+
+- baby ko chhoone ya sambhalne se pehle
+- khana banane aur khane se pehle
+- toilet use karne ke baad
+
+Ghar, baby ke kapde, khana aur bartan bhi saaf rakhen. Isse germs phailne ka risk kam hota hai aur bachcha zyada surakshit rehta hai.",Q_0044,MIQ,['Low Frequency'],['High Critical'],VeryConsistent,High,Clear,NoAssumption,KEEP,"Child care hygiene, Infection prevention, Maternal and newborn care","haath dhona, handwashing, soap aur paani, baby hygiene, maa aur bachcha, infection se bachav, child care","Maa/caregiver aur bachche ke liye haath dhona kyu zaroori hai, aur haath kab-kab dhone chahiye?","['handwashing kyu important hai', 'haath dhone ke fayde', 'baby ko chune se pehle hath dhona', 'infection se bachne ke liye kya kare']"
+Agar naye paida hue bachche ko peeliya (jaundice) ho jaaye to kya karna chahiye?,"## Naye paida hue bachche mein peeliya
+
+Agar baby ki **skin ya aankhen peeli** dikh rahi hain, to **aaj hi doctor/health worker ko dikhakar jaundice check karayein**. Newborns mein peeliya kabhi-kabhi common hota hai, lekin bilirubin level dekhna zaroori hota hai aur kuch babies ko treatment ki zarurat pad sakti hai.
+
+- **Breastfeeding band na karein**; baby ko baar-baar, demand par feed karayein (aam taur par 24 ghante mein 8–12 feeds).
+- **Sirf dhoop, gharelu nuskhe, paani, ghutti ya honey se treatment na karein.**
+- Baby ko **turant/emergency care** ke liye le jayein agar peeliya janm ke pehle 24 ghante mein dikhe, jaldi badh raha ho, baby doodh kam pee raha ho, bahut sust ho, bukhar ho, saans tez chal rahi ho, bahut kamzor lage, ya fits/fainting ho.
+
+Doctor ko baby ki **umar (din mein)**, feeding, bukhar, activity, aur yellowing kab se dikh rahi hai—yeh zaroor batayein.",Q_0045,MIQ,['Medium Frequency'],['High Critical'],VeryConsistent,High,Clear,ImplicitAssumption,RE_VET,"Newborn care, Neonatal jaundice, Newborn danger signs","newborn jaundice, peeliya, naya paida hua bachcha, neonatal jaundice, bilirubin test, breastfeeding, danger signs","Agar mera naya paida hua bachcha peela dikh raha hai, to kya aaj hi doctor ko dikhana chahiye? Baby kitne din ka hai aur doodh theek se pee raha hai ya nahi?","['newborn ko jaundice ho to kya kare', 'bachche ko peeliya ho gaya hai', 'jaundice ka ilaj', 'peeliya me dhoop me rakhna chahiye kya']"
+"Agar bachcha bimaar hai, jaise sardi ya dast, to kya use teeka lagwa sakte hain?","Haan—agar bachche ko **halki sardi, khansi, low-grade bukhar, ya halkay dast** hain aur woh otherwise theek/alert hai, to routine **teeka aam taur par lag sakta hai**. Halki bimaari se vaccine ka asar kam nahi hota.
+
+**Teeka postpone karke pehle doctor/vaccination centre se check karayein** agar bachche ko:
+- tez bukhar ya kaafi zyada susti ho
+- bahut zyada dast, dehydration ke signs, ya baar-baar ulti ho
+- serious infection/illness ho ya hospital care ki zarurat ho
+
+**Oral vaccine** ke liye bhi halkay dast mein dose aam taur par di ja sakti hai. Lekin severe dast ya repeated vomiting mein, symptoms control hone tak wait karna behtar ho sakta hai.
+
+Vaccination visit par staff ko bukhar, dast/ulti ki frequency, aur koi serious symptom zaroor batayein—woh us din teeka dene ka final assessment karenge.",Q_0046,MIQ,['Medium Frequency'],['High Critical'],VeryConsistent,High,Clear,ImplicitAssumption,KEEP,"Childhood immunization, Vaccination during illness, Immunization rules and exceptions","teeka, vaccination, bimaar bachcha, sardi/cold, dast/diarrhea, bukhar/fever, oral vaccine","Agar bachche ko halki sardi, bukhar ya dast hain, to kya routine teeka lag sakta hai? Tez bukhar, bahut dast ya baar-baar ulti ho to kya karna chahiye?","['bimar bacche ko vaccine de sakte hai', 'fever and vaccine', 'diarrhea me tika lagwana chahiye?', 'sardi me injection lagega ya nahi']"
+Agar maa ko sardi-bukhaar ho to kya woh bachche ko apna doodh pila sakti hai?,"Haan—agar maa ko **aam sardi, khansi ya halka bukhaar** hai, to aam taur par breastfeeding **jaari rakh sakti hain**. Maa ke doodh se bachche ko protective antibodies milte hain. Common cold/flu jaise respiratory infections zyada tar doodh se nahi, balki khansi ya chheenk ki boondon se phailte hain.
+
+**Savdhani:**
+- Baby ko chhoone aur feed karane se pehle haath sabun-paani se dhoyen.
+- Khansi/chheenk ho to mask pehnen aur munh-nak dhaken.
+- Paani/garam fluids lein aur aaraam karein.
+- Paracetamol aam taur par breastfeeding mein li ja sakti hai, lekin doosri cold/cough medicines lene se pehle doctor ya pharmacist se poochhein.
+
+**Doctor se jaldi baat karein** agar bukhaar zyada ho ya 2–3 din se bana rahe, saans ki takleef ho, bahut kamzori/dehydration ho, koi specific infection (jaise COVID, flu, dengue, TB) diagnose ho, ya baby newborn/premature/बीमार ho.",Q_0047,MIQ,['Medium Frequency'],['High Critical'],VeryConsistent,Medium,Clear,ImplicitAssumption,RE_VET,"Breastfeeding, Maternal illness, Infection prevention","breastfeeding, maa ka doodh, sardi-bukhaar, khansi, fever, hand hygiene, mask","Agar breastfeeding karane wali maa ko aam sardi, khansi ya bukhaar ho, to kya woh baby ko apna doodh pila sakti hai? Kaunsi savdhani rakhein aur kab doctor ko dikhana chahiye?","['feeding with fever', 'bimar hu to breastfeeding karu ya nahi', 'sardi me doodh pilana safe hai', 'maa bimar ho to baby ko feed karana']"
+Bachche ko sulaane ka sabse surakshit tareeka kya hai?,"**Agar baby 1 saal se chhota hai, use hamesha peeth ke bal (on the back) sulaayen**—har sleep aur nap ke liye.
+
+Safe sleep ke liye:
+- Baby ko **firm, flat mattress** par sulayen, ideally apne cot/crib mein.
+- Cot mein **takia, razai/loose blanket, soft toys, ya bumper pads** na rakhen.
+- Baby ka chehra aur naak dhaki hui na ho; overheating se bachayen.
+- Baby ke paas dhumrapaan na karein.
+- Malaria wale area mein machhar se bachav ke liye **theek se lagi hui bednet** use ki ja sakti hai.
+
+Agar baby ko saans lene mein dikkat, neelapan, bahut zyada susti, ya feeding mein problem ho, to turant medical help lein.",Q_0048,MIQ,['Low Frequency'],['High Critical'],VeryConsistent,High,Clear,ImplicitAssumption,KEEP,"Infant safe sleep, Child care and development, Malaria prevention","baby sleep, safe sleep, peeth ke bal, back sleeping, infant care, cot mattress, bednet malaria",Mera baby 1 saal se chhota hai—use sulaane ka sabse surakshit tareeka kya hai?,"['safe sleep for baby', 'baby ko kaise sulana chahiye', 'bachche ko pet ke bal sulana chahiye ya peeth ke bal', 'sids se kaise bachaye']"
+Pregnancy me kam se kam kitni baar doctor se check-up karana anivarya hai?,"## Pregnancy check-ups
+
+Routine pregnancy mein **minimum 4 antenatal check-ups (ANC visits)** commonly advised kiye jaate hain:
+
+1. **12 weeks ke andar** – pregnancy register karayein aur pehla check-up.
+2. **16–24 weeks**
+3. **28–32 weeks**
+4. **36–38 weeks**
+
+Ye schedule **normal, uncomplicated pregnancy** ke liye hai. High-risk pregnancy, diabetes/BP, anemia, twins, ya kisi problem mein doctor/health provider zyada visits bula sakte hain.
+
+**Danger signs**—bleeding, tez pet dard, severe headache, chehre/haath-pair mein achanak sujan, bukhar, fits, ya baby movement kam lagna—mein next routine visit ka wait na karein; turant health facility se sampark karein.
+
+> Note: ANC-contact recommendations guideline aur location ke hisaab se badal sakti hain; apne local government health programme/doctor ka schedule follow karein.",Q_0049,MIQ,['Medium Frequency'],['High Critical'],VeryConsistent,Medium,Clear,ImplicitAssumption,RE_VET,"Pregnancy care, Antenatal care and routine check-ups","pregnancy check-up, ANC visit, antenatal care, 4 check-ups, doctor se checkup, garbhavastha","Normal pregnancy mein minimum kitne ANC check-ups/health-facility visits karwane chahiye, aur kaunse weeks mein?","['anc check up kitne hote hai', 'pregnancy me kitni baar doctor ke paas jana chahiye', 'minimum doctor visit in pregnancy', 'antenatal care schedule']"
+Delivery ke baad maa ko apne shareer ki dekhbhaal kaise karni chahiye?,"## Delivery ke baad maa ki dekhbhaal
+
+Delivery ke baad shareer ko theek hone ke liye **aaraam, poshtik khana, paani aur family support** chahiye—khaaskar pehle 28 din mein.
+
+- **Aaraam karein:** Zyada bhaari kaam aur weight uthana shuru mein avoid karein. Ghar ke kaam aur baby care mein family se madad lein.
+- **Poshtik khana khayein:** Dal, anda/maans (agar lete hain), doodh ya dairy, sabzi, फल, whole grains aur pulses shamil karein. Breastfeeding ke dauran extra nutritious food ki zaroorat hoti hai.
+- **Paani aur fluids:** Pyaas ke hisaab se paryapt paani, doodh, soup ya anya safe fluids lein; aam taur par 2 litre ya usse zyada fluids din bhar mein madadgar ho sakte hain.
+- **Kabz se bachav:** Whole grains, dal, sabzi aur fruits jaise fibre-rich foods khayein.
+- **Iron–folic acid:** Doctor/ASHA/ANM ki salah ke mutabik IFA tablets lein. Kai public-health programmes mein delivery ke baad 100 din tak roz **100 mg elemental iron + 500 mcg folic acid** diya jata hai.
+- **Breastfeeding:** Baby ko jaldi aur baar-baar breastfeed karayein, agar maa aur baby ki condition theek ho. Isse uterus ko sikudne mein madad milti hai aur bleeding kam ho sakti hai.
+- **Safai aur follow-up:** Normal delivery ya C-section ke wound/stitches ko saaf aur sukha rakhein; prescribed postnatal check-ups par zaroor jayein.
+
+### Turant doctor se sampark karein agar
+Bahut zyada bleeding ho, bade clots aaye, bukhar ho, badbudar discharge ho, tez pet/pelvic pain ho, saans phoolna ya chest pain ho, severe headache/blurred vision ho, C-section wound se pus aaye, ya bahut udaasi/ghabrahat ya khud ko nuksan pahunchane ke khayal aaye.
+
+Normal delivery aur C-section ki care thodi alag ho sakti hai; symptoms hon to individual medical advice lein.",Q_0050,MIQ,['Medium Frequency'],['High Critical'],VeryConsistent,Medium,Clear,NoAssumption,KEEP,"Postpartum care, Maternal nutrition, Breastfeeding and postnatal recovery","delivery ke baad, postpartum care, maa ki dekhbhaal, postnatal recovery, breastfeeding, iron folic acid, C-section care","Delivery ke baad maa ko body recovery aur dekhbhaal ke liye kya karna chahiye? Normal delivery ya C-section ho, aur agar bleeding, bukhar ya zyada dard ho to kya karein?","['postpartum care tips', 'delivery ke baad kya dhyan rakhe', 'postnatal care for mother', 'delivery ke baad recovery kaise kare']"
+Pregnancy me khoon ki kami (anemia) se maa aur bachche par kya bura asar pad sakta hai?,"Pregnancy mein **khoon ki kami (anemia)**—khaaskar agar zyada ho aur treatment na ho—maa aur baby dono ke liye risk badha sakti hai.
+
+**Baby par mumkin asar:**
+- Jaldi delivery (**preterm birth**)
+- Kam janam wazan (**low birth weight**)
+- Pregnancy/birth ke aas-paas baby loss ka badha hua risk, especially severe anemia mein
+- Bachche ke brain, learning aur motor development par asar padne ka risk
+
+**Maa par mumkin asar:**
+- Zyada thakan, kamzori, chakkar ya saans phoolna
+- Roz ke kaam/kaam karne ki capacity kam hona
+- Body ki infection se ladne ki capacity par asar
+- Delivery ke time khoon ki kami ko tolerate karna mushkil ho sakta hai
+
+Antenatal visits mein **Hb (hemoglobin) test** zaroor karwayein aur iron/IFA ki salah follow karein. **Hb 7 g/dL se kam**, behoshi, bahut zyada saans phoolna, chest pain, ya tez dhadkan ho to jaldi health facility se assessment karwayein.",Q_0051,MIQ,['Low Frequency'],['High Critical'],VeryConsistent,High,Clear,NoAssumption,KEEP,"Pregnancy care, Anemia during pregnancy, Maternal and newborn health","pregnancy anemia, khoon ki kami, low hemoglobin (Hb), maa aur bachcha, preterm birth, low birth weight, severe anemia",Pregnancy mein khoon ki kami (anemia) hone se maa aur baby par kya-kya bura asar ya risk badh sakta hai?,"['anemia in pregnancy risks', 'khoon ki kami se kya problem ho sakti hai', 'low hemoglobin ke nuksan', 'anemia kyu khatarnak hai']"
+Kam vajan ke saath paida hue bachche (LBW) ki ghar par vishesh dekhbhaal kaise karein?,"## LBW baby ki ghar par dekhbhaal
+
+Kam vajan se paida hue baby ko ghar par **garam rakhna, baar-baar maa ka doodh dena, safai, aur danger signs par nazar** rakhna bahut zaroori hai. Yeh salah **stable baby** ke liye hai; discharge ke samay mili hospital/doctor ki feeding aur follow-up plan ko priority dein.
+
+- **Kangaroo Mother Care (KMC):** Baby ko diaper aur cap pehna kar maa ya healthy caregiver ke bare chest par skin-to-skin rakhein. Caregiver jagta aur alert rahe. KMC shuru/seekhna hospital ya health worker se karein.
+- **Sirf breast milk:** Baby ko din-raat frequently feed karayein—aksar 24 ghante mein **8–12 baar**. Agar baby latch/suck nahi kar pa raha, to maa ka nikala hua doodh cup, spoon ya paladai se **health worker ki salah ke mutabik** dein. Ghar par tube feeding khud na karein.
+- **Baby ko warm rakhein:** Baby ko adult se 1–2 layers zyada kapde pehnayein aur sir dhak kar rakhein. Kapde sukhe rakhein; baby ko bahut garam bhi na karein.
+- **Safai aur naal ki care:** Baby ko chhoone se pehle sabun se haath dhoyein. Naal/cord stump ko saaf aur sukha rakhein; uspar tel, powder, ointment ya koi gharelu cheez na lagayein.
+- **Safe sleep:** Baby ko hamesha **peeth ke bal** sulayein, firm flat surface par. Takia, loose rajai/blanket aur soft toys na rakhein.
+- **Weight aur follow-up:** Weight health worker ke schedule ke hisaab se check karayein. LBW baby ko regular follow-up ki zaroorat hoti hai.
+
+### Turant health worker/hospital se sampark karein agar
+- baby doodh bahut kam ya bilkul na pee raha ho;
+- saans tez/pareshani wali ho, seena dhans raha ho, ya baby neela pad raha ho;
+- baby bahut thanda/garam lage, bahut sust ho, jag na raha ho;
+- jhatke/convulsions hon; ya koi bhi condition achanak bigad rahi ho.
+
+Baby ki age, birth weight aur current weight, feeding, aur premature birth ki history doctor/ASHA/ANM ko batakar individualized plan lein.",Q_0052,MIQ,['Medium Frequency'],['High Critical'],Inconsistent,High,Clear,ImplicitAssumption,RE_VET,"Newborn care, Low birth weight, Breastfeeding and Kangaroo Mother Care","LBW, kam vajan baby, low birth weight, Kangaroo Mother Care (KMC), maa ka doodh, ghar par dekhbhaal, danger signs","Mera LBW/ kam vajan ka newborn baby ghar par hai aur abhi stable lag raha hai. Use KMC, garam rakhne, maa ka doodh pilane aur weight monitoring ki dekhbhaal kaise karein, aur kin signs par turant hospital le jayein?","['low birth weight baby care at home', 'kam wajan wale bacche ki dekhbhal', 'lbw baby ka vajan kaise badhaye', 'mera baby kamjor paida hua hai']"
