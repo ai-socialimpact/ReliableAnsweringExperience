@@ -1,0 +1,220 @@
+<!DOCTYPE html><html><head><meta charset="UTF-8"><style>
+        body { font-family: sans-serif; background: #fafafa; padding: 15px; color: #333; }
+        .wrapper { max-width: 1000px; margin: 0 auto; background: #fff; border: 1px solid #ddd; padding: 25px; border-radius: 4px; }
+        .summary-dashboard { display: flex; gap: 15px; margin-bottom: 15px; }
+        .metric-card { flex: 1; background: #f8fafc; border: 1px solid #cbd5e1; border-radius: 4px; padding: 12px; text-align: center; }
+        .metric-card h3 { margin: 0; font-size: 24px; color: #0284c7; }
+        .metric-card p { margin: 2px 0 0 0; font-size: 12px; color: #475569; }
+        .control-bar { background: #f1f5f9; padding: 10px; border: 1px solid #e2e8f0; border-radius: 4px; margin-bottom: 15px; display: flex; align-items: center; gap: 10px; font-size: 12px; color: #64748b; }
+        .btn { background: #0284c7; color: white; border: none; padding: 6px 12px; font-weight: bold; border-radius: 4px; cursor: pointer; }
+        .vol-hdr { background: #f0f4f8; font-weight: bold; padding: 10px; margin-top: 10px; cursor: pointer; border-radius: 4px; color: #1e3a8a; }
+        .ch-hdr { background: #fef3c7; font-weight: bold; padding: 7px; margin: 6px 0 0 15px; cursor: pointer; border-radius: 4px; color: #92400e; }
+        .faq-card { margin: 10px 0 10px 25px; padding: 15px; border-left: 4px solid #94a3b8; background: #f8fafc; font-size: 13px; }
+        .card-side-badge { font-weight: bold; font-size: 11px; color: #475569; background: #e2e8f0; padding: 3px 8px; border-radius: 4px; margin-bottom: 8px; display: inline-block; }
+        .info-grid { background: #ffffff; padding: 10px; border: 1px solid #e2e8f0; border-radius: 4px; margin: 8px 0; line-height: 1.4; }
+        .split-row { display: flex; gap: 15px; margin-top: 10px; }
+        .split-col { flex: 1; min-width: 0; }
+        .sub-list { padding-left: 0; list-style: none; font-size: 12px; color: #444; }
+        .sub-list li { display: flex; align-items: flex-start; margin-bottom: 6px; }
+        .list-text { flex: 1; min-width: 0; }
+        .badge { font-weight: bold; padding: 1px 5px; border-radius: 8px; font-size: 10px; margin-right: 6px; display: inline-block; white-space: nowrap; flex-shrink: 0; }
+        .badge.weight { background: #dcfce7; color: #15803d; }
+        .badge.freq { background: #e0f2fe; color: #0369a1; }
+        .hide { display: none !important; }
+        h4, h5 { margin: 0 0 6px 0; color: #0f172a; }
+        h5 { font-size: 11px; color: #64748b; text-transform: uppercase; border-bottom: 1px solid #e2e8f0; padding-bottom: 2px; }
+        code { background: #f1f5f9; padding: 1px 3px; border-radius: 3px; color: #b45309; font-family: monospace; }
+    </style><script>
+        let expanded = true;
+        function toggleAll() {
+            expanded = !expanded;
+            document.querySelectorAll('.toggleable-details').forEach(r => expanded ? r.classList.remove('hide') : r.classList.add('hide'));
+            document.getElementById('toggleBtn').innerText = expanded ? "Master Collapse Lists ▴" : "Master Expand Lists ▾";
+        }
+    </script></head><body><div class="wrapper">
+        <h2>BOOK CONTENT INDEX ARCHITECTURE</h2>
+        <div class="summary-dashboard">
+            <div class="metric-card"><h3>10</h3><p>Total FAQ Chapters</p></div>
+            <div class="metric-card"><h3>57</h3><p>High-Impact Questions (&gt;10 rows)</p></div>
+            <div class="metric-card"><h3>12.64%</h3><p>Total WhatsApp Traffic Handled</p></div>
+        </div>
+        <div class="control-bar">
+            <button id="toggleBtn" class="btn" onclick="toggleAll()">Master Collapse Lists ▴</button>
+            <span>(Toggles all Question & Variation fields globally without closing volume panels)</span>
+        </div>
+        
+                <div class="block">
+                    <div class="vol-hdr" onclick="this.nextElementSibling.classList.toggle('hide')">📘 Volume: 👶 Pediatric &amp; Infant Wellness ▾</div>
+                    <div>
+                <div class="block">
+                    <div class="ch-hdr" onclick="this.nextElementSibling.classList.toggle('hide')">🔖 Chapter Focus: Child Immunization ▾</div>
+                    <div>
+                <div class="faq-card">
+                    <div class="card-side-badge">📊 2.57% of total channel traffic (463 queries)</div>
+                    <h4>📖 What Is The Complete Immunization Schedule And How Should I Manage Vaccine Side Effects For My Child?</h4>
+                    <div class="info-grid">
+                        <div><strong>💡 Intent:</strong> Mothers are asking for comprehensive information about the immunization schedule for themselves during pregnancy and for their children, including which vaccines are due at specific ages, the purpose of these vaccines, and how to manage common side effects like fever or swelling.</div>
+                        <div style="margin-top:4px;"><strong>🛠️ Scope:</strong> The writers must create a comprehensive guide covering the national immunization schedule for infants and pregnant women, explain the purpose of key vaccines, and provide clear instructions for managing common post-vaccination side effects.</div>
+                        <div style="margin-top:4px;"><strong>📁 Asset:</strong> <code>docs/immunization_schedule_and_basics.md</code></div>
+                    </div>
+                    <div class="split-row toggleable-details">
+                        <div class="split-col"><h5>📍 Top 8 Distinct Questions</h5><ul class="sub-list"><li><span class="badge weight">139 rows</span><span class="list-text">What Should I Do About Lumps, Fever, Or Pain After My Child&#x27;s Vaccination?</span></li><li><span class="badge weight">116 rows</span><span class="list-text">What Is The Vaccination Schedule For My Baby At Different Ages Such As 1.5, 2.5, And 9 Months?</span></li><li><span class="badge weight">46 rows</span><span class="list-text">Which Vaccines Are Required During Pregnancy And When Should I Get Them?</span></li><li><span class="badge weight">46 rows</span><span class="list-text">What Are The Specific Diseases That Vaccines Like BCG, OPV, And Hepatitis B Protect Against?</span></li><li><span class="badge weight">37 rows</span><span class="list-text">How Many Injections Will My Baby Receive At Each Vaccination Visit?</span></li><li><span class="badge weight">32 rows</span><span class="list-text">Is It Absolutely Necessary For My Child To Receive All The Recommended Vaccines?</span></li><li><span class="badge weight">24 rows</span><span class="list-text">Where Can I Go To Get My Child Vaccinated, And Are They Available At Government Hospitals?</span></li><li><span class="badge weight">23 rows</span><span class="list-text">What Should I Do If My Child Has Missed A Scheduled Vaccine Dose?</span></li></ul></div>
+                        <div class="split-col"><h5>🗣️ Top 5 Hinglish Variations</h5><ul class="sub-list"><li><span class="badge freq">6 freq</span><span class="list-text"><i>Mera baby six month ka hua hai abhi usko 3:30 mahine ka sui lagaya hai 3 din ho gaya hai usko barf bhi Laga rahi hun aur main cream bhi Laga rahi hun to bhi gand jaisa banaa hai to kya karna chahie</i></span></li><li><span class="badge freq">3 freq</span><span class="list-text"><i>Jahan per sui mare Na vahin per guard jaisa hua Hai Baki aur kuchh nahin</i></span></li><li><span class="badge freq">2 freq</span><span class="list-text"><i>Opv kya hota hai</i></span></li><li><span class="badge freq">2 freq</span><span class="list-text"><i>Hepatitis b kya hota hai</i></span></li><li><span class="badge freq">2 freq</span><span class="list-text"><i>Injection 9 mahine me kitane lagte h</i></span></li></ul></div>
+                    </div>
+                </div></div>
+                </div>
+                <div class="block">
+                    <div class="ch-hdr" onclick="this.nextElementSibling.classList.toggle('hide')">🔖 Chapter Focus: Infant Feeding Basics ▾</div>
+                    <div>
+                <div class="faq-card">
+                    <div class="card-side-badge">📊 1.31% of total channel traffic (236 queries)</div>
+                    <h4>📖 What Are The Essential Guidelines For Successful Breastfeeding?</h4>
+                    <div class="info-grid">
+                        <div><strong>💡 Intent:</strong> Mothers are seeking fundamental information regarding the importance, benefits, and basic practices of providing breast milk to their infants.</div>
+                        <div style="margin-top:4px;"><strong>🛠️ Scope:</strong> Writers will develop a comprehensive guide covering the foundational principles of breastfeeding, including initiation, signs of adequacy, and benefits for both mother and child.</div>
+                        <div style="margin-top:4px;"><strong>📁 Asset:</strong> <code>docs/breastfeeding_guidance.md</code></div>
+                    </div>
+                    <div class="split-row toggleable-details">
+                        <div class="split-col"><h5>📍 Top 8 Distinct Questions</h5><ul class="sub-list"><li><span class="badge weight">195 rows</span><span class="list-text">What Is The General Importance Of Mother&#x27;s Milk?</span></li><li><span class="badge weight">15 rows</span><span class="list-text">Should I Exclusively Breastfeed My Baby For The First Six Months?</span></li><li><span class="badge weight">8 rows</span><span class="list-text">How Soon After Delivery Should I Begin Breastfeeding?</span></li><li><span class="badge weight">6 rows</span><span class="list-text">What Are The Benefits Of Breastfeeding For Both The Mother And The Baby?</span></li><li><span class="badge weight">4 rows</span><span class="list-text">How Can I Tell If My Baby Is Getting Enough Breast Milk?</span></li><li><span class="badge weight">4 rows</span><span class="list-text">How Frequently Should A Newborn Be Breastfed?</span></li><li><span class="badge weight">3 rows</span><span class="list-text">What Is Colostrum And Why Is It Important For My Newborn?</span></li><li><span class="badge weight">1 rows</span><span class="list-text">At What Age Do Babies Typically Start To Recognize Their Mother?</span></li></ul></div>
+                        <div class="split-col"><h5>🗣️ Top 5 Hinglish Variations</h5><ul class="sub-list"><li><span class="badge freq">233 freq</span><span class="list-text"><i>Maa ka doodh</i></span></li><li><span class="badge freq">1 freq</span><span class="list-text"><i>Mommaz Kap Karenga Mere</i></span></li><li><span class="badge freq">1 freq</span><span class="list-text"><i>Chote bacche ma ko kap se pehchanana chalu karte hain.</i></span></li><li><span class="badge freq">1 freq</span><span class="list-text"><i>Sirf maa ka dudh</i></span></li></ul></div>
+                    </div>
+                </div></div>
+                </div></div>
+                </div>
+                <div class="block">
+                    <div class="vol-hdr" onclick="this.nextElementSibling.classList.toggle('hide')">📘 Volume: 🤰 Maternal Antepartum Care ▾</div>
+                    <div>
+                <div class="block">
+                    <div class="ch-hdr" onclick="this.nextElementSibling.classList.toggle('hide')">🔖 Chapter Focus: Fetal Movement ▾</div>
+                    <div>
+                <div class="faq-card">
+                    <div class="card-side-badge">📊 2.25% of total channel traffic (406 queries)</div>
+                    <h4>📖 When Will I Feel My Baby Move And What Are The Normal Patterns Of Fetal Movement During Pregnancy?</h4>
+                    <div class="info-grid">
+                        <div><strong>💡 Intent:</strong> Mothers are seeking to understand the normal patterns of fetal movement, including when it starts, what frequency is expected, and how to interpret changes or decreases in their baby&#x27;s activity.</div>
+                        <div style="margin-top:4px;"><strong>🛠️ Scope:</strong> Writers will provide a comprehensive guide on fetal movements, covering the timeline for quickening, normal patterns and frequency, factors influencing movement, and clear instructions on when to contact a healthcare provider for reduced fetal movement.</div>
+                        <div style="margin-top:4px;"><strong>📁 Asset:</strong> <code>docs/pregnancy_care_and_checkups.md</code></div>
+                    </div>
+                    <div class="split-row toggleable-details">
+                        <div class="split-col"><h5>📍 Top 8 Distinct Questions</h5><ul class="sub-list"><li><span class="badge weight">102 rows</span><span class="list-text">When Does Fetal Movement Typically Begin During Pregnancy?</span></li><li><span class="badge weight">81 rows</span><span class="list-text">Is It Normal For My Baby&#x27;s Movements To Vary In Frequency And Intensity From Day To Day?</span></li><li><span class="badge weight">81 rows</span><span class="list-text">What Should I Do If I Notice A Significant Decrease Or Absence Of Fetal Movement?</span></li><li><span class="badge weight">41 rows</span><span class="list-text">What Do The First Fetal Movements (Quickening) Feel Like?</span></li><li><span class="badge weight">41 rows</span><span class="list-text">How Many Kicks Or Movements Should I Be Feeling In A Day?</span></li><li><span class="badge weight">20 rows</span><span class="list-text">Does The Baby&#x27;s Position In The Womb Affect Where I Feel Movements?</span></li><li><span class="badge weight">20 rows</span><span class="list-text">Are There Ways To Encourage My Baby To Move If I Am Worried?</span></li><li><span class="badge weight">20 rows</span><span class="list-text">Is There A Difference In Movement Between A Male And Female Fetus?</span></li></ul></div>
+                        <div class="split-col"><h5>🗣️ Top 5 Hinglish Variations</h5><ul class="sub-list"><li><span class="badge freq">3 freq</span><span class="list-text"><i>Baby Mera active hai agar vah Jo gant Hai vahan per main thoda matlab aisa press kar rahi hun to ro Raha Hai vah</i></span></li><li><span class="badge freq">3 freq</span><span class="list-text"><i>Pregnancy me pet upar ki traf chala gya aisa kiu</i></span></li><li><span class="badge freq">3 freq</span><span class="list-text"><i>Kabhi baby movement bahut kam hoti hai kabhi jyada isse ko problm to nhi hai</i></span></li><li><span class="badge freq">2 freq</span><span class="list-text"><i>Baccha ghoom raha hai kaise pata chalega</i></span></li><li><span class="badge freq">2 freq</span><span class="list-text"><i>Mujhe abhi tak apne bacche ki moment feel nahi ho rahi hai</i></span></li></ul></div>
+                    </div>
+                </div></div>
+                </div>
+                <div class="block">
+                    <div class="ch-hdr" onclick="this.nextElementSibling.classList.toggle('hide')">🔖 Chapter Focus: Pregnancy Health ▾</div>
+                    <div>
+                <div class="faq-card">
+                    <div class="card-side-badge">📊 1.30% of total channel traffic (234 queries)</div>
+                    <h4>📖 What Are the Common Causes of Abdominal Pain During Pregnancy and When Should I Be Concerned?</h4>
+                    <div class="info-grid">
+                        <div><strong>💡 Intent:</strong> Pregnant women are seeking to understand the causes, normalcy, and appropriate remedies for various types of abdominal pain experienced during different stages of their pregnancy.</div>
+                        <div style="margin-top:4px;"><strong>🛠️ Scope:</strong> The writers must explain the common, non-threatening causes of abdominal pain during pregnancy (like gas, ligament pain) while clearly outlining the warning signs (severe, persistent, or accompanied by other symptoms) that necessitate immediate medical consultation.</div>
+                        <div style="margin-top:4px;"><strong>📁 Asset:</strong> <code>docs/pregnancy_care_and_checkups.md</code></div>
+                    </div>
+                    <div class="split-row toggleable-details">
+                        <div class="split-col"><h5>📍 Top 8 Distinct Questions</h5><ul class="sub-list"><li><span class="badge weight">65 rows</span><span class="list-text">Why Am I Experiencing Pain in My Lower Abdomen During Pregnancy?</span></li><li><span class="badge weight">45 rows</span><span class="list-text">What Are the General Reasons for Stomach Pain While Pregnant?</span></li><li><span class="badge weight">35 rows</span><span class="list-text">What Should I Do if I Have Stomach Pain During My Pregnancy?</span></li><li><span class="badge weight">25 rows</span><span class="list-text">Is It Normal to Have Mild and Occasional Abdominal Pain During Pregnancy?</span></li><li><span class="badge weight">20 rows</span><span class="list-text">What Does Pain on the Side of My Stomach or Near the Navel Indicate in Pregnancy?</span></li><li><span class="badge weight">18 rows</span><span class="list-text">Should I Worry About Sharp, Stabbing, or Cramping Pains in My Abdomen?</span></li><li><span class="badge weight">15 rows</span><span class="list-text">Can Certain Foods or Activities Like Sitting for a Long Time Cause Abdominal Pain in Pregnancy?</span></li><li><span class="badge weight">11 rows</span><span class="list-text">Could My Abdominal Pain Be Harming My Baby?</span></li></ul></div>
+                        <div class="split-col"><h5>🗣️ Top 5 Hinglish Variations</h5><ul class="sub-list"><li><span class="badge freq">2 freq</span><span class="list-text"><i>Pet ke nichle hisse main dard hota hai</i></span></li><li><span class="badge freq">2 freq</span><span class="list-text"><i>Pet me dard hai</i></span></li><li><span class="badge freq">2 freq</span><span class="list-text"><i>Aaj subha se nichle hisse me halki halki dard ho rhi hai</i></span></li><li><span class="badge freq">2 freq</span><span class="list-text"><i>Mere pet me dard ho raha hai</i></span></li><li><span class="badge freq">2 freq</span><span class="list-text"><i>Pet me dard ho to kya kre</i></span></li></ul></div>
+                    </div>
+                </div></div>
+                </div>
+                <div class="block">
+                    <div class="ch-hdr" onclick="this.nextElementSibling.classList.toggle('hide')">🔖 Chapter Focus: Government Schemes ▾</div>
+                    <div>
+                <div class="faq-card">
+                    <div class="card-side-badge">📊 1.02% of total channel traffic (184 queries)</div>
+                    <h4>📖 What Government Schemes And Benefits Are Available For Pregnant Women And New Mothers?</h4>
+                    <div class="info-grid">
+                        <div><strong>💡 Intent:</strong> New and expecting mothers are seeking a comprehensive understanding of the various government schemes and benefits available to them for maternal and child healthcare.</div>
+                        <div style="margin-top:4px;"><strong>🛠️ Scope:</strong> The writers must provide a comprehensive overview of both free service entitlements under schemes like JSSK and direct cash benefit transfers from programs like PMMVY and JSY.</div>
+                        <div style="margin-top:4px;"><strong>📁 Asset:</strong> <code>docs/government_free_service_schemes.md</code></div>
+                    </div>
+                    <div class="split-row toggleable-details">
+                        <div class="split-col"><h5>📍 Top 8 Distinct Questions</h5><ul class="sub-list"><li><span class="badge weight">45 rows</span><span class="list-text">What Are The Overall Government Schemes Available For Pregnant Women?</span></li><li><span class="badge weight">35 rows</span><span class="list-text">How Can I Get Free Delivery And Other Medical Services At A Government Hospital?</span></li><li><span class="badge weight">30 rows</span><span class="list-text">What Is The Pradhan Mantri Matru Vandana Yojana (PMMVY) And How Do I Apply?</span></li><li><span class="badge weight">25 rows</span><span class="list-text">What Is The Janani Suraksha Yojana (JSY) And Who Is Eligible?</span></li><li><span class="badge weight">18 rows</span><span class="list-text">What Documents Are Required To Apply For These Government Schemes?</span></li><li><span class="badge weight">15 rows</span><span class="list-text">How And When Will I Receive The Cash Benefits From Schemes Like PMMVY?</span></li><li><span class="badge weight">9 rows</span><span class="list-text">Are There Any Free Ambulance Services Available To Reach The Hospital?</span></li><li><span class="badge weight">7 rows</span><span class="list-text">What Is The Difference Between JSSK, JSY, And PMMVY?</span></li></ul></div>
+                        <div class="split-col"><h5>🗣️ Top 5 Hinglish Variations</h5><ul class="sub-list"><li><span class="badge freq">184 freq</span><span class="list-text"><i>Sarkari Suvidha</i></span></li></ul></div>
+                    </div>
+                </div>
+                <div class="faq-card">
+                    <div class="card-side-badge">📊 0.72% of total channel traffic (130 queries)</div>
+                    <h4>📖 What Government Schemes Are Available For Pregnant Women And Children?</h4>
+                    <div class="info-grid">
+                        <div><strong>💡 Intent:</strong> Mothers are seeking comprehensive information about the various government schemes available for financial assistance and free medical services during pregnancy and for their young children.</div>
+                        <div style="margin-top:4px;"><strong>🛠️ Scope:</strong> The writers must provide a general overview of both cash benefit and free service government schemes available to pregnant women and mothers of young children, detailing their benefits and eligibility.</div>
+                        <div style="margin-top:4px;"><strong>📁 Asset:</strong> <code>docs/government_cash_benefit_schemes.md</code></div>
+                    </div>
+                    <div class="split-row toggleable-details">
+                        <div class="split-col"><h5>📍 Top 8 Distinct Questions</h5><ul class="sub-list"><li><span class="badge weight">30 rows</span><span class="list-text">What Cash Benefits Can I Receive From The Government During My Pregnancy?</span></li><li><span class="badge weight">25 rows</span><span class="list-text">What Services Are Provided For Free At Government Hospitals For Delivery?</span></li><li><span class="badge weight">18 rows</span><span class="list-text">How Do I Apply For The Pradhan Mantri Matru Vandana Yojana (PMMVY)?</span></li><li><span class="badge weight">15 rows</span><span class="list-text">Are There Any Government Schemes For My Child&#x27;s Nutrition?</span></li><li><span class="badge weight">12 rows</span><span class="list-text">What Documents Are Required To Register For These Government Schemes?</span></li><li><span class="badge weight">10 rows</span><span class="list-text">When Will I Receive The Money From Schemes Like JSY Or PMMVY?</span></li><li><span class="badge weight">10 rows</span><span class="list-text">Is The Ambulance Service To The Hospital Free For Pregnant Women?</span></li><li><span class="badge weight">10 rows</span><span class="list-text">What Is The Difference Between The JSY And PMMVY Schemes?</span></li></ul></div>
+                        <div class="split-col"><h5>🗣️ Top 5 Hinglish Variations</h5><ul class="sub-list"><li><span class="badge freq">130 freq</span><span class="list-text"><i>Yojana ki jaankaari</i></span></li></ul></div>
+                    </div>
+                </div></div>
+                </div>
+                <div class="block">
+                    <div class="ch-hdr" onclick="this.nextElementSibling.classList.toggle('hide')">🔖 Chapter Focus: Pregnancy Nutrition ▾</div>
+                    <div>
+                <div class="faq-card">
+                    <div class="card-side-badge">📊 0.96% of total channel traffic (174 queries)</div>
+                    <h4>📖 What Is The Recommended Diet And Nutrition Plan During Pregnancy?</h4>
+                    <div class="info-grid">
+                        <div><strong>💡 Intent:</strong> Pregnant women are seeking comprehensive guidance on their diet, including what specific foods to eat and avoid, meal timing, and nutritional requirements throughout their pregnancy.</div>
+                        <div style="margin-top:4px;"><strong>🛠️ Scope:</strong> Writers must provide a comprehensive guide on recommended dietary practices during pregnancy, covering essential nutrients, food groups to include and avoid, and sample meal ideas.</div>
+                        <div style="margin-top:4px;"><strong>📁 Asset:</strong> <code>docs/pregnancy_nutrition_and_diet.md</code></div>
+                    </div>
+                    <div class="split-row toggleable-details">
+                        <div class="split-col"><h5>📍 Top 8 Distinct Questions</h5><ul class="sub-list"><li><span class="badge weight">60 rows</span><span class="list-text">What Are The General Dietary Guidelines For What I Should Eat During Pregnancy?</span></li><li><span class="badge weight">30 rows</span><span class="list-text">What Specific Foods Should I Eat During Each Trimester Of My Pregnancy?</span></li><li><span class="badge weight">20 rows</span><span class="list-text">What Foods And Beverages Must I Strictly Avoid While Pregnant?</span></li><li><span class="badge weight">15 rows</span><span class="list-text">What Is The Ideal Timing And Frequency For Meals Throughout The Day?</span></li><li><span class="badge weight">15 rows</span><span class="list-text">What Are Some Healthy And Safe Snack Options I Can Eat Between Meals?</span></li><li><span class="badge weight">12 rows</span><span class="list-text">Is It Safe To Eat Specific Foods Like Chicken, Fish, Eggs, Or Chips?</span></li><li><span class="badge weight">12 rows</span><span class="list-text">What Should I Eat If I Have A Poor Appetite Or Specific Food Cravings?</span></li><li><span class="badge weight">10 rows</span><span class="list-text">How Does My Diet Directly Impact My Baby&#x27;s Health And Proper Growth?</span></li></ul></div>
+                        <div class="split-col"><h5>🗣️ Top 5 Hinglish Variations</h5><ul class="sub-list"><li><span class="badge freq">3 freq</span><span class="list-text"><i>Khana chahiye</i></span></li><li><span class="badge freq">2 freq</span><span class="list-text"><i>Kya khana chahiye</i></span></li><li><span class="badge freq">2 freq</span><span class="list-text"><i>Kya kya khana chahiye</i></span></li><li><span class="badge freq">2 freq</span><span class="list-text"><i>Khane ka tarika</i></span></li><li><span class="badge freq">2 freq</span><span class="list-text"><i>Mujhe kya khana chahiye</i></span></li></ul></div>
+                    </div>
+                </div></div>
+                </div>
+                <div class="block">
+                    <div class="ch-hdr" onclick="this.nextElementSibling.classList.toggle('hide')">🔖 Chapter Focus: User Communication Preferences ▾</div>
+                    <div>
+                <div class="faq-card">
+                    <div class="card-side-badge">📊 0.86% of total channel traffic (155 queries)</div>
+                    <h4>📖 How Can I Receive Health Information If I Cannot Read The Messages You Send?</h4>
+                    <div class="info-grid">
+                        <div><strong>💡 Intent:</strong> Users are expressing difficulty understanding text-based messages due to literacy or language barriers and are requesting that health information be communicated through voice notes or audio.</div>
+                        <div style="margin-top:4px;"><strong>🛠️ Scope:</strong> The writer&#x27;s task is to create a response that acknowledges the user&#x27;s inability to read text and guides them on how to receive information via alternative formats like voice messages.</div>
+                        <div style="margin-top:4px;"><strong>📁 Asset:</strong> <code>docs/general_child_care_and_development.md</code></div>
+                    </div>
+                    <div class="split-row toggleable-details">
+                        <div class="split-col"><h5>📍 Top 8 Distinct Questions</h5><ul class="sub-list"><li><span class="badge weight">45 rows</span><span class="list-text">Can You Please Send All Information As A Voice Recording Instead Of Text?</span></li><li><span class="badge weight">35 rows</span><span class="list-text">Why Do You Keep Sending Text Messages When I Have Said I Cannot Read?</span></li><li><span class="badge weight">20 rows</span><span class="list-text">I Do Not Understand English, Can You Please Communicate In Hindi?</span></li><li><span class="badge weight">15 rows</span><span class="list-text">I Have Sent A Photo Of A Document, Can You Please Explain What It Says?</span></li><li><span class="badge weight">10 rows</span><span class="list-text">How Can I Use The Voice Note Feature To Ask My Questions?</span></li><li><span class="badge weight">10 rows</span><span class="list-text">Is There A Way To Set My Communication Preference To Voice Only?</span></li><li><span class="badge weight">10 rows</span><span class="list-text">The Audio You Sent Is Not Clear Or The Volume Is Too Low, Can You Resend It?</span></li><li><span class="badge weight">10 rows</span><span class="list-text">Can You Explain This Information To Me Over A Phone Call?</span></li></ul></div>
+                        <div class="split-col"><h5>🗣️ Top 5 Hinglish Variations</h5><ul class="sub-list"><li><span class="badge freq">1 freq</span><span class="list-text"><i>mujhe padhne nahi aata, main samajhna aata, sun leti hoon, ismein nahi samajhna aata, padhi nahi hoon main</i></span></li><li><span class="badge freq">1 freq</span><span class="list-text"><i>Bolke bheje. Mujhe padhne nahi aata hai.</i></span></li><li><span class="badge freq">1 freq</span><span class="list-text"><i>Shori mein mujhe angit kam samajhne aati hoon</i></span></li><li><span class="badge freq">1 freq</span><span class="list-text"><i>bol ke bai jo padhne nahi aata hai</i></span></li><li><span class="badge freq">1 freq</span><span class="list-text"><i>ye video aap kai ka bheziye bataiye mere ko</i></span></li></ul></div>
+                    </div>
+                </div></div>
+                </div>
+                <div class="block">
+                    <div class="ch-hdr" onclick="this.nextElementSibling.classList.toggle('hide')">🔖 Chapter Focus: General Medicine Inquiry ▾</div>
+                    <div>
+                <div class="faq-card">
+                    <div class="card-side-badge">📊 0.84% of total channel traffic (151 queries)</div>
+                    <h4>📖 What Is The General Information Available About Medicines During Pregnancy And For Children?</h4>
+                    <div class="info-grid">
+                        <div><strong>💡 Intent:</strong> Users are making broad, unclassified inquiries seeking general information about unspecified medicines related to maternal and child health.</div>
+                        <div style="margin-top:4px;"><strong>🛠️ Scope:</strong> Writers must create a general overview of common medicines, supplements, and vaccines encountered during pregnancy and early childhood, directing users to more specific articles for detailed information.</div>
+                        <div style="margin-top:4px;"><strong>📁 Asset:</strong> <code>docs/general_child_care_and_development.md</code></div>
+                    </div>
+                    <div class="split-row toggleable-details">
+                        <div class="split-col"><h5>📍 Top 8 Distinct Questions</h5><ul class="sub-list"><li><span class="badge weight">60 rows</span><span class="list-text">What Are The Common Medicines And Supplements Given During Pregnancy?</span></li><li><span class="badge weight">25 rows</span><span class="list-text">What Medicines Are Safe To Take For Common Illnesses While Pregnant?</span></li><li><span class="badge weight">20 rows</span><span class="list-text">Which Medicines Should Be Given To A Newborn Or Infant?</span></li><li><span class="badge weight">15 rows</span><span class="list-text">What Are The Medicines For Managing Vaccine Side Effects In Babies?</span></li><li><span class="badge weight">10 rows</span><span class="list-text">Are There Any Free Medicines Provided By The Government?</span></li><li><span class="badge weight">10 rows</span><span class="list-text">What Information Is Available About Deworming Tablets?</span></li><li><span class="badge weight">6 rows</span><span class="list-text">Which Medicines Or Drugs Should Be Avoided During Pregnancy?</span></li><li><span class="badge weight">5 rows</span><span class="list-text">Can I Get A List Of Essential Medicines For Mother And Baby?</span></li></ul></div>
+                        <div class="split-col"><h5>🗣️ Top 5 Hinglish Variations</h5><ul class="sub-list"><li><span class="badge freq">150 freq</span><span class="list-text"><i>Dawai ki jankaari</i></span></li><li><span class="badge freq">1 freq</span><span class="list-text"><i>Mujhe dawa ke baare me janna hai</i></span></li></ul></div>
+                    </div>
+                </div></div>
+                </div>
+                <div class="block">
+                    <div class="ch-hdr" onclick="this.nextElementSibling.classList.toggle('hide')">🔖 Chapter Focus: Common Illness Management ▾</div>
+                    <div>
+                <div class="faq-card">
+                    <div class="card-side-badge">📊 0.82% of total channel traffic (148 queries)</div>
+                    <h4>📖 What Are the Safe and Effective Home Remedies and Treatments for Common Illnesses Like Cough, Cold, and Fever?</h4>
+                    <div class="info-grid">
+                        <div><strong>💡 Intent:</strong> Mothers are seeking guidance on how to manage and find safe remedies for common illnesses like cough, cold, fever, and sore throat for themselves or their children.</div>
+                        <div style="margin-top:4px;"><strong>🛠️ Scope:</strong> The writers must provide guidance on identifying symptoms of common illnesses like cough, cold, and fever, suggest safe home care measures, and clearly outline the danger signs that necessitate a visit to a healthcare professional.</div>
+                        <div style="margin-top:4px;"><strong>📁 Asset:</strong> <code>docs/general_child_care_and_development.md</code></div>
+                    </div>
+                    <div class="split-row toggleable-details">
+                        <div class="split-col"><h5>📍 Top 8 Distinct Questions</h5><ul class="sub-list"><li><span class="badge weight">44 rows</span><span class="list-text">What Are the General Home Remedies for Managing a Cough and Cold?</span></li><li><span class="badge weight">30 rows</span><span class="list-text">How Should I Manage a Fever at Home and When Is It Considered High?</span></li><li><span class="badge weight">22 rows</span><span class="list-text">Is It Safe to Take Over-The-Counter Medication or Cough Syrup for These Symptoms?</span></li><li><span class="badge weight">15 rows</span><span class="list-text">What Are the Recommended Foods to Eat and Avoid When Suffering From a Cold, Cough, or Fever?</span></li><li><span class="badge weight">15 rows</span><span class="list-text">What Can I Do to Relieve Specific Symptoms Like a Sore Throat, Body Aches, or a Blocked Nose?</span></li><li><span class="badge weight">8 rows</span><span class="list-text">How Long Do These Illnesses Typically Last and What Are the Danger Signs to Watch For?</span></li><li><span class="badge weight">7 rows</span><span class="list-text">Are Specific Items Like Vicks, Ginger Tea, or Chicken Soup Safe and Effective?</span></li><li><span class="badge weight">7 rows</span><span class="list-text">Why Am I Experiencing Weakness, Body Pain, or Urinary Leakage Along With My Cough?</span></li></ul></div>
+                        <div class="split-col"><h5>🗣️ Top 5 Hinglish Variations</h5><ul class="sub-list"><li><span class="badge freq">2 freq</span><span class="list-text"><i>Sardi,zukham or gala jaam,khansi A rahi hai,toh kon si dawa khaun</i></span></li><li><span class="badge freq">2 freq</span><span class="list-text"><i>Khansi Aaye To Kya Karna chahie</i></span></li><li><span class="badge freq">1 freq</span><span class="list-text"><i>Bukhaar aaya hai to usko kau pilana chahiye.</i></span></li><li><span class="badge freq">1 freq</span><span class="list-text"><i>Khasi se kuch problem to nhi h</i></span></li><li><span class="badge freq">1 freq</span><span class="list-text"><i>Madam Alka Alka Bukhar Bhi Aata Hai</i></span></li></ul></div>
+                    </div>
+                </div></div>
+                </div></div>
+                </div>
+    </div></body></html>
