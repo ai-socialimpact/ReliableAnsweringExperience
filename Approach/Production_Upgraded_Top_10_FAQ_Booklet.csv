@@ -1,0 +1,230 @@
+Booklet_Section,Clinical_Pillar,Target_KB_Markdown_File,System_Routing_Directive,Total_User_Queries,Channel_Traffic_Percentage,What_User_Are_Asking,Top_Canonical_FAQ_Question,Domain_Category,Committee_Scope_of_Work,Top_5_User_Hinglish_Variations,Top_7_Weighted_Bot_Anchors,Top_8_Distinct_Weighted_Questions,Cultural_Myths_To_Debunk,Core_Patient_Takeaway_Box,PLANNING_Sub_Intent_Distribution_Weights,INDEX_Cross_Lingual_Meta_Tags,INDEX_Phonetic_Invariants,INDEX_False_Positive_Shadow_Terms,GUARD_Hard_Bypass_Emergency_Triggers,GUARD_Semantic_Leakage_Warning
+Chapter 1,👶 Pediatric & Infant Wellness,immunization_schedule_and_basics.md,ACTIVATE_IMMUNIZATION_MASTER_POOL,463,2.57% of total channel traffic,"Mothers are asking for comprehensive information about the immunization schedule for themselves during pregnancy and for their children, including which vaccines are due at specific ages, the purpose of these vaccines, and how to manage common side effects like fever or swelling.",What Is The Complete Immunization Schedule And How Should I Manage Vaccine Side Effects For My Child?,CHILD IMMUNIZATION,"The writers must create a comprehensive guide covering the national immunization schedule for infants and pregnant women, explain the purpose of key vaccines, and provide clear instructions for managing common post-vaccination side effects.","[1] (Freq: 6) Mera baby six month ka hua hai abhi usko 3:30 mahine ka sui lagaya hai 3 din ho gaya hai usko barf bhi Laga rahi hun aur main cream bhi Laga rahi hun to bhi gand jaisa banaa hai to kya karna chahie
+[2] (Freq: 3) Jahan per sui mare Na vahin per guard jaisa hua Hai Baki aur kuchh nahin
+[3] (Freq: 2) Opv kya hota hai
+[4] (Freq: 2) Hepatitis b kya hota hai
+[5] (Freq: 2) Injection 9 mahine me kitane lagte h","[1] (Count: 6) Mera baby six month ka hua hai abhi usko 3:30 mahine ka sui lagaya hai 3 din ho gaya hai usko barf bhi Laga rahi hun aur main cream bhi Laga rahi hun to bhi gand jaisa banaa hai to kya karna chahie
+[2] (Count: 3) Jahan per sui mare Na vahin per guard jaisa hua Hai Baki aur kuchh nahin
+[3] (Count: 2) Opv kya hota hai
+[4] (Count: 2) Hepatitis b kya hota hai
+[5] (Count: 2) Injection 9 mahine me kitane lagte h
+[6] (Count: 2) Teeken kab aur kon kon se lagte hai
+[7] (Count: 2) TT ke do injection lagaye jate h kya","[1] (Weight: 139 rows) What Should I Do About Lumps, Fever, Or Pain After My Child's Vaccination?
+[2] (Weight: 116 rows) What Is The Vaccination Schedule For My Baby At Different Ages Such As 1.5, 2.5, And 9 Months?
+[3] (Weight: 46 rows) Which Vaccines Are Required During Pregnancy And When Should I Get Them?
+[4] (Weight: 46 rows) What Are The Specific Diseases That Vaccines Like BCG, OPV, And Hepatitis B Protect Against?
+[5] (Weight: 37 rows) How Many Injections Will My Baby Receive At Each Vaccination Visit?
+[6] (Weight: 32 rows) Is It Absolutely Necessary For My Child To Receive All The Recommended Vaccines?
+[7] (Weight: 24 rows) Where Can I Go To Get My Child Vaccinated, And Are They Available At Government Hospitals?
+[8] (Weight: 23 rows) What Should I Do If My Child Has Missed A Scheduled Vaccine Dose?","• Vaccines are not necessary or can be skipped if the child seems healthy.
+• Fever or swelling after a vaccine is a dangerous sign that something is wrong with the vaccine.
+• Private, 'painless' vaccines are always better and more effective than the free vaccines provided by the government.
+• You cannot or should not vaccinate a child who has a minor illness like a common cold or cough.","Following the national immunization schedule is crucial for protecting your child from serious diseases, and common side effects like mild fever or swelling are normal and manageable at home.","• Managing Side Effects (Lump, Fever, Pain) (30.02%): Budget 140 words
+• Infant Vaccination Schedule by Age (25.05%): Budget 115 words
+• Maternal (Pregnancy) Vaccinations (9.94%): Budget 50 words
+• Purpose of Key Vaccines (BCG, OPV, etc.) (9.94%): Budget 50 words
+• Number of Injections per Visit (7.99%): Budget 40 words
+• Importance and Necessity of Vaccination (6.91%): Budget 35 words
+• Logistics (Where to Go) (5.18%): Budget 25 words
+• Catch-up on Missed/Delayed Doses (4.97%): Budget 25 words","sui, tika, teeka, soi, suvi, injaksan, jaksan, exjection, ainjikhsam, teeken, tikkey, bhukhar, gand, gard, titi ka injaksan","sui, tika, injection, vaccine, schedule","iron injection, anemia, blood test, sonography, checkup, delivery, medicine, antibiotic, pmsma","severe reaction, high fever not going down, baby is unconscious, seizures, convulsions, difficulty breathing, allergic reaction, anaphylaxis","This cluster is focused on routine preventative immunizations. It risks confusion with queries about therapeutic injections (e.g., iron for anemia, antibiotics) or injections given during labor. The model must differentiate between 'vaccine' intent and general 'injection' intent."
+Chapter 2,🤰 Maternal Antepartum Care,pregnancy_care_and_checkups.md,ISOLATE_PREGNANCY_PROCEDURE_LANE,406,2.25% of total channel traffic,"Mothers are seeking to understand the normal patterns of fetal movement, including when it starts, what frequency is expected, and how to interpret changes or decreases in their baby's activity.",When Will I Feel My Baby Move And What Are The Normal Patterns Of Fetal Movement During Pregnancy?,FETAL MOVEMENT,"Writers will provide a comprehensive guide on fetal movements, covering the timeline for quickening, normal patterns and frequency, factors influencing movement, and clear instructions on when to contact a healthcare provider for reduced fetal movement.","[1] (Freq: 3) Baby Mera active hai agar vah Jo gant Hai vahan per main thoda matlab aisa press kar rahi hun to ro Raha Hai vah
+[2] (Freq: 3) Pregnancy me pet upar ki traf chala gya aisa kiu
+[3] (Freq: 3) Kabhi baby movement bahut kam hoti hai kabhi jyada isse ko problm to nhi hai
+[4] (Freq: 2) Baccha ghoom raha hai kaise pata chalega
+[5] (Freq: 2) Mujhe abhi tak apne bacche ki moment feel nahi ho rahi hai","[1] (Count: 3) Kabhi baby movement bahut kam hoti hai kabhi jyada isse ko problm to nhi hai
+[2] (Count: 2) Baccha ghoom raha hai kaise pata chalega
+[3] (Count: 2) Mujhe abhi tak apne bacche ki moment feel nahi ho rahi hai
+[4] (Count: 2) PREGNACY ME BACCHE KA AESAS KAB HOTA HAI
+[5] (Count: 2) PREGNACY ME BACCHE KA AESAS KAB HOTA HA kitane mahine me hota hai
+[6] (Count: 2) Pet me bacche ki halchal kam q hojati h
+[7] (Count: 2) Kya baccha khana khane k 1 ghante baad hi hilta h bas","[1] (Weight: 102 rows) When Does Fetal Movement Typically Begin During Pregnancy?
+[2] (Weight: 81 rows) Is It Normal For My Baby's Movements To Vary In Frequency And Intensity From Day To Day?
+[3] (Weight: 81 rows) What Should I Do If I Notice A Significant Decrease Or Absence Of Fetal Movement?
+[4] (Weight: 41 rows) What Do The First Fetal Movements (Quickening) Feel Like?
+[5] (Weight: 41 rows) How Many Kicks Or Movements Should I Be Feeling In A Day?
+[6] (Weight: 20 rows) Does The Baby's Position In The Womb Affect Where I Feel Movements?
+[7] (Weight: 20 rows) Are There Ways To Encourage My Baby To Move If I Am Worried?
+[8] (Weight: 20 rows) Is There A Difference In Movement Between A Male And Female Fetus?","• Fetal movement patterns, such as being more active on one side, can predict the baby's gender.
+• It is normal for a baby's movements to decrease significantly in the last month of pregnancy as they 'run out of space'.","Regular fetal movement is a sign of your baby's well-being, and you should contact your doctor immediately if you notice a significant decrease in activity.","• Timeline and Sensation of First Movements (35.22%): Budget 140 words
+• Understanding Normal Patterns and Frequency (30.05%): Budget 120 words
+• Action Plan for Reduced Fetal Movement (19.95%): Budget 80 words
+• Factors Influencing Movement and Common Myths (14.78%): Budget 60 words","halchal, moment, maumen, hilna, doolne, ghoomta, aesas, harkat, sarak gaya, gudgudi, bhoomta, koodta, ringta, kick krta, mahsus","bacha, baby, pet, garbh, halchal, moment, move, ghoom","cramps, gas, contraction, dard, position, size, weight, dhadkan, heartbeat","seediyon se gir gyi, baby not moving after fall, no movement for a day, movement band ho gaya, bilkul nahi hil raha, stopped moving","High risk of confusion with user queries about general abdominal pain, gas, indigestion, or Braxton Hicks contractions. Also, queries about fetal position or size (e.g., 'baby is on right side') may be falsely matched if they don't explicitly mention 'movement' or 'halchal'."
+Chapter 3,👶 Pediatric & Infant Wellness,breastfeeding_guidance.md,ISOLATE_BREASTFEEDING_GUIDANCE_LANE,236,1.31% of total channel traffic,"Mothers are seeking fundamental information regarding the importance, benefits, and basic practices of providing breast milk to their infants.",What Are The Essential Guidelines For Successful Breastfeeding?,INFANT FEEDING BASICS,"Writers will develop a comprehensive guide covering the foundational principles of breastfeeding, including initiation, signs of adequacy, and benefits for both mother and child.","[1] (Freq: 233) Maa ka doodh
+[2] (Freq: 1) Mommaz Kap Karenga Mere
+[3] (Freq: 1) Chote bacche ma ko kap se pehchanana chalu karte hain.
+[4] (Freq: 1) Sirf maa ka dudh","[1] (Count: 233) Maa ka doodh
+[2] (Count: 1) Sirf maa ka dudh
+[3] (Count: 1) Mommaz Kap Karenga Mere
+[4] (Count: 1) Chote bacche ma ko kap se pehchanana chalu karte hain.
+[5] (Count: 1) maa ka doodh pilana
+[6] (Count: 1) breastfeeding
+[7] (Count: 1) stanpan","[1] (Weight: 195 rows) What Is The General Importance Of Mother's Milk?
+[2] (Weight: 15 rows) Should I Exclusively Breastfeed My Baby For The First Six Months?
+[3] (Weight: 8 rows) How Soon After Delivery Should I Begin Breastfeeding?
+[4] (Weight: 6 rows) What Are The Benefits Of Breastfeeding For Both The Mother And The Baby?
+[5] (Weight: 4 rows) How Can I Tell If My Baby Is Getting Enough Breast Milk?
+[6] (Weight: 4 rows) How Frequently Should A Newborn Be Breastfed?
+[7] (Weight: 3 rows) What Is Colostrum And Why Is It Important For My Newborn?
+[8] (Weight: 1 rows) At What Age Do Babies Typically Start To Recognize Their Mother?","• Formula milk is an equivalent substitute for mother's milk.
+• A mother cannot breastfeed if she is sick with a common illness like a cold or fever.
+• The size of a mother's breasts determines her ability to produce enough milk.
+• It is necessary to supplement with water or other liquids in the first six months.
+• Pain during breastfeeding is normal and should be ignored.",Exclusive breastfeeding for the first six months is the most complete and protective form of nutrition for your baby.,"• Core Importance and Benefits (82.63%): Budget 250 words
+• Exclusive Breastfeeding (6.36%): Budget 75 words
+• Practical Guidance (Initiation, Frequency, Adequacy) (9.32%): Budget 100 words
+• Maternal-Infant Bonding (1.69%): Budget 25 words","Maa ka doodh, ma ka dudh, ma ka dood, maa ka dud, Mommaz Kap Karenga Mere, Sirf maa ka dudh, doodh pilana, stanpan, breastfeeding, mother milk, dudh, dood, ma ka milk, baby feeding, newborn doodh","doodh, dudh, maa, breastfeed, milk","formula, bottle, cow milk, gai ka doodh, solids, khana, low supply, pain, sore, cracked, problem","baby not feeding, baby is limp, baby is turning blue, no urine for a whole day, milk is bloody, baby refuses to feed at all","High risk of semantic overlap with 'Breastfeeding Special Conditions'. Queries are often vague and can contain words like 'problem' or 'not enough' without being a clinical issue. The model must confirm the absence of specific problem keywords (e.g., 'sore nipples', 'pain', 'engorgement') before routing to this general guidance file."
+Chapter 4,🤰 Maternal Antepartum Care,pregnancy_care_and_checkups.md,ISOLATE_PREGNANCY_PROCEDURE_LANE,234,1.30% of total channel traffic,"Pregnant women are seeking to understand the causes, normalcy, and appropriate remedies for various types of abdominal pain experienced during different stages of their pregnancy.",What Are the Common Causes of Abdominal Pain During Pregnancy and When Should I Be Concerned?,PREGNANCY HEALTH,"The writers must explain the common, non-threatening causes of abdominal pain during pregnancy (like gas, ligament pain) while clearly outlining the warning signs (severe, persistent, or accompanied by other symptoms) that necessitate immediate medical consultation.","[1] (Freq: 2) Pet ke nichle hisse main dard hota hai
+[2] (Freq: 2) Pet me dard hai
+[3] (Freq: 2) Aaj subha se nichle hisse me halki halki dard ho rhi hai
+[4] (Freq: 2) Mere pet me dard ho raha hai
+[5] (Freq: 2) Pet me dard ho to kya kre","[1] (Count: 2) Pet ke nichle hisse main dard hota hai
+[2] (Count: 2) Pet me dard hai
+[3] (Count: 2) Aaj subha se nichle hisse me halki halki dard ho rhi hai
+[4] (Count: 2) Mere pet me dard ho raha hai
+[5] (Count: 2) Pet me dard ho to kya kre
+[6] (Count: 2) Pet k nichle hisse me kaanta gadne jaisi dard ho raha hai
+[7] (Count: 1) Mujhe na lower abdomen mein pain hai","[1] (Weight: 65 rows) Why Am I Experiencing Pain in My Lower Abdomen During Pregnancy?
+[2] (Weight: 45 rows) What Are the General Reasons for Stomach Pain While Pregnant?
+[3] (Weight: 35 rows) What Should I Do if I Have Stomach Pain During My Pregnancy?
+[4] (Weight: 25 rows) Is It Normal to Have Mild and Occasional Abdominal Pain During Pregnancy?
+[5] (Weight: 20 rows) What Does Pain on the Side of My Stomach or Near the Navel Indicate in Pregnancy?
+[6] (Weight: 18 rows) Should I Worry About Sharp, Stabbing, or Cramping Pains in My Abdomen?
+[7] (Weight: 15 rows) Can Certain Foods or Activities Like Sitting for a Long Time Cause Abdominal Pain in Pregnancy?
+[8] (Weight: 11 rows) Could My Abdominal Pain Be Harming My Baby?","• Myth: All abdominal pain during pregnancy is normal and just a part of the process that should be ignored.
+• Myth: Mild abdominal pain is always a sign of impending labor, regardless of the trimester.
+• Myth: Home remedies are sufficient for any type of stomach pain during pregnancy.","While many types of abdominal pain are a normal part of pregnancy, it is crucial to report any severe, persistent, or unusual pain to your doctor to rule out serious conditions.","• Common Causes of Normal Pain (57.69%): Budget 220 words
+• Warning Signs and When to Seek Help (20.94%): Budget 80 words
+• Home Management and Remedies (21.37%): Budget 85 words","pet me dard, nichle hisse, dardh, dat, durd, drad, pait, peet, pedu, nabhi, kamar, aithan, chuban, marod, lower abdomen pain","pet, dard, pain, dukh, abdomen","gas, acidity, period, mahawari, delivery, labor, constipation, diarrhea","bahut tez dard, bleeding ke sath dard, dard se behosh, can't walk from pain, severe pain and bleeding, pain with high fever","Queries may overlap with labor pains, urinary tract infections (UTIs), or gastrointestinal issues like gas and constipation. The model must prioritize the pregnancy context to avoid misrouting to general health or delivery-specific topics prematurely."
+Chapter 5,🤰 Maternal Antepartum Care,government_free_service_schemes.md,ACTIVATE_GOVT_SCHEMES_POOL,184,1.02% of total channel traffic,New and expecting mothers are seeking a comprehensive understanding of the various government schemes and benefits available to them for maternal and child healthcare.,What Government Schemes And Benefits Are Available For Pregnant Women And New Mothers?,GOVERNMENT SCHEMES,The writers must provide a comprehensive overview of both free service entitlements under schemes like JSSK and direct cash benefit transfers from programs like PMMVY and JSY.,[1] (Freq: 184) Sarkari Suvidha,"[1] (Count: 65) Sarkari Suvidha
+[2] (Count: 32) government schemes for pregnancy
+[3] (Count: 28) sarkari yojana
+[4] (Count: 21) free delivery scheme
+[5] (Count: 16) pmmvy scheme details
+[6] (Count: 12) jsy yojana
+[7] (Count: 10) what benefits do i get from government","[1] (Weight: 45 rows) What Are The Overall Government Schemes Available For Pregnant Women?
+[2] (Weight: 35 rows) How Can I Get Free Delivery And Other Medical Services At A Government Hospital?
+[3] (Weight: 30 rows) What Is The Pradhan Mantri Matru Vandana Yojana (PMMVY) And How Do I Apply?
+[4] (Weight: 25 rows) What Is The Janani Suraksha Yojana (JSY) And Who Is Eligible?
+[5] (Weight: 18 rows) What Documents Are Required To Apply For These Government Schemes?
+[6] (Weight: 15 rows) How And When Will I Receive The Cash Benefits From Schemes Like PMMVY?
+[7] (Weight: 9 rows) Are There Any Free Ambulance Services Available To Reach The Hospital?
+[8] (Weight: 7 rows) What Is The Difference Between JSSK, JSY, And PMMVY?","• You have to pay bribes or have special connections to receive benefits from government schemes.
+• These schemes are only for people below the poverty line (BPL), so I am not eligible.
+• The application process is too complicated and not worth the effort for the small amount of money.",The government offers several valuable schemes providing free medical services and direct cash payments to support you through pregnancy and childbirth.,"• Cash Benefit Schemes (PMMVY & JSY) (29.89%): Budget 150 words
+• General Overview of Schemes (24.46%): Budget 122 words
+• Free Services (JSSK & Ambulance) (23.91%): Budget 120 words
+• Application Logistics (Documents & Payments) (21.74%): Budget 108 words","sarkari suvidha, sarkari yojana, sarkari scheme, goverment benifit, sarkari hospital free, free dilevery, paise milenge, PMMVY form, JSY card, sarkari madad, garbhvati yojana, bacha hone par paise, sarkari aspatal, suvidhayein, goverment help","sarkari, yojana, scheme, suvidha, benefit, jsy, pmmvy, jssk","insurance, private hospital, mediclaim, ngo, charity, trust, loan, personal loan","denied treatment, hospital refusing admission, cannot afford medicine, no one will help me, emergency delivery no money","Queries may overlap with 'local_health_services_and_schedules.md' if a user asks about schemes available at a specific facility, or with 'pregnancy_care_and_checkups.md' if they ask about free checkups. The model must prioritize the 'scheme' or 'benefit' intent."
+Chapter 6,🤰 Maternal Antepartum Care,pregnancy_nutrition_and_diet.md,ISOLATE_PREGNANCY_NUTRITION_LANE,174,0.96% of total channel traffic,"Pregnant women are seeking comprehensive guidance on their diet, including what specific foods to eat and avoid, meal timing, and nutritional requirements throughout their pregnancy.",What Is The Recommended Diet And Nutrition Plan During Pregnancy?,PREGNANCY NUTRITION,"Writers must provide a comprehensive guide on recommended dietary practices during pregnancy, covering essential nutrients, food groups to include and avoid, and sample meal ideas.","[1] (Freq: 3) Khana chahiye
+[2] (Freq: 2) Kya khana chahiye
+[3] (Freq: 2) Kya kya khana chahiye
+[4] (Freq: 2) Khane ka tarika
+[5] (Freq: 2) Mujhe kya khana chahiye","[1] (Count: 3) Khana chahiye
+[2] (Count: 2) Kya khana chahiye
+[3] (Count: 2) Kya kya khana chahiye
+[4] (Count: 2) Khane ka tarika
+[5] (Count: 2) Mujhe kya khana chahiye
+[6] (Count: 1) kitte mant mein kya-kya khaye jaate hain.
+[7] (Count: 1) Diet ke liye kya le","[1] (Weight: 60 rows) What Are The General Dietary Guidelines For What I Should Eat During Pregnancy?
+[2] (Weight: 30 rows) What Specific Foods Should I Eat During Each Trimester Of My Pregnancy?
+[3] (Weight: 20 rows) What Foods And Beverages Must I Strictly Avoid While Pregnant?
+[4] (Weight: 15 rows) What Is The Ideal Timing And Frequency For Meals Throughout The Day?
+[5] (Weight: 15 rows) What Are Some Healthy And Safe Snack Options I Can Eat Between Meals?
+[6] (Weight: 12 rows) Is It Safe To Eat Specific Foods Like Chicken, Fish, Eggs, Or Chips?
+[7] (Weight: 12 rows) What Should I Eat If I Have A Poor Appetite Or Specific Food Cravings?
+[8] (Weight: 10 rows) How Does My Diet Directly Impact My Baby's Health And Proper Growth?","• The belief that certain 'heating' or 'cooling' foods must be strictly avoided during pregnancy without a specific medical reason.
+• The myth that eating small, ripe portions of fruits like papaya is always harmful and will cause a miscarriage.
+• The idea that you need to 'eat for two' by doubling your calorie intake, which can lead to excessive weight gain.","A balanced and diverse diet rich in fruits, vegetables, proteins, and whole grains is crucial for a healthy pregnancy and baby.","• General Dietary Guidelines (34.48%): Budget 150 words
+• Trimester-Specific Foods (17.24%): Budget 75 words
+• Foods to Avoid (11.49%): Budget 50 words
+• Meal Timing and Frequency (8.62%): Budget 40 words
+• Healthy Snack Options (8.62%): Budget 40 words
+• Specific Food Safety (6.9%): Budget 30 words
+• Managing Appetite and Cravings (6.9%): Budget 30 words
+• Diet for Baby's Health (5.75%): Budget 25 words","khana, kya khaye, khao, khaun, khayege, khana chahiye, khama, kha sakte, kya khuun, mant, mahane, dopher, sevan, cheez, nuksaan","khana, khao, eat, diet, food, nutrition","dawa, tablet, injection, checkup, test, sonography, fever, pain","can't eat anything, vomiting everything, severe stomach pain after eating, food poisoning, not able to drink water","This cluster focuses on general pregnancy nutrition. Queries that mention specific symptoms like 'feeling weak', 'dizzy', or 'low blood' may be better served by the 'anemia_during_pregnancy.md' file. Also, queries about 'supplements' or 'tablets' might overlap with 'pregnancy_care_and_checkups.md'."
+Chapter 7,🤰 Maternal Antepartum Care,general_child_care_and_development.md,ACTIVATE_PRIMARY_INFO_POOL,155,0.86% of total channel traffic,Users are expressing difficulty understanding text-based messages due to literacy or language barriers and are requesting that health information be communicated through voice notes or audio.,How Can I Receive Health Information If I Cannot Read The Messages You Send?,USER COMMUNICATION PREFERENCES,The writer's task is to create a response that acknowledges the user's inability to read text and guides them on how to receive information via alternative formats like voice messages.,"[1] (Freq: 1) mujhe padhne nahi aata, main samajhna aata, sun leti hoon, ismein nahi samajhna aata, padhi nahi hoon main
+[2] (Freq: 1) Bolke bheje. Mujhe padhne nahi aata hai.
+[3] (Freq: 1) Shori mein mujhe angit kam samajhne aati hoon
+[4] (Freq: 1) bol ke bai jo padhne nahi aata hai
+[5] (Freq: 1) ye video aap kai ka bheziye bataiye mere ko","[1] (Count: 1) Awaaz mein boliye Mujhe padhna Nahin Aata
+[2] (Count: 1) bol ke bhejo na madam, mujhe samajh mein nahi aa raha hai
+[3] (Count: 1) likke mat bheje, bolke bheje, mainko padhne nahi aata hai, aap kaam nahi kar rahe hain
+[4] (Count: 1) meri ko padhne nahi aata hai, bol ke vida kariye.
+[5] (Count: 1) hamein English nahi aati hain
+[6] (Count: 1) main inglee see mein nahiin padh paati hoon, ise bol ke bhi jeezeeti hoon
+[7] (Count: 1) Yeh kya likha hai samajh mein nahi aa raha, bol ke bhi jiye na","[1] (Weight: 45 rows) Can You Please Send All Information As A Voice Recording Instead Of Text?
+[2] (Weight: 35 rows) Why Do You Keep Sending Text Messages When I Have Said I Cannot Read?
+[3] (Weight: 20 rows) I Do Not Understand English, Can You Please Communicate In Hindi?
+[4] (Weight: 15 rows) I Have Sent A Photo Of A Document, Can You Please Explain What It Says?
+[5] (Weight: 10 rows) How Can I Use The Voice Note Feature To Ask My Questions?
+[6] (Weight: 10 rows) Is There A Way To Set My Communication Preference To Voice Only?
+[7] (Weight: 10 rows) The Audio You Sent Is Not Clear Or The Volume Is Too Low, Can You Resend It?
+[8] (Weight: 10 rows) Can You Explain This Information To Me Over A Phone Call?",• The only way to get information from this service is by reading and writing text messages.,"If you have trouble reading our messages, please tell us, and we can send the information as a voice note instead.","• Requesting Voice Messages (29.03%): Budget 100 words
+• Expressing Reading Difficulty (22.58%): Budget 80 words
+• Language Preference (Hindi/Other) (12.9%): Budget 45 words
+• Document Interpretation Request (9.68%): Budget 35 words
+• General Communication Issues (25.81%): Budget 90 words","bol ke bhejo, padhne nahi aata, inglis, ingreez, hindi mein, samajh mein nahi, awaaz, vaais rikording, bolke, likke, bhejiye, panna nahi aata, sunai nahin de raha, photo bhejo, maik mein","bol, padh, awaaz, likh, samajh, suna","fever, delivery, vaccine, diet, anemia, checkup, sonography",,"This cluster's intent is about user communication preferences (e.g., illiteracy, requests for voice notes) and not a specific clinical topic. It risks being misclassified as any clinical topic if the user mentions the subject of the message they cannot read (e.g., 'I can't read the message about vaccines'). The primary intent is the communication barrier itself."
+Chapter 8,🤰 Maternal Antepartum Care,general_child_care_and_development.md,ACTIVATE_PRIMARY_INFO_POOL,151,0.84% of total channel traffic,"Users are making broad, unclassified inquiries seeking general information about unspecified medicines related to maternal and child health.",What Is The General Information Available About Medicines During Pregnancy And For Children?,GENERAL MEDICINE INQUIRY,"Writers must create a general overview of common medicines, supplements, and vaccines encountered during pregnancy and early childhood, directing users to more specific articles for detailed information.","[1] (Freq: 150) Dawai ki jankaari
+[2] (Freq: 1) Mujhe dawa ke baare me janna hai","[1] (Count: 150) Dawai ki jankaari
+[2] (Count: 1) Mujhe dawa ke baare me janna hai
+[3] (Count: 0) dawai ke bare mein bataye
+[4] (Count: 0) medicine information
+[5] (Count: 0) dawa ke baare mein jankari
+[6] (Count: 0) general medicine question
+[7] (Count: 0) dawai ke naam","[1] (Weight: 60 rows) What Are The Common Medicines And Supplements Given During Pregnancy?
+[2] (Weight: 25 rows) What Medicines Are Safe To Take For Common Illnesses While Pregnant?
+[3] (Weight: 20 rows) Which Medicines Should Be Given To A Newborn Or Infant?
+[4] (Weight: 15 rows) What Are The Medicines For Managing Vaccine Side Effects In Babies?
+[5] (Weight: 10 rows) Are There Any Free Medicines Provided By The Government?
+[6] (Weight: 10 rows) What Information Is Available About Deworming Tablets?
+[7] (Weight: 6 rows) Which Medicines Or Drugs Should Be Avoided During Pregnancy?
+[8] (Weight: 5 rows) Can I Get A List Of Essential Medicines For Mother And Baby?","• All traditional or herbal medicines are safe during pregnancy.
+• You can take any over-the-counter medicine for a cold or fever while pregnant without consulting a doctor.
+• It's okay to stop taking prescribed supplements like iron once you start feeling better.","Always consult a doctor before taking any medicine during pregnancy or giving it to your child, and be sure to take all prescribed supplements as directed.","• Pregnancy Medication & Supplements (60.26%): Budget 150 words
+• Infant & Child Medication (23.18%): Budget 60 words
+• General & Scheme-Related Inquiries (16.56%): Budget 40 words","dawai, jankaari, dawa, baare me, janna hai, medicine, tablet, goli, davaai, jankari, dwai, medisin, dwa, davai, information","dawai, dawa, medicine, dava","khansi, bukhar, dard, injection, vaccine, suplement","took wrong medicine, overdose, allergic reaction to medicine, child ate medicine, bleeding after taking dawai, severe pain after medicine","The generic term 'dawai' (medicine) is extremely broad and can easily be confused with specific inquiries about vaccines, IFA/calcium supplements, or treatment for specific illnesses like anemia or fever. The model must carefully check for context before defaulting to a general medicine answer."
+Chapter 9,🤰 Maternal Antepartum Care,general_child_care_and_development.md,ISOLATE_GENERAL_CHILDCARE_LANE,148,0.82% of total channel traffic,"Mothers are seeking guidance on how to manage and find safe remedies for common illnesses like cough, cold, fever, and sore throat for themselves or their children.","What Are the Safe and Effective Home Remedies and Treatments for Common Illnesses Like Cough, Cold, and Fever?",COMMON ILLNESS MANAGEMENT,"The writers must provide guidance on identifying symptoms of common illnesses like cough, cold, and fever, suggest safe home care measures, and clearly outline the danger signs that necessitate a visit to a healthcare professional.","[1] (Freq: 2) Sardi,zukham or gala jaam,khansi A rahi hai,toh kon si dawa khaun
+[2] (Freq: 2) Khansi Aaye To Kya Karna chahie
+[3] (Freq: 1) Bukhaar aaya hai to usko kau pilana chahiye.
+[4] (Freq: 1) Khasi se kuch problem to nhi h
+[5] (Freq: 1) Madam Alka Alka Bukhar Bhi Aata Hai","[1] (Count: 2) Sardi,zukham or gala jaam,khansi A rahi hai,toh kon si dawa khaun
+[2] (Count: 2) Khansi Aaye To Kya Karna chahie
+[3] (Count: 1) mujhe jukam bukhar aur khansi liye sar mein dard ho raha hai
+[4] (Count: 1) sardi jukaam mein kya-kya kha sakte hain, kya-kya nahi kha sakte hain
+[5] (Count: 1) Pure badan mein dard ho raha hai bukhar jaisa lag Raha Hai Kya Karen
+[6] (Count: 1) Mujhe 2 din se sardi khasi hoi he aram nahi hora he me kya karo?
+[7] (Count: 1) Or balgam bhi bahut aa raha he or gala darad bhi kar raha he bahut jyada","[1] (Weight: 44 rows) What Are the General Home Remedies for Managing a Cough and Cold?
+[2] (Weight: 30 rows) How Should I Manage a Fever at Home and When Is It Considered High?
+[3] (Weight: 22 rows) Is It Safe to Take Over-The-Counter Medication or Cough Syrup for These Symptoms?
+[4] (Weight: 15 rows) What Are the Recommended Foods to Eat and Avoid When Suffering From a Cold, Cough, or Fever?
+[5] (Weight: 15 rows) What Can I Do to Relieve Specific Symptoms Like a Sore Throat, Body Aches, or a Blocked Nose?
+[6] (Weight: 8 rows) How Long Do These Illnesses Typically Last and What Are the Danger Signs to Watch For?
+[7] (Weight: 7 rows) Are Specific Items Like Vicks, Ginger Tea, or Chicken Soup Safe and Effective?
+[8] (Weight: 7 rows) Why Am I Experiencing Weakness, Body Pain, or Urinary Leakage Along With My Cough?","• That you should avoid certain foods like bananas or rice when you have a cold.
+• That any fever is dangerous and must be treated with strong medicine immediately.
+• That antibiotics are needed for a common cold or viral cough.","Most common colds, coughs, and fevers can be managed at home with rest, hydration, and simple remedies, but it is crucial to watch for specific danger signs that require medical attention.","• General Remedies for Cough and Cold (29.73%): Budget 120 words
+• Fever Management (20.27%): Budget 80 words
+• Medication Safety (14.86%): Budget 60 words
+• Dietary Guidance (10.14%): Budget 40 words
+• Relief for Specific Symptoms (10.14%): Budget 40 words
+• Duration and Danger Signs (5.41%): Budget 25 words
+• Evaluating Home Remedies (4.73%): Budget 20 words
+• Associated Symptoms (4.73%): Budget 20 words","sardi, zukham, khansi, bukhar, gala jaam, dawa, fiver, khaasi, sirdi, jukaam, bhukar, balgam, thandi, searup, kaf","sardi, khasi, bukhar, fever, cough, cold","vaccine, injection, pregnancy, breastfeeding, delivery, newborn, immunization","saans chal rahi hai, bahut tez bukhar, can't breathe, high fever not going down, seizure, unconscious",Queries may overlap with vaccine side effects (fever after injection) or specific pregnancy/breastfeeding concerns (fever during pregnancy). The model must prioritize the absence of these specific contexts to confirm a match for general illness.
+Chapter 10,🤰 Maternal Antepartum Care,government_cash_benefit_schemes.md,ACTIVATE_GOVT_SCHEMES_POOL,130,0.72% of total channel traffic,Mothers are seeking comprehensive information about the various government schemes available for financial assistance and free medical services during pregnancy and for their young children.,What Government Schemes Are Available For Pregnant Women And Children?,GOVERNMENT SCHEMES,"The writers must provide a general overview of both cash benefit and free service government schemes available to pregnant women and mothers of young children, detailing their benefits and eligibility.",[1] (Freq: 130) Yojana ki jaankaari,"[1] (Count: 40) Yojana ki jaankaari
+[2] (Count: 25) sarkari yojana
+[3] (Count: 20) pregnant ke liye scheme
+[4] (Count: 15) government scheme for new mother
+[5] (Count: 12) bacho ke liye yojana
+[6] (Count: 10) PMMVY JSY details
+[7] (Count: 8) free delivery scheme","[1] (Weight: 30 rows) What Cash Benefits Can I Receive From The Government During My Pregnancy?
+[2] (Weight: 25 rows) What Services Are Provided For Free At Government Hospitals For Delivery?
+[3] (Weight: 18 rows) How Do I Apply For The Pradhan Mantri Matru Vandana Yojana (PMMVY)?
+[4] (Weight: 15 rows) Are There Any Government Schemes For My Child's Nutrition?
+[5] (Weight: 12 rows) What Documents Are Required To Register For These Government Schemes?
+[6] (Weight: 10 rows) When Will I Receive The Money From Schemes Like JSY Or PMMVY?
+[7] (Weight: 10 rows) Is The Ambulance Service To The Hospital Free For Pregnant Women?
+[8] (Weight: 10 rows) What Is The Difference Between The JSY And PMMVY Schemes?","• You have to pay a bribe or know someone influential to get benefits from government schemes.
+• These schemes are only available for people who are officially designated as Below Poverty Line (BPL).
+• The money received from cash benefit schemes is a loan that must be repaid to the government later.","The government offers several valuable free services and cash benefits to support your health and your child's, so be sure to ask your ASHA or Anganwadi worker to help you enroll.","• Overview of Cash Benefit Schemes (PMMVY, JSY) (38.46%): Budget 120 words
+• Overview of Free Service Schemes (JSSK) (26.92%): Budget 80 words
+• Application Process and Documentation (23.08%): Budget 70 words
+• Schemes for Child Nutrition and Care (11.54%): Budget 35 words","Yojana, jaankari, jankari, sarkari, sarkari yojana, scheme, labh, faida, paise, madad, government help, pmmvy, jsy, jssk, sarkari hospital","yojana, scheme, sarkari, jsy, pmmvy, jssk","checkup, sonography, vaccine, injection, schedule, hospital address, clinic time","bleeding, can't breathe, no movement, severe pain, unconscious, seizure","Warning: User queries for 'free checkup' or 'free delivery' are core to this cluster but may be misrouted to `pregnancy_care_and_checkups.md` or `childbirth_and_newborn_care.md`. The presence of scheme-specific keywords like 'yojana', 'scheme', 'JSSK', 'JSY' should anchor the query here."

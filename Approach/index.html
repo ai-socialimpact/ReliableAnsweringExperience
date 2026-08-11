@@ -1,18 +1,123 @@
-<html>
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proposed Design Overview</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+        }
+        h1 {
+            color: #2c3e50;
+            border-bottom: 2px solid #ecf0f1;
+            padding-bottom: 10px;
+            margin-top: 40px;
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+        img {
+            display: block;
+            margin: 15px 0;
+            max-width: 100%;
+            height: auto;
+        }
+        .icon {
+            display: inline-block;
+            vertical-align: middle;
+            margin-right: 8px;
+        }
+        .link-block {
+            margin: 15px 0;
+        }
+        a {
+            color: #3498db;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        /* Table Styling */
+        .nav-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 30px;
+            font-size: 0.95rem;
+        }
+        .nav-table th {
+            background-color: #2c3e50;
+            color: #ffffff;
+            text-align: left;
+            padding: 12px;
+        }
+        .nav-table td {
+            padding: 12px;
+            border-bottom: 1px solid #e2e8f0;
+        }
+        .nav-table tr:nth-child(even) {
+            background-color: #f8fafc;
+        }
+    </style>
+</head>
 <body>
 
-test
-https://rawcdn.githack.com/ai-socialimpact/ReliableAnsweringExperience/cb805a05ef57eee1eacab8ba958108fd0368eb71/Approach/whatsapp_3d_skyline_labeled.html
+    <!-- Hyperlink Navigation Table -->
+    <table class="nav-table">
+        <thead>
+            <tr>
+                <th>Resource / Topic</th>
+                <th>Quick Link</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>FAQ Booklet (Top 10 Themes)</td>
+                <td><a href="https://github.io" target="_blank">Open FAQ Booklet - automatically identified after running 12 simulations for the best way to map 18000 questions to 400 FAQ themes </a></td>
+            </tr>
+            <tr>
+                <td>Top X Topics 3D distrbution </td>
+                <td><a href="https://github.io" target="_blank">View 3D interactive - page may load slowly  </a></td>
+            </tr>
+            <tr>
+                <td>Top X Topics Breakdown</td>
+                <td><a href="https://github.io" target="_blank">View Breakdown</a></td>
+            </tr>
+        </tbody>
+    </table>
+
+    <div class="section">
+        <h1>The Bird's Eye View of Proposed Design</h1>
+        <img src="workflow.jpg" width="640" alt="Big picture workflow diagram">
+        
+    </div>
+
+    <div class="section">
+        <h1>The Tool</h1>
+        <p>This tool analyzes the Gliffic Question funnel to identify Frequently Asked Themes/Questions.</p>
+        
+        <img src="overview1.jpg" height="210" alt="Overview" >
+
+        <h2> How it works?     
+        <a href='workflow.html'> Technical design </a> </h2>
+
+        <img src="workflow5.jpg" height="600" alt="how the tool works">
+    </div>
 
 
-new 
-https://ai-socialimpact.github.io/ReliableAnsweringExperience/Approach/whatsapp_3d_skyline_labeled.html
-
-<img src='overview1.jpg' height=110 > </img>
-
-<a href="https://ai-socialimpact.github.io/ReliableAnsweringExperience/Approach/whatsapp_3d_skyline_labeled.html">Click here to view the 3D Skyline Graph</a>
+    <div class="section">
+        <h1>Idenified top 10 topics</h1>
+        <p> frequented Themes/Questions.</p>
+ 
+        
+        <img src="10themes.jpg" height="100" alt="Top 10 themes chart contributing to top X% whatsapp traffic">
+    </div>
 
 </body>
-
 </html>
